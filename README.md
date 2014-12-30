@@ -9,3 +9,4 @@ These functions are NOT rigorously tested and may contain bugs. Please do NOT us
 
 License
 ========
+This work is unde BSD lincese, see LICENSE file.
