@@ -9,4 +9,8 @@ These functions are NOT rigorously tested and may contain bugs. Please do NOT us
 
 License
 ========
-This work is unde BSD lincese, see LICENSE file.
+All contributions by Rutgers, The State University of New Jersey:
+Copyright (c) 2014, The  Rutgers, The State University of New Jersey
+All rights reserved.
+
+This work is under BSD lincese, see LICENSE file.
