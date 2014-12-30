@@ -1,0 +1,9 @@
+C:\Documents and Settings\Magdy\Desktop\GraphTest\GraphTest\obj\Debug\GraphTest.exe
+C:\Documents and Settings\Magdy\Desktop\GraphTest\GraphTest\obj\Debug\GraphTest.pdb
+C:\Documents and Settings\Magdy\Desktop\GraphTest\GraphTest\bin\Debug\GraphTest.exe
+C:\Documents and Settings\Magdy\Desktop\GraphTest\GraphTest\bin\Debug\GraphTest.pdb
+C:\Documents and Settings\Magdy\Desktop\GraphTest\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Magdy\Desktop\GraphTest\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\Documents and Settings\Magdy\Desktop\GraphTest\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\Documents and Settings\Magdy\Desktop\GraphTest\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\Documents and Settings\Magdy\Desktop\GraphTest\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache

@@ -1,0 +1,49 @@
+Concept: ACQUAINTED
+
+DEFINITION	VALUE	a 3-place relation, to represent things like "John knows Paul"
+
+IS-A	VALUE	SCALAR-SOCIAL-OBJECT-ATTRIBUTE
+
+DOMAIN	RELAXABALE-TO	HUMAN
+
+ENGLISH1	MAP-LEX	know-v5
+
+RANGE	RELAXABLE-TO	HUMAN
+
+
+Inherited from: SCALAR-ATTRIBUTE
+
+MEASURED-IN	SEM	MEASURING-UNIT
+
+
+Inherited from: ATTRIBUTE
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

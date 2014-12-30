@@ -1,0 +1,44 @@
+Concept: AGENT
+
+DEFINITION	VALUE	the concept responsible for causing, intentionally, an event; non-intentional causes are instruments; note that the relation caused-by connects two events, not an object and an event
+
+IS-A	VALUE	CASE-ROLE
+
+DOMAIN	SEM	EVENT
+
+ENGLISH1	MAP-LEX	agent-n3
+
+INVERSE	VALUE	AGENT-OF
+
+NOTES	VALUE	on May 7, 2002 we have removed FORCE and ENERGY as possible agents and added ORGANIZATION; FORCE and ENERGY as well as other non-intentional ostensible agents will be treated as INSTRUMENTs (including robots and software)
+
+RANGE	RELAXABLE-TO	DEITY
+	SEM		ANIMAL
+		NATION
+		ORGANIZATION
+		PLANT
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

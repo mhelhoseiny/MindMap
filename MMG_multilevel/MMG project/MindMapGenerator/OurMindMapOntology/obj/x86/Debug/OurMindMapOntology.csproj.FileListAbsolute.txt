@@ -1,0 +1,4 @@
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\OurMindMapOntology\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\OurMindMapOntology\obj\x86\Debug\OurMindMapOntology.FrmOntologyReader.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\OurMindMapOntology\obj\x86\Debug\OurMindMapOntology.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\OurMindMapOntology\obj\x86\Debug\OurMindMapOntology.csproj.GenerateResource.Cache

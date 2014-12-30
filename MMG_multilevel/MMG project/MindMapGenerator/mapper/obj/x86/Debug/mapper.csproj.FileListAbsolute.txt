@@ -1,0 +1,15 @@
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\x86\Debug\mapper.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\x86\Debug\mapper.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\x86\Debug\SyntacticAnalyzer.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\x86\Debug\WordNetClasses.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\x86\Debug\WordsMatching.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\x86\Debug\SyntacticAnalyzer.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\x86\Debug\WordNetClasses.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\x86\Debug\WordsMatching.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\x86\Debug\WordologyManager.FrmEnrich.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\x86\Debug\OntologyLibrary.Test.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\x86\Debug\OntologyLibrary.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\x86\Debug\mapper.csproj.GenerateResource.Cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\x86\Debug\mapper.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\x86\Debug\mapper.pdb

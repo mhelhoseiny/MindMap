@@ -1,0 +1,34 @@
+#!C:\Program Files\ActiveState Perl Dev Kit 6.0\bin\lib\pai.exe
+PAP-Version: 1.0
+Packer: C:\Program Files\ActiveState Perl Dev Kit 6.0\bin\perlctrl.exe
+Script: WSDControl.pl
+Cwd: F:\Project\Work\Program\WSDControl
+Byref: 0
+Clean: 0
+Date: 2006-03-14 20:13:27
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: WSDControl.dll
+Force: 1
+Gui: 0
+Hostname: ESLAM
+No-Compress: 1
+No-Gui: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Singleton: 0
+Tmpdir: 
+Verbose: 0
+Version-Comments: 
+Version-CompanyName: 
+Version-FileDescription: Word Sense Disambiguation Control
+Version-FileVersion: 1.0
+Version-InternalName: WSDControl
+Version-LegalCopyright: 
+Version-LegalTrademarks: 
+Version-OriginalFilename: WSDControl
+Version-ProductName: Word Sense Disambiguation
+Version-ProductVersion: 1.0
+Xclude: 0

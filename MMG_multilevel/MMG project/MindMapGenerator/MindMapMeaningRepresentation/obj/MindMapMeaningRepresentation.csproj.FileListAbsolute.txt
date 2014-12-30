@@ -1,0 +1,220 @@
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\Copy of TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of TMR 5-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 10-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 10-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 10-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 10-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 10-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 10-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 10-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 10-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 10-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 10-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 10-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)1\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)2\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)2\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)2\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)2\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)2\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)2\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)2\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)2\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)2\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)2\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 11-6( filling)2\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR fINAL 11-6( filling)\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR fINAL 11-6( filling)\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR fINAL 11-6( filling)\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR fINAL 11-6( filling)\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR fINAL 11-6( filling)\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR fINAL 11-6( filling)\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR fINAL 11-6( filling)\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR fINAL 11-6( filling)\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR fINAL 11-6( filling)\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR fINAL 11-6( filling)\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR fINAL 11-6( filling)\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\12-6 6,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\12-6 6,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\12-6 6,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\12-6 6,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\12-6 6,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\12-6 6,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\12-6 6,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\12-6 6,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\12-6 6,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\12-6 6,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\12-6 6,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 12-6 7,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 12-6 7,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 12-6 7,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 12-6 7,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 12-6 7,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 12-6 7,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 12-6 7,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 12-6 7,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 12-6 7,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 12-6 7,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 12-6 7,30\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 14-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 14-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 14-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 14-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 14-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 14-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 14-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 14-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 14-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 14-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 14-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 15-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 15-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 15-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 15-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 15-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 15-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 15-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 15-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 15-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 15-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of 15-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 17-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 17-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 17-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 17-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 17-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 17-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 17-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 17-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 17-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 17-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 17-6\MindMapGenerator current\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 18-6-2008 7,20\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 18-6-2008 7,20\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 18-6-2008 7,20\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 18-6-2008 7,20\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 18-6-2008 7,20\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 18-6-2008 7,20\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 18-6-2008 7,20\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 18-6-2008 7,20\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 18-6-2008 7,20\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 18-6-2008 7,20\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\MindMapGenerator 18-6-2008 7,20\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+C:\Documents and Settings\Sara\Desktop\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+C:\Documents and Settings\Sara\Desktop\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\Documents and Settings\Sara\Desktop\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+C:\Documents and Settings\Sara\Desktop\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+C:\Documents and Settings\Sara\Desktop\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+C:\Documents and Settings\Sara\Desktop\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+C:\Documents and Settings\Sara\Desktop\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+C:\Documents and Settings\Sara\Desktop\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+C:\Documents and Settings\Sara\Desktop\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sara\Desktop\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+C:\Documents and Settings\Sara\Desktop\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\22,6\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\22,6\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\22,6\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\22,6\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\22,6\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\22,6\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\22,6\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\22,6\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\22,6\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\22,6\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\22,6\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\MindMapGenerator 22-6-2008  2,49\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\MindMapGenerator 22-6-2008  2,49\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\MindMapGenerator 22-6-2008  2,49\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\MindMapGenerator 22-6-2008  2,49\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\MindMapGenerator 22-6-2008  2,49\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\MindMapGenerator 22-6-2008  2,49\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\MindMapGenerator 22-6-2008  2,49\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\MindMapGenerator 22-6-2008  2,49\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\MindMapGenerator 22-6-2008  2,49\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\MindMapGenerator 22-6-2008  2,49\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\MindMapGenerator 22-6-2008  2,49\MindMapGenerator 20-6-2008  12,30\MindMapGenerator 18-6-2008 7,20\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 22-6-2008 5,18\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 22-6-2008 5,18\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 22-6-2008 5,18\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 22-6-2008 5,18\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 22-6-2008 5,18\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 22-6-2008 5,18\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 22-6-2008 5,18\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 22-6-2008 5,18\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 22-6-2008 5,18\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\MindMapGenerator 22-6-2008 5,18\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 22-6-2008 5,18\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Copy of MindMapGenerator 29-6-2008 11am\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Copy of MindMapGenerator 29-6-2008 11am\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Copy of MindMapGenerator 29-6-2008 11am\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Copy of MindMapGenerator 29-6-2008 11am\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Copy of MindMapGenerator 29-6-2008 11am\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Copy of MindMapGenerator 29-6-2008 11am\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Copy of MindMapGenerator 29-6-2008 11am\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Copy of MindMapGenerator 29-6-2008 11am\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Copy of MindMapGenerator 29-6-2008 11am\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Copy of MindMapGenerator 29-6-2008 11am\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Copy of MindMapGenerator 29-6-2008 11am\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 3-7-2008 (agricultproducts)\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 3-7-2008 (agricultproducts)\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 3-7-2008 (agricultproducts)\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 3-7-2008 (agricultproducts)\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 3-7-2008 (agricultproducts)\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 3-7-2008 (agricultproducts)\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 3-7-2008 (agricultproducts)\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 3-7-2008 (agricultproducts)\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 3-7-2008 (agricultproducts)\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\MindMapGenerator 3-7-2008 (agricultproducts)\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 3-7-2008 (agricultproducts)\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200811,44\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200811,44\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200811,44\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200811,44\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200811,44\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200811,44\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200811,44\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200811,44\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200811,44\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200811,44\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200811,44\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200812,34\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200812,34\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200812,34\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200812,34\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200812,34\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200812,34\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200812,34\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200812,34\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200812,34\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200812,34\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\MindMapGenerator 6-7-200812,34\MindMapGenerator 24-6-2008 8و5\MindMapGenerator\MindMapMeaningRepresentation\obj\Debug\MindMapMeaningRepresentation.pdb

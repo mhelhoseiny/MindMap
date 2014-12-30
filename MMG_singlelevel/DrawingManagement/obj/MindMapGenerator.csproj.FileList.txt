@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MindMapGenerator.Properties.Resources.resources
+obj\Debug\MindMapGenerator.csproj.GenerateResource.Cache
+bin\Debug\MindMapGenerator.exe
+bin\Debug\MindMapGenerator.pdb
+obj\Debug\MindMapGenerator.exe
+obj\Debug\MindMapGenerator.pdb
+obj\Debug\MindMapGenerator.Form1.resources

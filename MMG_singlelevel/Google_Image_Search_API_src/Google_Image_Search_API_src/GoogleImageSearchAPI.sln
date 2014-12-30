@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ilan.Test.Google.API", "Ilan.Test.Google.API\Ilan.Test.Google.API.csproj", "{14CD0D03-591A-479A-9F7E-D8B21685201C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ilan.Google.API", "Ilan.Google.API\Ilan.Google.API.csproj", "{33DAC331-3DA6-4CA5-B5E2-18BD0F92D42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14CD0D03-591A-479A-9F7E-D8B21685201C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CD0D03-591A-479A-9F7E-D8B21685201C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CD0D03-591A-479A-9F7E-D8B21685201C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CD0D03-591A-479A-9F7E-D8B21685201C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DAC331-3DA6-4CA5-B5E2-18BD0F92D42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DAC331-3DA6-4CA5-B5E2-18BD0F92D42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DAC331-3DA6-4CA5-B5E2-18BD0F92D42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DAC331-3DA6-4CA5-B5E2-18BD0F92D42C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

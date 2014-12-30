@@ -1,0 +1,7 @@
+bin\Debug\WordsMatching.dll
+bin\Debug\WordsMatching.pdb
+bin\Debug\WordNetClasses.dll
+bin\Debug\WordNetClasses.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WordsMatching.dll
+obj\Debug\WordsMatching.pdb

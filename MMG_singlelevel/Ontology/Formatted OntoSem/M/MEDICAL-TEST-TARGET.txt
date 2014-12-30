@@ -1,0 +1,38 @@
+Concept: MEDICAL-TEST-TARGET
+
+DEFINITION	VALUE	The thing being looked for by a medical test - to be used together with THEME. For e.g. in FECAL-OCCULT-BLOOD-TEST, the theme is FECES, and the test target is BLOOD.
+
+IS-A	VALUE	MEDICAL-RELATION
+
+DOMAIN	DEFAULT	MEDICAL-TEST
+
+INVERSE	VALUE	TARGETED-BY-MEDICAL-TEST
+
+NOTES	VALUE	Use a script to specify something like "cancerous cell"; with addition of more details in the medical domain we'll be able to get more specific.
+
+RANGE	SEM	ANIMATE-PART
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

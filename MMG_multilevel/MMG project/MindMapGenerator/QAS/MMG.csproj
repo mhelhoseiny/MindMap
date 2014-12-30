@@ -1,0 +1,401 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{04C02E12-55A3-4905-B98D-FD10128C5676}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>QAS</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MMG</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>MMG.Program</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <FileAlignment>4096</FileAlignment>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <Optimize>true</Optimize>
+    <FileAlignment>4096</FileAlignment>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Gif.Components, Version=0.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Gif\Components\bin\Debug\Gif.Components.dll</HintPath>
+    </Reference>
+    <Reference Include="GoogleSearchAPI, Version=0.3.1.107, Culture=neutral, PublicKeyToken=37a8e65b17fcdcbb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\GoogleSearchAPI_0.3.1\GoogleSearchAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.WSD_TypeLib, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\6-3\WindowsApplication1\bin\Debug\Interop.WSD_TypeLib.dll</HintPath>
+    </Reference>
+    <Reference Include="sanddock, Version=1.0.5.1, Culture=neutral, PublicKeyToken=75b7ec17dd7c14c3">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\Debug\sanddock.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="begin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="begin.Designer.cs">
+      <DependentUpon>begin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseParseTreesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseParseTreesForm.Designer.cs">
+      <DependentUpon>ChooseParseTreesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Disambiguation.cs" />
+    <Compile Include="FilterParseTreesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilterParseTreesForm.Designer.cs">
+      <DependentUpon>FilterParseTreesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDisc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GimSearchSettingsDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GimSearchSettingsDlg.Designer.cs">
+      <DependentUpon>GimSearchSettingsDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoogleSearch.cs" />
+    <Compile Include="mm_entity.cs" />
+    <Compile Include="MultiLevelMMapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultiLevelMMapForm.Designer.cs">
+      <DependentUpon>MultiLevelMMapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pics.Designer.cs">
+      <DependentUpon>pics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TMR output.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TMR output.Designer.cs">
+      <DependentUpon>TMR output.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TMRDemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TMRDemo.Designer.cs">
+      <DependentUpon>TMRDemo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TMROutput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="begin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>begin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseParseTreesForm.resx">
+      <DependentUpon>ChooseParseTreesForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilterParseTreesForm.resx">
+      <DependentUpon>FilterParseTreesForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDisc.resx">
+      <DependentUpon>frmDisc.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GimSearchSettingsDlg.resx">
+      <DependentUpon>GimSearchSettingsDlg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiLevelMMapForm.resx">
+      <DependentUpon>MultiLevelMMapForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pics.resx">
+      <DependentUpon>pics.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TMR output.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TMR output.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TMRDemo.resx">
+      <DependentUpon>TMRDemo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TMROutput.resx">
+      <DependentUpon>TMROutput.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Disambiguation\Disambiguation.csproj">
+      <Project>{3593DF66-6BEF-4B82-A0F6-0564ABA96A04}</Project>
+      <Name>Disambiguation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DiscourseAnalysis\DiscourseAnalysis.csproj">
+      <Project>{BB5C7865-CC00-4057-AB64-2B8E9646CDDA}</Project>
+      <Name>DiscourseAnalysis</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DrawingManagement\DrawingManagement.csproj">
+      <Project>{FFB72862-0FA7-4C69-9947-AE32439BE2A7}</Project>
+      <Name>DrawingManagement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Google_Image_Search_API_src\Google_Image_Search_API_src\Ilan.Google.API\Ilan.Google.API.csproj">
+      <Project>{33DAC331-3DA6-4CA5-B5E2-18BD0F92D42C}</Project>
+      <Name>Ilan.Google.API</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GraphicalRepresentation\GoogleImageDrawingEntity.csproj">
+      <Project>{7E3A3A17-B96D-4266-A252-D6D0E72E89A1}</Project>
+      <Name>GoogleImageDrawingEntity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GraphTest\GraphTest.csproj">
+      <Project>{9F5E421D-2DC3-49BF-BC87-1C3C825292DF}</Project>
+      <Name>GraphTest</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\mapper\mapper.csproj">
+      <Project>{75962058-C324-4457-9472-D5ED570A2B3B}</Project>
+      <Name>mapper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MindMapMeaningRepresentation\MindMapMeaningRepresentation.csproj">
+      <Project>{CAD41F94-345D-4AA1-A5D7-C09677798225}</Project>
+      <Name>MindMapMeaningRepresentation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MREditor\MREditor.csproj">
+      <Project>{68E9BE85-4B0C-4D8A-B565-10C424467A5C}</Project>
+      <Name>MREditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MultilevelGenerator\MultilevelGenerator.csproj">
+      <Project>{74934E83-474F-464F-A603-46C3B71ED79D}</Project>
+      <Name>MultilevelGenerator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OntologyConceptsEditor\OntologyConceptsEditor.csproj">
+      <Project>{2F18DA74-1861-4ED3-A530-E61279E15C12}</Project>
+      <Name>OntologyConceptsEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OurMindMapOntology\OurMindMapOntology.csproj">
+      <Project>{9F875CDC-2D22-4217-88EE-85BEB9ACF2C3}</Project>
+      <Name>OurMindMapOntology</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\semanticSemilarity\WordsMatching.csproj">
+      <Project>{CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1}</Project>
+      <Name>WordsMatching</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SyntacticAnalyzer\SyntacticAnalyzer.csproj">
+      <Project>{50265483-4EC6-4A46-8D0D-01900992BBBB}</Project>
+      <Name>SyntacticAnalyzer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViewingManeger\MindMapViewingManegement.csproj">
+      <Project>{F946AF36-8B3D-47B0-8747-E8F3E3A2B16B}</Project>
+      <Name>MindMapViewingManegement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WordNet.Net\WordNet.Net.csproj">
+      <Project>{F12805B0-D74A-4E5B-A482-7C7CCB69D572}</Project>
+      <Name>WordNet.Net</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer-science-mindmap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

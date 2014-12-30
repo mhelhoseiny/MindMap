@@ -1,0 +1,3 @@
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\ViewingManeger\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\ViewingManeger\obj\x86\Debug\ViewingManeger.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\ViewingManeger\obj\x86\Debug\MindMapViewingManegement.csproj.GenerateResource.Cache

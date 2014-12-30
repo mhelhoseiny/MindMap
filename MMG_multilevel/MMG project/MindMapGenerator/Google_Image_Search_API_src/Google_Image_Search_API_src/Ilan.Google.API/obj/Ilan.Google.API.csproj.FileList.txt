@@ -1,0 +1,5 @@
+bin\Debug\Ilan.Google.API.dll
+bin\Debug\Ilan.Google.API.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ilan.Google.API.dll
+obj\Debug\Ilan.Google.API.pdb

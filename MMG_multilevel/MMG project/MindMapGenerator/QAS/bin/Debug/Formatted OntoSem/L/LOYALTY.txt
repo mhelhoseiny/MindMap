@@ -1,0 +1,75 @@
+Concept: LOYALTY
+
+DEFINITION	VALUE	faithful to one's friends, country, ideals, etc.
+
+IS-A	VALUE	SCALAR-ANIMAL-ATTRIBUTE
+
+ENGLISH1	MAP-LEX	dedication-n1
+			dedication-n2
+			devotedness-n1
+			devotedness-n2
+			devotion-n1
+			devotion-n2
+			disloyalty-n1
+			disloyalty-n2
+			faithfulness-n1
+			faithfulness-n2
+			loyalty-n1
+			loyalty-n2
+			traitorousness-n1
+			traitorousness-n2
+			treacherousness-n1
+			treacherousness-n2
+			treachery-n1
+			treachery-n2
+			two-facedness-n1
+			two-facedness-n2
+			unfaithfulness-n1
+			unfaithfulness-n2
+			untrustworthiness-n1
+			untrustworthiness-n2
+
+RANGE	SEM	(<> 0 1)
+
+
+Inherited from: SCALAR-ANIMAL-ATTRIBUTE
+
+DOMAIN	SEM	ANIMAL
+
+
+Inherited from: SCALAR-ATTRIBUTE
+
+MEASURED-IN	SEM	MEASURING-UNIT
+
+
+Inherited from: ATTRIBUTE
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

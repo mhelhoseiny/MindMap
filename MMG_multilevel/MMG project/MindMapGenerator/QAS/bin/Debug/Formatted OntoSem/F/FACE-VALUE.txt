@@ -1,0 +1,47 @@
+Concept: FACE-VALUE
+
+DEFINITION	VALUE	the value written on a bond or a bill or the seeming value of an object
+
+IS-A	VALUE	SCALAR-FINANCIAL-OBJECT-ATTRIBUTE
+
+DOMAIN	SEM	FINANCIAL-OBJECT
+
+ENGLISH1	MAP-LEX	face_value-n1
+
+MEASURED-IN	SEM	MONETARY-UNIT
+
+RANGE	SEM	(> 0)
+
+
+Inherited from: ATTRIBUTE
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+		SEM		RELY-ON
+
+LOCATION-OF	RELAXABLE-TO	RELY-ON
+

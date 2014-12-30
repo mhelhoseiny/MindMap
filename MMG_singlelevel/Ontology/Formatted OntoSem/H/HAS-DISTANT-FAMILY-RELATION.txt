@@ -1,0 +1,41 @@
+Concept: HAS-DISTANT-FAMILY-RELATION
+
+DEFINITION	VALUE	a generalized concept for family relations outside of the most common and close family relations; more relations that further specify other family relations (e.g., second cousin, second cousin twice removed, etc.) can be added later if necessary for reasoning
+
+IS-A	VALUE	FAMILY-RELATION
+
+INVERSE	VALUE	HAS-DISTANT-FAMILY-RELATION
+
+
+Inherited from: FAMILY-RELATION
+
+DOMAIN	SEM	FAMILY-ROLE
+
+RANGE	SEM	FAMILY-ROLE
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+
+NOTES	SEM	ALL
+

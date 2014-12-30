@@ -1,0 +1,731 @@
+Concept: CHANGE-EVENT
+
+DEFINITION	VALUE	An event that represents a change in state, quality, etc., and that can be described in terms of preconditions and after-effects. CHANGE-EVENT is a placeholder that signals that the meaning of the event is expressed in terms of its preconditions and effects. Nothing should be mapped to CHANGE-EVENT that is not described in terms of preconditions and/or effects.
+
+IS-A	VALUE	MENTAL-EVENT
+		PHYSICAL-EVENT
+
+SUBCLASSES	VALUE	ABSENCE-OF-CHANGE-EVENT
+			ADJUST
+			ALTERNATE-EVENT
+			ATTAIN
+			BREAK-DOWN
+			CHAIN-REACTION
+			CORRECT-EVENT
+			DISSOLVE
+			DIVIDE
+			DYE
+			EVOLUTION
+			HYDROGENATE
+			INTEGRATE
+			ORGANIZE
+			OXYGENATE
+			RECYCLE
+			RESTRUCTURE
+			RETROFIT
+
+THEME	SEM	OBJECT
+
+DOMAIN-OF	INV	EFFECT
+
+EFFECT	SEM	EVENT
+		PROPERTY
+
+ENGLISH1	MAP-LEX	abbreviate
+			abort-v2
+			abridge-v1
+			accelerate-v1
+			accelerate-v2
+			acceleration-n1
+			acclimate-v1
+			acclimate-v2
+			acclimatization-n1
+			acclimatize
+			accredit-v1
+			accreditation-n1
+			accrue-v1
+			accrue-v2
+			accumulate
+			accumulation-n1
+			accumulation-n2
+			accustom
+			adapt-v1
+			adaptation-n1
+			add-v19
+			addition-n2
+			adjust-v2
+			adjustment-n2
+			affect-v2
+			age-v1
+			alleviate
+			amass
+			ameliorate-v1
+			amend-v1
+			amendment-n1
+			appreciate-v3
+			appreciation-n2
+			batter-v2
+			become-v1
+			become-v2
+			better-v1
+			betterment-n1
+			boost-v1
+			boost-v2
+			boost-v3
+			break-v5
+			break-v7
+			bud-v1
+			change-n1
+			change-v2
+			civilize-v1
+			climb-v2
+			closure-n1
+			collapse-n2
+			collapse-v2
+			commercialization-n1
+			commercialize-v1
+			complicate-v1
+			condense-v1
+			contaminate-v1
+			contaminate-v2
+			contamination-n1
+			contamination-n2
+			convert-v1
+			convert-v2
+			corrupt-v1
+			cram
+			curtail-v2
+			curtail-v3
+			cut-n1
+			cut-n2
+			cut-v4
+			cutback-n1
+			cutback-n2
+			damage-n2
+			damage-n3
+			damage-v1
+			damage-v2
+			debauch-v1
+			decelerate-v1
+			decelerate-v2
+			deceleration-n1
+			decline-n1
+			decline-v1
+			decline-v2
+			decline-v3
+			decline-v4
+			declining_financial_performance-n1
+			declining_financial_performance-n2
+			declining_market_share-n1
+			declining_market_share-n2
+			decrease-n1
+			decrease-n2
+			decrease-n3
+			decrease-v1
+			decrease-v10
+			decrease-v11
+			decrease-v12
+			decrease-v2
+			decrease-v3
+			decrease-v4
+			decrease-v5
+			decrease-v6
+			decrease-v7
+			decrease-v8
+			decrease-v9
+			deepen-v1
+			depreciate-v1
+			depreciate-v2
+			depreciation-n1
+			deteriorate-v1
+			deteriorate-v2
+			deteriorate-v3
+			deteriorate-v4
+			deterioration-n1
+			devaluate-v1
+			devaluate-v2
+			devaluation-n1
+			devastate-v2
+			diminish-v1
+			diminish-v2
+			diminish-v3
+			diminish-v4
+			diminish-v5
+			diminution-n1
+			disarm-v1
+			disarm-v2
+			double-v1
+			double-v2
+			downgrade-n1
+			downgrade-v1
+			downturn
+			drain-v1
+			drop
+			drop-n2
+			drop-v1
+			dwindle-v1
+			dwindle-v2
+			dwindle-v3
+			ease-v1
+			ease-v2
+			empty-v1
+			enhance-v1
+			enhancement-n1
+			enrich-v1
+			enrichment-n1
+			expand-v1
+			expand-v2
+			expand-v3
+			expand-v4
+			expand-v6
+			expand-v7
+			expansion-n1
+			extend-v5
+			extend-v7
+			extension-n1
+			fall-n2
+			fall-v1
+			fall-v2
+			fall-v5
+			fester-v1
+			fill-v1
+			fill-v4
+			gain-n2
+			gain-v1
+			gain-v5
+			get-v16
+			get-v18
+			go-v26
+			go-v27
+			go-v35
+			grow-v1
+			grow-v5
+			grow-v6
+			habituate
+			improve-v1
+			improve-v2
+			improve-v3
+			improve-v4
+			improve-v5
+			improve-v6
+			improve-v7
+			improve-v8
+			improvement-n1
+			inch-v2
+			incorporate-v1
+			incorporate-v2
+			incorporation-n1
+			incorporation-n2
+			increase-n1
+			increase-n2
+			increase-n3
+			increase-v1
+			increase-v10
+			increase-v11
+			increase-v12
+			increase-v2
+			increase-v3
+			increase-v4
+			increase-v5
+			increase-v6
+			increase-v7
+			increase-v8
+			increase-v9
+			infect-v1
+			infuse-v1
+			infuse-v2
+			infusion-n1
+			intensify-v1
+			intensify-v2
+			intensify-v3
+			intensify-v4
+			intensify-v5
+			intensify-v6
+			intensify-v7
+			interruption-n1
+			jam
+			jump-n1
+			jump-v1
+			lessen-v1
+			lessen-v2
+			lessen-v3
+			lessen-v4
+			lock-v1
+			lose-v1
+			lower-v1
+			lower-v2
+			make-v5
+			materialize-v2
+			metamorphosis-n1
+			mount-v3
+			name-v2
+			name-v3
+			pack
+			pass-v21
+			perfect-v1
+			pervert-v1
+			pick-v10
+			plunge-v1
+			plunge-v2
+			pollute-v1
+			pollute-v2
+			pollution-n1
+			popularize-v1
+			progress-n1
+			progress-v1
+			put-v11
+			quadruple-v1
+			quadruple-v2
+			raise-v1
+			rally-n1
+			rally-n2
+			rally-v5
+			rally-v6
+			rebound-n1
+			rebound-v2
+			recover-v3
+			recover-v4
+			recovery-n3
+			reduce-v1
+			reduce-v2
+			reduce-v3
+			reduce-v4
+			reduction-n1
+			refine-v1
+			refine-v2
+			refinement-n1
+			refinement-n2
+			rid-v1
+			rise-v1
+			shape-v1
+			sharpen-v1
+			shorten
+			simplification-n1
+			simplify-v1
+			slide-n2
+			slide-n3
+			slide-v3
+			slow-v1
+			slow-v2
+			slow-v3
+			slow-v4
+			soar-v1
+			speed-v1
+			speed-v2
+			stem-v2
+			strengthen-v1
+			strengthen-v2
+			strengthen-v3
+			strengthen-v4
+			strengthen-v5
+			strengthen-v6
+			strengthen-v7
+			strengthen-v8
+			stuff-v1
+			take-v26
+			tax_break-n1
+			transition-n1
+			transition-v1
+			triple-v1
+			triple-v2
+			tumble-v1
+			tumble-v2
+			turn-v21
+			unlock-v1
+			upgrade-n1
+			upgrade-v1
+			wake-v3
+			wake-v4
+			whip-v2
+			worsen-v1
+			worsen-v2
+
+
+Inherited from: MENTAL-EVENT
+
+AGENT	RELAXABLE-TO	ORGANIZATION
+	SEM		ANIMAL
+
+
+Inherited from: PHYSICAL-EVENT
+
+INSTRUMENT	DEFAULT	DEVICE
+		SEM	OBJECT
+			PHYSICAL-OBJECT
+
+ABOVE	SEM	PHYSICAL-EVENT
+		PHYSICAL-OBJECT
+
+ACROSS	SEM	PHYSICAL-EVENT
+		PHYSICAL-OBJECT
+
+ACROSS-FROM	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+BEHIND	SEM	PHYSICAL-EVENT
+		PHYSICAL-OBJECT
+
+BELOW-AND-TOUCHING	SEM	PHYSICAL-EVENT
+				PHYSICAL-OBJECT
+
+BESIDE	SEM	PHYSICAL-EVENT
+		PHYSICAL-OBJECT
+
+CENTER-OF	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+CONTROLS	SEM	ARTIFACT
+			NATURAL-OBJECT
+			SOCIAL-ROLE
+
+CONVERGE	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+EAST-OF	SEM	PHYSICAL-EVENT
+		PHYSICAL-OBJECT
+
+ENCLOSES	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+HAS-CENTER	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+IN-FRONT-OF	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+INSIDE-OF	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+LEFT-OF	SEM	PHYSICAL-EVENT
+		PHYSICAL-OBJECT
+
+LOCATION	SEM	PLACE
+
+NORTH-OF	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+ON-TOP-OF	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+RIGHT-OF	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+SAFETY-ATTRIBUTE	VALUE	(<>0 1)
+
+SOUTH-OF	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+SURROUNDED-BY	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+SURROUNDS	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+
+UNDER	SEM	PHYSICAL-EVENT
+		PHYSICAL-OBJECT
+
+WEST-OF	SEM	PHYSICAL-EVENT
+		PHYSICAL-OBJECT
+
+
+Inherited from: EVENT
+
+THEME-OF	SEM	EVENT
+
+INSTRUMENT-OF	SEM	EVENT
+
+BENEFICIARY	SEM	ANIMAL
+			SOCIAL-OBJECT
+
+SOURCE	SEM	EVENT
+		OBJECT
+
+SOURCE-OF	SEM	EVENT
+			OBJECT
+
+DESTINATION	DEFAULT	PLACE
+		RELAXABLE-TO	EVENT
+				PHYSICAL-OBJECT
+
+DESTINATION-OF	SEM	EVENT
+			OBJECT
+
+PATH	SEM	MENTAL-OBJECT
+		PHYSICAL-OBJECT
+		PLACE
+
+PURPOSE	SEM	EVENT
+
+PURPOSE-OF	SEM	EVENT
+
+ABOUT-AS-TOPIC	SEM	EVENT
+			OBJECT
+
+ABSOLUTE-DAY	SEM	ANY-NUMBER
+
+ABSOLUTE-DAY-OF-THE-WEEK	SEM	OBJECT
+
+ABSOLUTE-MONTH	NOT	MONTH
+
+ACCURACY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+ACCURACY-ATTRIBUTE	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+AGGRESSION	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+ALTERNATIVE	SEM	EVENT
+
+ALTERNATIVE-OF	SEM	EVENT
+
+AMPLITUDE-OF-CONTRACTION	SEM	(<> 0 1)
+					ANY-NUMBER
+					ANY-RANGE
+
+CARDINALITY	SEM	(> 0)
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CHANGE-IN-FREQUENCY-RELATIVE	SEM	LESS-FREQUENT
+					MORE-FREQUENT
+					NO-CHANGE
+
+COMPLEXITY	SEM	(<> 0 1)
+
+CONTRAST	SEM	ALL
+
+CONTROLLED-BY	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+			SOCIAL-EVENT
+			SOCIAL-ROLE
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DIFFICULTY-ATTRIBUTE	SEM	(<> 0 1)
+
+DOMAIN-OF	RELAXABLE-TO	ALTERNATIVE
+				SECRECY-ATTRIBUTE
+				TRUTH-VALUE
+				TRUTH-VALUE
+		SEM		ABSOLUTE-DAY
+			ABSOLUTE-DAY-OF-THE-WEEK
+			ABSOLUTE-MONTH
+			HAS-LOWER-LIMIT
+			HAS-UPPER-LIMIT
+			INVOLVES-OBJECT
+			MEASURES-PROPERTY
+			OUTSIDE-OF
+			PRECISION-ATTRIBUTE
+			REPRESENTS
+			SPATIAL-DISTANCE
+			STATE-OF-AFFAIRS
+			TEMPORAL-DISTANCE
+
+DURATION	SEM	ANY-NUMBER
+
+ENABLED-BY	SEM	ALL
+
+ENABLEMENT	SEM	ALL
+
+EVALUATED-ACCORDING-TO	SEM	ALL
+
+EVALUATION-STANDARD-FOR	SEM	ALL
+
+FAME-ATTRIBUTE	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+FORMALITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+FREQUENCY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+GENUINENESS	SEM	NO
+			YES
+
+HAS-CEO	RELAXABLE-TO	HUMAN
+
+HAS-CFO	RELAXABLE-TO	HUMAN
+
+HAS-COMPETITOR	RELAXABLE-TO	ORGANIZATION
+
+HAS-COO	RELAXABLE-TO	HUMAN
+
+HAS-CORPORATE-DIVISION	SEM	ALL
+
+HAS-CREDITOR	RELAXABLE-TO	CREDITOR
+
+HAS-EVENT-AS-PART	SEM	EVENT
+
+HAS-LOWER-LIMIT	SEM	ANY-NUMBER
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+HAS-UPPER-LIMIT	SEM	ANY-NUMBER
+
+HUMOR-ATTRIBUTE	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+INTENSITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+INVOLVES-OBJECT	SEM	OBJECT
+
+MEASURES-PROPERTY	SEM	PROPERTY
+
+MEDICAL-EVENT-RISK	SEM	HIGH
+				LOW
+				MEDIUM
+
+MYOGENIC-TONE	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+NOVELTY	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+OBJECT-INVOLVED	SEM	OBJECT
+			ORGANIZATION
+
+OBJECTIVITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+ONSET-DELAY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+ORDERLINESS	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+ORDINALITY	VALUE	(> 0)
+
+OUTSIDE-OF	SEM	OBJECT
+
+PAIN-TYPE	SEM	1
+
+PART-OF-EVENT	SEM	EVENT
+
+PRECISION-ATTRIBUTE	SEM	(<> 0 1)
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PRECONDITION-OF	SEM	EVENT
+			PROPERTY
+
+PRESSURE-FROM-INGESTIBLE-TYPE	SEM	(<> 0 10)
+
+PROBABILITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+PRODUCED-BY	SEM	ANIMATE
+			ARTIFACT
+			ELECTRICITY
+			ORGANIZATION
+			SOCIAL-OBJECT
+
+QUALITY	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+RANGE-OF	SEM	ALL
+
+RAPIDITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+RATE	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+READINESS	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+REPRESENTED-BY	SEM	EVENT
+			OBJECT
+
+REPRESENTS	NOT	PHYSICAL-OBJECT
+		SEM	EVENT
+			OBJECT
+
+SECRECY-ATTRIBUTE	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+SIMILARITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+SPATIAL-DISTANCE	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+STABILITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+STATE-OF-AFFAIRS	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+STATE-OF-INCORPORATION	RELAXABLE-TO	STATE
+
+SYMMETRY	SEM	1
+
+TEMPORAL-DISTANCE	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+TENSION	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+TIME-BEGIN	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+TIME-END	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+TOPIC-OF	NOT	EVENT
+		SEM	OBJECT
+
+TRUTH-VALUE	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+TYPICALNESS-ATTRIBUTE	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+USEFULNESS	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+VALIDATED	SEM	NO
+			YES
+
+VOLITIONAL	SEM	1
+
+
+Inherited from: ALL
+
+NOTES	SEM	ALL
+

@@ -1,0 +1,28 @@
+D:\GP\our work\trial integratoin discourse 16-3\Program2\semanticSemilarity\bin\Debug\WordsMatching.dll
+D:\GP\our work\trial integratoin discourse 16-3\Program2\semanticSemilarity\bin\Debug\WordsMatching.pdb
+D:\GP\our work\trial integratoin discourse 16-3\Program2\semanticSemilarity\bin\Debug\WordNetClasses.dll
+D:\GP\our work\trial integratoin discourse 16-3\Program2\semanticSemilarity\bin\Debug\WordNetClasses.pdb
+D:\GP\our work\trial integratoin discourse 16-3\Program2\semanticSemilarity\obj\Debug\ResolveAssemblyReference.cache
+D:\GP\our work\trial integratoin discourse 16-3\Program2\semanticSemilarity\obj\Debug\WordsMatching.dll
+D:\GP\our work\trial integratoin discourse 16-3\Program2\semanticSemilarity\obj\Debug\WordsMatching.pdb
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordsMatching.dll
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordsMatching.pdb
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordNetClasses.dll
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordNetClasses.pdb
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\obj\Debug\ResolveAssemblyReference.cache
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\obj\Debug\WordsMatching.dll
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\obj\Debug\WordsMatching.pdb
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\obj\Debug\ResolveAssemblyReference.cache
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\obj\Debug\WordsMatching.dll
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordsMatching.dll
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordsMatching.pdb
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordNetClasses.dll
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordNetClasses.pdb
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\obj\Debug\WordsMatching.pdb
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordsMatching.dll
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordsMatching.pdb
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordNetClasses.dll
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\bin\Debug\WordNetClasses.pdb
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\obj\Debug\ResolveAssemblyReference.cache
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\obj\Debug\WordsMatching.dll
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\semanticSemilarity\obj\Debug\WordsMatching.pdb

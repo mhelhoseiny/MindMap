@@ -1,0 +1,30 @@
+piano ba2et tetla3 bs 3'alat.
+
+at2aked mn el 3ak beta3 el discourse ely 3amalto. (law fe kaza parse tree lel same sentence)
+
+n add el refered noun ely ben refer lel parse trees ely mat3amalhash assigment lel discourse feha ,
+ el kalam da 3shan aslan piano malhash sense w it betrefer 3aliha f howa ma3refsh y refer liha 3ala eh..
+
+word net msh 7elw 5ales :S
+
+not only n,v,adj,adv ely a5odhom.
+
+azabat el pathes 
+
+a3mel modification fel awel 3ala parsetrees arr
+
+
+
+info:
+------
+changes in parser , frmmain , disambiguate
+GetWordString in parser bs we don't need it any more
+simplified parse tree =modified parse (parse tree)
+
+
+new tasks:
+using the 
+make fn takes text , out bitmap
+
+searchresponse
+

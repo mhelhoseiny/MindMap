@@ -1,0 +1,5 @@
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\WordNet.Net\bin\x86\Debug\WordNetClasses.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\WordNet.Net\bin\x86\Debug\WordNetClasses.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\WordNet.Net\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\WordNet.Net\obj\x86\Debug\WordNetClasses.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\WordNet.Net\obj\x86\Debug\WordNetClasses.pdb

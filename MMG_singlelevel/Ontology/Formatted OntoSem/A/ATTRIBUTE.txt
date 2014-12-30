@@ -1,0 +1,44 @@
+Concept: ATTRIBUTE
+
+DEFINITION	VALUE	properties that are mappings from ontological concepts (or sets of ontological concepts -- as in the case of 'distance' that is a mapping from exactly two entities into a number) into a range of values, either numerical or literal
+
+IS-A	VALUE	PROPERTY
+
+SUBCLASSES	VALUE	LITERAL-ATTRIBUTE
+			SCALAR-ATTRIBUTE
+			VALIDATED
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+RANGE	SEM	ALL
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN	SEM	EVENT
+		OBJECT
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

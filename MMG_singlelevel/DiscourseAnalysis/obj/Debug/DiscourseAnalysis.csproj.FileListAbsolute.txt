@@ -1,0 +1,23 @@
+E:\DR 7amdy\MindMapGenerator 22-6-2008 7,20(radwa)\MindMapGenerator\DiscourseAnalysis\bin\Debug\DiscourseAnalysis.dll
+E:\DR 7amdy\MindMapGenerator 22-6-2008 7,20(radwa)\MindMapGenerator\DiscourseAnalysis\bin\Debug\DiscourseAnalysis.pdb
+E:\DR 7amdy\MindMapGenerator 22-6-2008 7,20(radwa)\MindMapGenerator\DiscourseAnalysis\bin\Debug\SyntacticAnalyzer.dll
+E:\DR 7amdy\MindMapGenerator 22-6-2008 7,20(radwa)\MindMapGenerator\DiscourseAnalysis\bin\Debug\WordNetClasses.dll
+E:\DR 7amdy\MindMapGenerator 22-6-2008 7,20(radwa)\MindMapGenerator\DiscourseAnalysis\bin\Debug\SyntacticAnalyzer.pdb
+E:\DR 7amdy\MindMapGenerator 22-6-2008 7,20(radwa)\MindMapGenerator\DiscourseAnalysis\bin\Debug\WordNetClasses.pdb
+E:\DR 7amdy\MindMapGenerator 22-6-2008 7,20(radwa)\MindMapGenerator\DiscourseAnalysis\obj\Debug\ResolveAssemblyReference.cache
+E:\DR 7amdy\MindMapGenerator 22-6-2008 7,20(radwa)\MindMapGenerator\DiscourseAnalysis\obj\Debug\DiscourseAnalysis.Properties.Resources.resources
+E:\DR 7amdy\MindMapGenerator 22-6-2008 7,20(radwa)\MindMapGenerator\DiscourseAnalysis\obj\Debug\DiscourseAnalysis.csproj.GenerateResource.Cache
+E:\DR 7amdy\MindMapGenerator 22-6-2008 7,20(radwa)\MindMapGenerator\DiscourseAnalysis\obj\Debug\DiscourseAnalysis.dll
+E:\DR 7amdy\MindMapGenerator 22-6-2008 7,20(radwa)\MindMapGenerator\DiscourseAnalysis\obj\Debug\DiscourseAnalysis.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\bin\Debug\DiscourseAnalysis.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\bin\Debug\DiscourseAnalysis.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\bin\Debug\SyntacticAnalyzer.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\bin\Debug\WordNetClasses.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\bin\Debug\SyntacticAnalyzer.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\bin\Debug\WordNetClasses.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\obj\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\obj\Debug\DiscourseAnalysis.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\obj\Debug\ResGen.read.1.tlog
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\obj\Debug\ResGen.write.1.tlog
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\obj\Debug\DiscourseAnalysis.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\DiscourseAnalysis\obj\Debug\DiscourseAnalysis.pdb

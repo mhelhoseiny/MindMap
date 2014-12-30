@@ -1,0 +1,2378 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+    xmlns:owl2xml="http://www.w3.org/2006/12/owl2-xml#"
+    xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+    xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+    xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:OntologyAll="http://www.semanticweb.org/ontologies/2009/3/OntologyAll.owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xml:base="http://www.semanticweb.org/ontologies/2009/3/OntologyAll.owl">
+  <owl:Ontology rdf:about=""/>
+  <owl:Class rdf:ID="BECOMEPHYSICIAN">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEPHYSICIAN-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEPHYSICIAN</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEPHYSICIAN</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Work"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="MILITARY-ACTIVITY">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MILITARY-ACTIVITY</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="WORK-ACTIVITY"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Various work activities of the military.</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Design">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Design-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Design</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Design</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="NAME">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >NAME</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >NAME</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >NAME-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="LEAVE">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LEAVE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LEAVE-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LEAVE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="KILL">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >KILL</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >KILL-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Life"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >KILL</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="POSSESSION-EVENT">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >POSSESSION-EVENT</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="SOCIAL-EVENT"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >an event in which the having or transferring of possessions is central</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="REBUILD">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REBUILD</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REBUILD</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REBUILD-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="SUFFER">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SUFFER</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SUFFER</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SUFFER-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="CALL">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CALL-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CALL</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CALL</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="SUPPORT">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SUPPORT-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SUPPORT</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SUPPORT</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="COnquer">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Conquer-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COnquer</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Conquer</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="EARN">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >earn-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EARN</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Earn something</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="TRAVEL">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >TRAVEL-v1
+TRAVEL_TO-v1
+TRAVELLED_TO-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >TRAVEL</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >TRAVEL</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEDirector">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEDirector</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEDirector-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEDirector</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BeginResearch">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BeginResearch</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BeginResearch-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BeginResearch</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="LAND">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LAND-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LAND</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LAND</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="ManuFacture">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ManuFacture</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ManuFacture</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ManuFacture-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="INSTRUMENT">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INSTRUMENT</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="CASE-ROLE"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Objects or events used to implement acts--'He cut the bread with a knife,' 'He became rich by marrying her.'</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMELEADER">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELEADER</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELEADER-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELEADER</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="PERFORM">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >perform-v3</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PERFORM</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="ATTACH">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ATTACH-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ATTACH</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ATTACH</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="INVADE">
+    <rdfs:subClassOf rdf:resource="#MILITARY-ACTIVITY"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INVADE</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Control">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Control</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Control-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Control</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="DISMISS">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DISMISS-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DISMISS</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DISMISS</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="DEDICATE">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DEDICATE</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DEDICATE</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DEDICATE-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="Defend">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Defend</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Defend-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Defend</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Write">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >write-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Writings</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="reassert">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >reassert</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >reassert</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >reassert-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="CONDEMN">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CONDEMN</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CONDEMN-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CONDEMN</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMELovers">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >becomeLovers-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOME Lovers</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELovers</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Open">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Open-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Open</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Open</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PRESIDENCY">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PRESIDENCY</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PRESIDENCY</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="AbstractObjjects"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PRESIDENCY-n2</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="OBJECT-RELATION">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >OBJECT-RELATION</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="RELATION"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMESECOFSTATE">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMESECOFSTATE</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMESECRETARY_OF_STATE-v1
+BECOMESECRETARY_OF_STATE-v3</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMESECOFSTATE</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Working">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Work</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Work-v1
+WORK_AT-v1
+WORKED_AT-v1
+WORK_IN-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Work</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="INVENTOR">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INVENTOR</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INVENTOR-n1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INVENTOR</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="HUMAN"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="LOSE">
+    <rdfs:subClassOf rdf:resource="#POSSESSION-EVENT"/>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="TRANSFER-POSSESSION"/>
+    </owl:disjointWith>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LOSE</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >To lose an object.</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="REPLACE">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REPLACE</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REPLACE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REPLACE-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="BUSINESS-ACTIVITY">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BUSINESS-ACTIVITY</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#WORK-ACTIVITY"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Business events are a subclass of social events and include the various events in running a business.</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="INVOLVE">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INVOLVE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >involve-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INVOLVE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="GO">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GO</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GO-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GO</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="EDUCATE">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EDUCATE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EDUCATE-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EDUCATE</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#HUMAN">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PHILIP_II-n1
+OLYMPIAS-n1
+ALFRED_NOBEL-n1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="OBJECTS"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >HUMAN</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >HUMAN</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="ONTOLOGY-SLOT">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="PROPERTY"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ONTOLOGY-SLOT</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMESURVEYOR">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMESURVEYOR</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMESURVEYOR-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMESURVEYOR</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="NURSE">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >NURSE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >NURSE-v3</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >NURSE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Father">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Father</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >father-n1
+father-n4</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#HUMAN"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Father</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="JOIN">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >JOIN-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >JOIN</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >JOIN</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Oppose">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Oppose</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Oppose</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Oppose-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="ACCEPT">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ACCEPT-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ACCEPT</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ACCEPT</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Introduce">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Introduce</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Introduce-v3</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Introduce</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Exile">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Exile-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Exile</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Exile</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="OCCUPY">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >OCCUPY</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >OCCUPY-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >OCCUPY</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="EXTRACT">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXTRACT</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXTRACT-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXTRACT</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="FIELD">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >FIELD</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >FIELD</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >FIELD-n1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="OFFER">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >OFFER</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >OFFER</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >OFFER-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="Marriage">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Marry</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Marriage</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Marry-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEARTIST">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEARTIST-v1
+BECOMEARTIST-v3
+ARTIST-n1
+ARTISTS-n1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEARTIST</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEARTIST</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="PERSONAL-DATA">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PERSONAL-DATA</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >the root of the tree that includes relations describing the names of people and organizations, contact information, birth information, etc.</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#RELATION"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="CLEAN">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="COMMONPLACE-SERVICE-EVENT"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >clean-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CLEAN</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Face">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Face</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >FAce-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Face</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="ACADEMIC-ACTIVITY">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#WORK-ACTIVITY"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ACADEMIC-ACTIVITY</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Work-activity that goes on in the academic community: teaching, publishing, research, etc.</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMECit">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMECITIZEN</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >becomeCitizen-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOME CITIZEN</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="REIGN">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REIGN-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REIGN</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REIGN</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="IS">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >have the quality of being</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >is-v1
+was-v1
+were-v1
+are-v1
+am-v1
+be-v1
+was-v3
+be-v3</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.w3.org/2002/07/owl#Thing">
+    <OntologyAll:_ISOBJECT rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISOBJECT>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >refers to concept defined in the knowledge base</OntologyAll:DEFINITION>
+    <OntologyAll:_ISACTION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISACTION>
+    <OntologyAll:_ISPERSON rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISPERSON>
+    <OntologyAll:_ISTIME rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISTIME>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >THING</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="DISCOVER">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DISCOVER</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DISCOVER-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DISCOVER</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Research">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Research</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Research</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Research-v1
+Research-n1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="CLOSE-BUSINESS">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CLOSE-BUSINESS</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#BUSINESS-ACTIVITY"/>
+  </owl:Class>
+  <owl:Class rdf:about="#CASE-ROLE">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CASE-ROLE</rdfs:label>
+    <owl:disjointWith rdf:resource="#PERSONAL-DATA"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >The roles arguments can have in a situation described by a predicate.</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#RELATION"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Attend">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ATTEND</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ATTEND-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ATTEND</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:about="#PROPERTY">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PROPERTY</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >refers to the properties of entities or their states.</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="WASH">
+    <OntologyAll:_ISPERSON rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISPERSON>
+    <OntologyAll:_ISOBJECT rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISOBJECT>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WASH</rdfs:label>
+    <OntologyAll:_ISLOCATION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISLOCATION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >wash-v1
+wash-v2
+wash-v3
+wash-n2</OntologyAll:MAPLEX>
+    <OntologyAll:_ISTIME rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISTIME>
+    <OntologyAll:_ISACTION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >true</OntologyAll:_ISACTION>
+    <rdfs:subClassOf rdf:resource="#CLEAN"/>
+  </owl:Class>
+  <owl:Class rdf:ID="RETURN">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Return-v1
+Return-v3</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RETURN</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RETURN</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMECit_2">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEBLIND</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOME CITIZEN</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEBLIND-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="PAINT">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PAINT-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PAINT</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PAINT</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="SPENDING">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SPEND-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SPENDING</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SPEND</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Limit">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Limit</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Limit</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Limit-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="IMPRISON">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >IMPRISON-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >IMPRISON</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >IMPRISON</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="SHARE">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SHARE-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXCESHAREED</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SHARE</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:ID="PROPEL">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PROPEL-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PROPEL</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PROPEL</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BUILD">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >build-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >build</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Build</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Redress">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Redress</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Redress-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Redress</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="MOVE">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MOVE</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MOVE-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MOVE</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="MOVE_BETWEEN">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MOVE_BETWEEN</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MOVE_BETWEEN-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Life"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MOVE_BETWEEN</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="DECLARE">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DECLARE-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DECLARE</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DECLARE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="COMPILE">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COMPILE-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COMPILE</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COMPILE</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#Life">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PERSONAL LIFE</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="PHYSICAL-EVENT"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="WAR-ACTIVITY">
+    <rdfs:subClassOf rdf:resource="#MILITARY-ACTIVITY"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WAR-ACTIVITY</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="WorkingON">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WorkingON</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Work"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WORK_ON-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WorkingON</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Broher">
+    <rdfs:subClassOf rdf:resource="#HUMAN"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >brother-n1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Mother</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >brother</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:about="#Work">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WORK</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PHYSICAL-EVENT"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#COMMONPLACE-SERVICE-EVENT">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="SERVICE-EVENT"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COMMONPLACE-SERVICE-EVENT</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Develop">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Develop-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Develop</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Develop</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="GRADUATE">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GRADUATE</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GRADUATE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GRADUATE-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+  </owl:Class>
+  <owl:Class rdf:ID="HEAL">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >treating-v1
+treat-v1
+treating-v2
+treat-v2
+treating-v3
+treat-v3</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="MEDICAL-PROCEDURE"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >HEAL</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#OBJECTS">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EVENT</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >any activity, action, happening, or situation</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >accomplishment-n1
+achievement-n1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEBLINDMan">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEBLIND-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEBLIND</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEBLIND</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="SEND">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SEND</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SEND-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SEND</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Elect">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Elect</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Elect</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Elect-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="Time">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Time-n1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Time</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Time</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="LEARN">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LEARN</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LEARN-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LEARN</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="PERFORM-SURGERY">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PERFORM-SURGERY</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#MEDICAL-PROCEDURE"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >A type of medical service where the internal organs of an animal are cut open using instruments to treat diseases or injuries.</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="CREATE">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CREATE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CREATE-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CREATE</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:about="#PHYSICAL-EVENT">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PHYSICAL-EVENT</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >events involving physical force</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="LIVE">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LIVE</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >live-v1
+live_in-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LIVE</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BookSeller">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BookSeller</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#HUMAN"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BookSeller</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BookSeller-n1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="GET">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GET</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GET</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GET-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+  </owl:Class>
+  <owl:Class rdf:ID="EXCEED">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXCEED-v3</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXCEED</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXCEED</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:ID="BIRTH">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BORN</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BEAR  something</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >bear-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEMember">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEMember</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEMember-v3</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEMember</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="GROW_UP">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GROW_UP</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GROW_UP-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GROW_UP</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+  </owl:Class>
+  <owl:Class rdf:ID="INVENT">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INVENT</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INVENT</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >invent-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEFELLOW">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEFELLOW</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEFELLOW-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEFELLOW</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Mother">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Mother</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#HUMAN"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Mother</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >mother-n1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="WIn">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Win</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Win-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Win</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Consult">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Consult</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Consult-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Consult</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="SERVING">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SERVING</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SERVE-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SERVING</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:about="#MEDICAL-PROCEDURE">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="PROFESSIONAL-SERVICE-EVENT"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MEDICAL-PROCEDURE</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >service-events that are related to the field of medicine such as healing, diagnosing, etc.</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="STUDY">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >study-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >STUDY</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >STUDY</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+  </owl:Class>
+  <owl:Class rdf:ID="LOVE">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Earn something</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >love-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LOVE</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+  </owl:Class>
+  <owl:Class rdf:ID="SERVE">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SERVE</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#COMMONPLACE-SERVICE-EVENT"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEFigure">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEFigure-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEFigure</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEFigure</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEProvince">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEProvince</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEProvince</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEProvince-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="RECORD">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RECORD-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RECORD</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RECORD</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="CONTAINS">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CONTAINS</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#OBJECT-RELATION"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >include-v1
+contain-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="MEET">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MEET-v4</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MEET</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MEET</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="VISIT">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >VISIT-v5</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >VISIT</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >VISIT</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMECaptial">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMECaptial-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMECaptial</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMECaptial</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="INTRODUCE">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INTRODUCE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INTRODUCE-v 1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INTRODUCE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="INVASION">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INVASION</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INVADE</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INVADE-v1
+INVADED-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="Train">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Train</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Train-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Train</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="SUCCEED">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SUCCEED</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SUCCEED-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SUCCEED</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="EXECUTE">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXECUTE</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXECUTE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXECUTE-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="WORSHIP">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WORSHIP</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WORSHIP</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WORSHIP-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="ENTITLE">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ENTITLE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ENTITLE-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ENTITLE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Lose">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Lose-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Lose</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Lose</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="INTEREST">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INTEREST-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INTEREST</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INTEREST</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="EXPERIMENTATION">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXPERIMENTATION</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXPERIMENTATION</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXPERIMENTATION-n5</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="SETUP">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SETUP</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SET_UP-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SETUP</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="ORGANISE">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ORGANISE</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ORGANISE-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ORGANISE</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="ESTABLISH">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ESTABLISH</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ESTABLISH-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ESTABLISH</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="ENTER">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ENTER-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ENTER</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ENTER</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="CONCENTRATE">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CONCENTRATE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CONCENTRATE-v1
+CONCENTRATE_ON-v1
+CONCENTRATED_ON-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CONCENTRATE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="READ">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >READ</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >READ-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >READ</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="EMIGRATE">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Emigrated</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >emigrate-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EMIGRATE</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="LAYIN">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LAYIN</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LIE_IN-v1
+LAY_IN-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LAYIN</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#TRANSFER-POSSESSION">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >an event involving the transfer of ownership of objects</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >TRANSFER-POSSESSION</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#POSSESSION-EVENT"/>
+  </owl:Class>
+  <owl:Class rdf:ID="ATTRIBUTE">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ATTRIBUTE</rdfs:label>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#RELATION"/>
+    </owl:disjointWith>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >properties that are mappings from ontological concepts (or sets of ontological concepts -- as in the case of 'distance' that is a mapping from exactly two entities into a number) into a range of values, either numerical or literal</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#PROPERTY"/>
+  </owl:Class>
+  <owl:Class rdf:about="#RELATION">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >a property that connects two or more concepts</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RELATION</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PROPERTY"/>
+  </owl:Class>
+  <owl:Class rdf:about="#SOCIAL-EVENT">
+    <OntologyAll:_ISLOCATION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISLOCATION>
+    <OntologyAll:_ISOBJECT rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISOBJECT>
+    <OntologyAll:_ISTIME rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISTIME>
+    <OntologyAll:_ISACTION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISACTION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#"/>
+    </rdfs:subClassOf>
+    <OntologyAll:_ISPERSON rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISPERSON>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >action vis-a-vis other people. e.g. buying and selling</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >social_event-n1
+social_events-n1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SOCIAL-EVENT</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#WORK-ACTIVITY">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WORK-ACTIVITY</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#SOCIAL-EVENT"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >events concerning the jobs people do</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMELeader">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELeader</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELeader-v1
+BECOMELeader-v3</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELeader</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Fight">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Fight</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Fight</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Fight-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="BIRTH-INFO-OF">
+    <rdfs:subClassOf rdf:resource="#PERSONAL-DATA"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BIRTH-INFO-OF</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >the subtree of properties that link a person's birth info with the person himself</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="RETURNWORK">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RETURN-v16</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RETURNWORK</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RETURNWORK</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="CONSIDER">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CONSIDER</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CONSIDER-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >CONSIDER</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="INFLUENCE">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INFLUENCE</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EDUCATE</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INFLUENCE-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="EXPERIMENT">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXPERIMENT</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXPERIMENT-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXPERIMENT</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMERegents">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMERegents</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMERegents-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMERegents</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMELawyer">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELawyer-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELawyer</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELawyer</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="COVER">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COVER-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COVER</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COVER</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEPresident">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEPresident</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEPresident</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEPresident-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEPr">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ProfessorShip</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEProfessor</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >becomeProfessor-v1
+becomeProfessor-v3</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="GATHER">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GATHER</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GATHER-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >GATHER</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMECHANCELLOR">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMECHANCELLOR</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMECHANCELLOR-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMECHANCELLOR</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="FOCUS">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >FOCUS</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >FOCUS</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >FOCUS_ON-v1
+FOCUSED_ON-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="RAISE">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RAISE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RAISE-v2</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RAISE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEElec">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEElections</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEElections-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEElections</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="DECEASE">
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DECEASE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >die-v1
+decease-v1
+assassinate-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DECEASE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Capture">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Capture</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Capture</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Capture-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:about="#PROFESSIONAL-SERVICE-EVENT">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >an event in which professional or trained workers serve the public in various ways</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PROFESSIONAL-SERVICE-EVENT</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#SERVICE-EVENT"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="COMMITSUICIDE">
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >commitSUICIDE-v1
+COMMITSUICIDES-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COMMITSUICIDE</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COMMITSUICIDE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Result">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Result-v2</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Result</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Result</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Explain">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Explain-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Explain</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Explain</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="EXTEND">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXTEND</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXTEND-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EXTEND</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEKing">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEKING</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >becomeKing-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEKING</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Devote">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Devote</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Devote-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Devote</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMECOMMANDER">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMECOMMANDER</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMECOMMANDER</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMECOMMANDER-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="DISINFECT">
+    <rdfs:subClassOf rdf:resource="#CLEAN"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DISINFECT</rdfs:label>
+    <OntologyAll:_ISACTION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >true</OntologyAll:_ISACTION>
+    <OntologyAll:_ISOBJECT rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISOBJECT>
+    <OntologyAll:_ISPERSON rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISPERSON>
+    <OntologyAll:_ISTIME rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISTIME>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >disinfect-v1
+disinfectant-n1</OntologyAll:MAPLEX>
+    <OntologyAll:_ISLOCATION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >false</OntologyAll:_ISLOCATION>
+  </owl:Class>
+  <owl:Class rdf:ID="COMMITCRIMES">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COMMITCRIMES</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COMMITCRIMES</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COMMITCRIME-v1
+COMMITCRIMES-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="SETTLE">
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SETTLE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SETTLE-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SETTLE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="RECEPTION">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RECEPTION</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >receive-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >RECEIVE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEAdvisor">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEAdvisor</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEAdvisor</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEAdvisor-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="Award">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Award-v2
+Grant-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Awards</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Award</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Make">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Make</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Make</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Make-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMELEC">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELEC</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELECTURER-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMELEC</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="PARTICIPATE">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PARTICIPATE-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PARTICIPATED</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PARTICIPATED</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+  </owl:Class>
+  <owl:Class rdf:ID="RULE">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Rule-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Rule</OntologyAll:DEFINITION>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#PoliticalLife"/>
+    </rdfs:subClassOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Rule</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="USES">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >use-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#OBJECT-RELATION"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >USES</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="#PoliticalLife">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >POLITICALLIFE</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PHYSICAL-EVENT"/>
+  </owl:Class>
+  <owl:Class rdf:ID="MakeVictories">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MakeVictories-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MakeVictories</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MakeVictories</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PoliticalLife"/>
+  </owl:Class>
+  <owl:Class rdf:ID="REJECT">
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REJECT</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REJECT-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REJECT</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Propose">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Propose</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Propose-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Propose</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="LECTURE">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LECTURE-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LECTURE</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LECTURE</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="SPREAD">
+    <rdfs:subClassOf rdf:resource="#PoliticalLife"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SPREAD</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SPREAD</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SPREAD-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEASSISTANT">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEASSISTANT</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEASSISTANT-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEASSISTANT</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="WRITE_IN">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WRITE_IN</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WRITE_IN</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >WRITE_IN-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="Force">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Force</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PoliticalLife"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Force-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Force</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="Ally">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ALLY</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#PoliticalLife"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ALLY</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ALLY_WITH-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:about="#AbstractObjjects">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >AbstractObjjects</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#OBJECTS"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >AbstractObjjects</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    ></OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="APPRENTICE">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >APPRENTICE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >APPRENTICE-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >APPRENTICE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="LEAD">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LEAD</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LEAD-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >LEAD</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BASE">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BASE-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BASE</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BASE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:about="#">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >accomplishment-n1
+achievement-n1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >EVENT</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >any activity, action, happening, or situation</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="REMAIN">
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REMAIN</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REMAIN</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REMAIN-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="DESCRIBE">
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DESCRIBE</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DESCRIBE-v1
+DESCRIBE-v4</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >DESCRIBE</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="PUBLISH">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PUBLISH</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PUBLISH-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >PUBLISH</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="AWARD">
+    <rdfs:subClassOf rdf:resource="#TRANSFER-POSSESSION"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >AWARD</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >to give (a prize, etc.); grant</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:about="#SERVICE-EVENT">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >events having to do with providing and getting services</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SERVICE-EVENT</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#WORK-ACTIVITY"/>
+  </owl:Class>
+  <owl:Class rdf:ID="MANAGEMENT-ACTIVITY">
+    <rdfs:subClassOf rdf:resource="#BUSINESS-ACTIVITY"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MANAGEMENT-ACTIVITY</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Found">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Found</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Found-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Found</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="REPAIR">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >REPAIR</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#COMMONPLACE-SERVICE-EVENT"/>
+  </owl:Class>
+  <owl:Class rdf:ID="ENGINEER">
+    <rdfs:subClassOf rdf:resource="#HUMAN"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ENGINEER</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ENGINEER-n4</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >ENGINEER</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="HAVE">
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >have</OntologyAll:DEFINITION>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >have-v2
+have-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >HAVE</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Inherit">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >inherit-v1</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Inherit</rdfs:label>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Inherit</OntologyAll:DEFINITION>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMEMEMBER_OF_PARLIAMENT">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEMEMBER_OF_PARLIAMENT</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEMEMBER_OF_PARLIAMENT</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEMEMBER_OF_PARLIAMENT-v3</OntologyAll:MAPLEX>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+  </owl:Class>
+  <owl:Class rdf:ID="BECOMESURGEON">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMESURGEON</OntologyAll:DEFINITION>
+    <rdfs:subClassOf rdf:resource="#Work"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMESURGEON</rdfs:label>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMESURGEON-v1</OntologyAll:MAPLEX>
+  </owl:Class>
+  <owl:Class rdf:ID="THREATEN">
+    <rdfs:subClassOf rdf:resource="#Life"/>
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >THREATEN-v1</OntologyAll:MAPLEX>
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >THREATEN</OntologyAll:DEFINITION>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >THREATEN</rdfs:label>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:ID="_ISPERSON"/>
+  <rdf:Description rdf:ID="BeginFOCUS">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COUC</OntologyAll:DEFINITION>
+  </rdf:Description>
+  <owl:AnnotationProperty rdf:ID="_ISLOCATION"/>
+  <owl:AllDisjointClasses>
+    <owl:members rdf:parseType="Resource">
+      <rdf:rest rdf:parseType="Resource">
+        <rdf:rest rdf:parseType="Resource">
+          <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+        </rdf:rest>
+      </rdf:rest>
+    </owl:members>
+  </owl:AllDisjointClasses>
+  <owl:AnnotationProperty rdf:ID="_ISTIME"/>
+  <rdf:Description rdf:ID="BECOMEKing_3">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Control-v1</OntologyAll:MAPLEX>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Control</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:ID="EMIGRATED">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >emigrate-v1</OntologyAll:MAPLEX>
+  </rdf:Description>
+  <owl:AllDisjointClasses>
+    <owl:members rdf:parseType="Resource">
+      <rdf:rest rdf:parseType="Resource">
+        <rdf:rest rdf:parseType="Resource">
+          <rdf:rest rdf:parseType="Resource">
+            <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+          </rdf:rest>
+        </rdf:rest>
+      </rdf:rest>
+    </owl:members>
+  </owl:AllDisjointClasses>
+  <rdf:Description rdf:ID="BECAME">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >become-v1</OntologyAll:MAPLEX>
+  </rdf:Description>
+  <owl:AnnotationProperty rdf:ID="_ISACTION"/>
+  <rdf:Description rdf:ID="COMMITCRIME">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >COMMITSUICIDE</OntologyAll:MAPLEX>
+  </rdf:Description>
+  <owl:AllDisjointClasses>
+    <owl:members rdf:parseType="Resource">
+      <rdf:rest rdf:parseType="Resource">
+        <rdf:rest rdf:parseType="Resource">
+          <rdf:rest rdf:parseType="Resource">
+            <rdf:rest rdf:parseType="Resource">
+              <rdf:rest rdf:parseType="Resource">
+                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+              </rdf:rest>
+            </rdf:rest>
+          </rdf:rest>
+        </rdf:rest>
+      </rdf:rest>
+    </owl:members>
+  </owl:AllDisjointClasses>
+  <rdf:Description rdf:ID="BIRTH_2">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Human</OntologyAll:DEFINITION>
+  </rdf:Description>
+  <rdf:Description rdf:ID="MOVED_BETWEEN">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >MOVE_BETWEEN</rdfs:label>
+  </rdf:Description>
+  <owl:AnnotationProperty rdf:ID="_ISOBJECT"/>
+  <owl:AllDisjointClasses>
+    <owl:members rdf:parseType="Collection">
+      <owl:Class rdf:about="#"/>
+      <owl:Class rdf:about="#PROPERTY"/>
+    </owl:members>
+  </owl:AllDisjointClasses>
+  <owl:AnnotationProperty rdf:ID="MAPLEX"/>
+  <owl:AllDisjointClasses>
+    <owl:members rdf:parseType="Resource">
+      <rdf:rest rdf:parseType="Resource">
+        <rdf:rest rdf:parseType="Resource">
+          <rdf:rest rdf:parseType="Resource">
+            <rdf:rest rdf:parseType="Resource">
+              <rdf:rest rdf:parseType="Resource">
+                <rdf:rest rdf:parseType="Resource">
+                  <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                </rdf:rest>
+              </rdf:rest>
+            </rdf:rest>
+          </rdf:rest>
+        </rdf:rest>
+      </rdf:rest>
+    </owl:members>
+  </owl:AllDisjointClasses>
+  <rdf:Description rdf:ID="SPEND">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >SPENDSPEND</OntologyAll:DEFINITION>
+  </rdf:Description>
+  <owl:AllDisjointClasses>
+    <owl:members rdf:parseType="Collection">
+      <owl:Class rdf:about="#POSSESSION-EVENT"/>
+      <owl:Class rdf:about="#WORK-ACTIVITY"/>
+    </owl:members>
+  </owl:AllDisjointClasses>
+  <rdf:Description rdf:ID="BORN">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >bear-v0</OntologyAll:MAPLEX>
+  </rdf:Description>
+  <rdf:Description rdf:ID="INFLCUENCE">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >INFLUENCE</OntologyAll:DEFINITION>
+  </rdf:Description>
+  <rdf:Description rdf:ID="HAD">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >HAVE</OntologyAll:DEFINITION>
+  </rdf:Description>
+  <owl:AllDisjointClasses>
+    <owl:members rdf:parseType="Resource">
+      <rdf:rest rdf:parseType="Resource">
+        <rdf:rest rdf:parseType="Resource">
+          <rdf:rest rdf:parseType="Resource">
+            <rdf:rest rdf:parseType="Resource">
+              <rdf:rest rdf:parseType="Resource">
+                <rdf:rest rdf:parseType="Resource">
+                  <rdf:rest rdf:parseType="Resource">
+                    <rdf:rest rdf:parseType="Resource">
+                      <rdf:rest rdf:parseType="Resource">
+                        <rdf:rest rdf:parseType="Resource">
+                          <rdf:rest rdf:parseType="Resource">
+                            <rdf:rest rdf:parseType="Resource">
+                              <rdf:rest rdf:parseType="Resource">
+                                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                              </rdf:rest>
+                            </rdf:rest>
+                          </rdf:rest>
+                        </rdf:rest>
+                      </rdf:rest>
+                    </rdf:rest>
+                  </rdf:rest>
+                </rdf:rest>
+              </rdf:rest>
+            </rdf:rest>
+          </rdf:rest>
+        </rdf:rest>
+      </rdf:rest>
+    </owl:members>
+  </owl:AllDisjointClasses>
+  <owl:AllDisjointClasses>
+    <owl:members rdf:parseType="Collection">
+      <owl:Class rdf:about="#PHYSICAL-EVENT"/>
+      <owl:Class rdf:about="#SOCIAL-EVENT"/>
+    </owl:members>
+  </owl:AllDisjointClasses>
+  <rdf:Description rdf:ID="BECOMEBLIND">
+    <OntologyAll:DEFINITION rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >BECOMEBLIND CITIZEN</OntologyAll:DEFINITION>
+  </rdf:Description>
+  <rdf:Description rdf:ID="BECOMEPr_2">
+    <OntologyAll:MAPLEX rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >becomeKing-v1</OntologyAll:MAPLEX>
+  </rdf:Description>
+  <owl:AllDisjointClasses/>
+  <rdf:Description rdf:ID="Marry">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Marriage</rdfs:label>
+  </rdf:Description>
+  <owl:AnnotationProperty rdf:ID="DEFINITION"/>
+</rdf:RDF>
+
+<!-- Created with Protege (with OWL Plugin 3.4.8, Build 629)  http://protege.stanford.edu -->

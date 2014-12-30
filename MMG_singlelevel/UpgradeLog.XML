@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="QAS">
+</Property><Property Name="Solution File" Value="I:\QAS\Project\Work\Program2\QAS.sln">
+</Property><Property Name="Date" Value="السبت 02/02/2008">
+</Property><Property Name="Time" Value="01:00 AM">
+</Property></Properties><Event ErrorLevel="0" Project="WordNet.Net" Source="WordNet.Net\WordNet.Net.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WordNet.Net" Source="WordNet.Net\WordNet.Net.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QAS" Source="QAS\QAS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QAS" Source="QAS\QAS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="QAS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="QAS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WordNet.Net" Source="WordNet.Net\WordNet.Net.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="QAS" Source="QAS\QAS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

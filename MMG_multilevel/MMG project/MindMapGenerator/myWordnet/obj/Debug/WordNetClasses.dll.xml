@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyWordNetClasses</name>
+    </assembly>
+    <members>
+        <member name="T:MyWnlib.Lexeme">
+            <summary>
+            Summary description for Lexeme.
+            </summary>
+        </member>
+        <member name="T:WordNetClasses.WN">
+            <summary>
+            Summary description for Class1.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:MyWnlib.WNDB.is_defined(System.String,MyWnlib.PartOfSpeech)" -->
+        <member name="M:MyWnlib.Search.do_search(System.Boolean,System.String)">
+            <summary>
+            Performs a search based on the parameters setup
+            in the Search constructor.
+            </summary>
+            <param name="m">Specify if morphs should be searched</param>
+            <param name="p">The Part Of Speech to perform the search on</param>
+        </member>
+        <member name="M:MyWnlib.Search.do_search(System.Boolean)">
+            <summary>
+            Performs a search based on the parameters setup
+            in the Search constructor.
+            </summary>
+            <param name="doMorphs">Specifies whether to perform a search on morphs.  
+            This parameter is retrieved in the first
+            call from do_search(bool m, string p).  If morph searching is specified
+            and a morph is found, then on a recursive call to this method
+            morphing will be turned off to prevent unnecessary morph searching.</param>
+        </member>
+        <member name="T:MyWnlib.SynSet">
+            <summary>
+            Summary description for SynSet.
+            </summary>
+        </member>
+        <member name="M:MyWnlib.SynSet.tracePtrs(MyWnlib.SearchType,MyWnlib.PartOfSpeech,System.Int32)">
+            <summary>
+            Traces pointer hierarchy.
+            </summary>
+            <param name="stp"></param>
+            <param name="fpos"></param>
+            <param name="depth"></param>
+        </member>
+        <member name="M:MyWnlib.SynSet.traceCoords(MyWnlib.PointerType,MyWnlib.PartOfSpeech,System.Int32)">
+            <summary>
+            Trace coordinate terms.
+            </summary>
+            <param name="ptp"></param>
+            <param name="fpos"></param>
+            <param name="depth"></param>
+        </member>
+        <member name="M:MyWnlib.SynSet.traceclassif(MyWnlib.PointerType,MyWnlib.SearchType)">
+            <summary>
+            Trace classification.
+            </summary>
+            <param name="ptp"></param>
+            <param name="stp"></param>
+        </member>
+        <member name="M:MyWnlib.SynSet.tracenomins(MyWnlib.PointerType)">
+            <summary>
+            Trace nominalizations.
+            </summary>
+            <param name="ptp"></param>
+        </member>
+        <member name="M:MyWnlib.SynSet.traceInherit(MyWnlib.PointerType,MyWnlib.PartOfSpeech,System.Int32)">
+            <summary>
+            Trace meronyms.
+            </summary>
+            <param name="pbase"></param>
+            <param name="fpos"></param>
+            <param name="depth"></param>
+        </member>
+        <member name="M:MyWnlib.SynSet.traceAdjAnt">
+            <summary>
+            Trace adjective antonyms.
+            </summary>
+        </member>
+        <member name="T:MyWnlib.SynSetList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MyWnlib.Index">
+            <summary>
+            Summary description for Index.
+            </summary>
+        </member>
+        <member name="T:MyWnlib.Synonym">
+            <summary>
+            Summary description for Synonyms.
+            </summary>
+        </member>
+        <member name="T:MyWnlib.SemCor">
+            <summary>
+            Summary description for SemCor.
+            </summary>
+        </member>
+        <member name="T:MyWnlib.MorphStr">
+            <summary>
+            WordNet search code morphology functions
+            </summary>
+        </member>
+        <member name="T:WnLexicon.WordInfo">
+            <summary>This class contains information about the word</summary>
+        </member>
+        <member name="P:WnLexicon.WordInfo.Strength">
+            <summary>a sum of all the sense counts hints at the commonality of a word</summary>
+        </member>
+        <member name="T:WnLexicon.Lexicon">
+            <summary>An efficient feature-specific front-end for WordNet.NET</summary>
+            <remarks>
+            <p>
+            Previously, the only readily-available interface to WordNet was the all-encompassing
+            Search function which returns everything you could possibly ever want to know about
+            the target word. Unfortunately, this approach is not very efficient for natural
+            language processing applications that use WordNet as a database rather than a dictionary.
+            </p>
+            <p>
+            Therefore, the Lexicon class is intended to provide a simple and straightforward interface
+            to WordNet for very targeted functionality. (ie, what my application needs it to do). It also
+            attempts to retrieve the desired information in the most efficient way possible.
+            </p>
+            </remarks>
+        </member>
+        <member name="F:WnLexicon.Lexicon.enums">
+            <summary>This gets used a lot, so I decided to cache it in static memory.</summary>
+        </member>
+        <member name="M:WnLexicon.Lexicon.FindWordInfo(System.String,System.Boolean)">
+            <summary>Finds the part of speech for a given single word</summary>
+            <param name="word">the word</param>
+            <param name="includeMorphs">include morphology? (fuzzy matching)</param>
+            <returns>a structure containing information about the word</returns>
+            <remarks>
+            This function is designed to determine the part of speech of a word. Since all
+            of the WordNet search functions require the part of speech, this function will be useful
+            in cases when the part of speech of a word is not known. It is not 100% correct
+            because WordNet was most likely not intended to be used this way. However, it is
+            accurate enough for most applications.
+            </remarks>
+        </member>
+        <member name="M:WnLexicon.Lexicon.FindSynonyms(System.String,MyWnlib.PartsOfSpeech,System.Boolean)">
+            <summary>Returns a list of Synonyms for a given word</summary>
+            <param name="word">the word</param>
+            <param name="pos">The Part of speech of a word</param>
+            <param name="includeMorphs">include morphology? (fuzzy matching)</param>
+            <returns>An array of strings containing the synonyms found</returns>
+            <remarks>
+            Note that my usage of 'Synonyms' here is not the same as hypernyms as defined by
+            WordNet. Synonyms in this sense are merely words in the same SynSet as the given
+            word. Hypernyms are found by tracing the pointers in a given synset.
+            </remarks>
+        </member>
+        <member name="T:MyWnlib.LexemeList">
+            <summary>
+            
+            </summary>	
+        </member>
+        <member name="T:WNBTBox.TBox">
+            <summary>
+            Summary description for Class1.
+            </summary>
+        </member>
+    </members>
+</doc>

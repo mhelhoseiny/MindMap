@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MMG">
+</Property><Property Name="Solution File" Value="F:\MMG project\MMG Final  8-7 8 belel\MindMapGenerator\MMG.sln">
+</Property><Property Name="Date" Value="17 اكتوبر, 2008">
+</Property><Property Name="Time" Value="19:24 م">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="WordNet.Net" Source="WordNet.Net\WordNet.Net.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WordNet.Net" Source="WordNet.Net\WordNet.Net.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MMG" Source="QAS\MMG.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MMG" Source="QAS\MMG.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WordsMatching" Source="semanticSemilarity\WordsMatching.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WordsMatching" Source="semanticSemilarity\WordsMatching.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SyntacticAnalyzer" Source="SyntacticAnalyzer\SyntacticAnalyzer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SyntacticAnalyzer" Source="SyntacticAnalyzer\SyntacticAnalyzer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DrawingManagement" Source="DrawingManagement\DrawingManagement.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DrawingManagement" Source="DrawingManagement\DrawingManagement.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Ilan.Google.API" Source="Google_Image_Search_API_src\Google_Image_Search_API_src\Ilan.Google.API\Ilan.Google.API.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ilan.Google.API" Source="Google_Image_Search_API_src\Google_Image_Search_API_src\Ilan.Google.API\Ilan.Google.API.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DiscourseAnalysis" Source="DiscourseAnalysis\DiscourseAnalysis.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DiscourseAnalysis" Source="DiscourseAnalysis\DiscourseAnalysis.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Disambiguation" Source="Disambiguation\Disambiguation.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Disambiguation" Source="Disambiguation\Disambiguation.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GoogleImageDrawingEntity" Source="GraphicalRepresentation\GoogleImageDrawingEntity.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GoogleImageDrawingEntity" Source="GraphicalRepresentation\GoogleImageDrawingEntity.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MindMapViewingManegement" Source="ViewingManeger\MindMapViewingManegement.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MindMapViewingManegement" Source="ViewingManeger\MindMapViewingManegement.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="mapper" Source="mapper\mapper.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="mapper" Source="mapper\mapper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ilan.Test.Google.API" Source="Google_Image_Search_API_src\Google_Image_Search_API_src\Ilan.Test.Google.API\Ilan.Test.Google.API.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ilan.Test.Google.API" Source="Google_Image_Search_API_src\Google_Image_Search_API_src\Ilan.Test.Google.API\Ilan.Test.Google.API.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MindMapMeaningRepresentation" Source="MindMapMeaningRepresentation\MindMapMeaningRepresentation.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MindMapMeaningRepresentation" Source="MindMapMeaningRepresentation\MindMapMeaningRepresentation.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MMG.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MMG.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WordNet.Net" Source="WordNet.Net\WordNet.Net.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MMG" Source="QAS\MMG.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WordsMatching" Source="semanticSemilarity\WordsMatching.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SyntacticAnalyzer" Source="SyntacticAnalyzer\SyntacticAnalyzer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Ilan.Google.API" Source="Google_Image_Search_API_src\Google_Image_Search_API_src\Ilan.Google.API\Ilan.Google.API.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Disambiguation" Source="Disambiguation\Disambiguation.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GoogleImageDrawingEntity" Source="GraphicalRepresentation\GoogleImageDrawingEntity.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MindMapViewingManegement" Source="ViewingManeger\MindMapViewingManegement.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="mapper" Source="mapper\mapper.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Ilan.Test.Google.API" Source="Google_Image_Search_API_src\Google_Image_Search_API_src\Ilan.Test.Google.API\Ilan.Test.Google.API.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MindMapMeaningRepresentation" Source="MindMapMeaningRepresentation\MindMapMeaningRepresentation.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

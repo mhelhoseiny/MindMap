@@ -1,0 +1,4 @@
+Concept: ANY-MULTI-DIGIT-NUMBER
+
+DEFINITION	VALUE	this frame exists to objectify the values of former attributes
+

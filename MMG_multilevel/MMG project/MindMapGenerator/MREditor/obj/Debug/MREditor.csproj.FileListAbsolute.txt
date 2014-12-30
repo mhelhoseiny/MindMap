@@ -1,0 +1,850 @@
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+D:\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+D:\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+D:\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+D:\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+D:\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+D:\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+D:\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+D:\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+D:\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+D:\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+D:\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+D:\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+D:\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+D:\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+D:\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+D:\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+D:\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+D:\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+D:\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+D:\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+D:\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+D:\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+D:\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+D:\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+D:\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+D:\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmVerbRelation.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmVerbRelation.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmNewTMR.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmNewTMR.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmNewTMR.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\GoogleSearchAPI.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\GoogleSearchAPI.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmNewTMR.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\GoogleSearchAPI.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmNewTMR.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\GoogleSearchAPI.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmNewTMR.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\GoogleSearchAPI.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmNewTMR.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddTemporalRelation.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCalculateWeights.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmDomainRelation.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.frmMREditor.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmAddEditFrame.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmCaseRoleRelation.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.FrmNewTMR.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\MREditor.csproj.GenerateResource.Cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\MapperTool.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\MapperTool.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\mapper.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\WordsMatching.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\GraphTest.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\OwlDotNetApi.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\GoogleSearchAPI.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\GraphTest.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\OurMindMapOntology.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\mapper.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\WordsMatching.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\Ilan.Google.API.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapMeaningRepresentation.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\MindMapGenerator.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\MultilevelGenerator.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\WordNetClasses.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\SyntacticAnalyzer.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\ViewingManeger.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\bin\Debug\GoogleSearchAPI.xml
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\Debug\MapperTool.pdb

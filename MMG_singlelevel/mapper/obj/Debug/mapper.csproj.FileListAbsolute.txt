@@ -1,0 +1,15 @@
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\bin\Debug\mapper.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\bin\Debug\mapper.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\bin\Debug\SyntacticAnalyzer.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\bin\Debug\WordNetClasses.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\bin\Debug\WordsMatching.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\bin\Debug\WordsMatching.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\bin\Debug\SyntacticAnalyzer.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\bin\Debug\WordNetClasses.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\obj\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\obj\Debug\OntologyLibrary.Form1.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\obj\Debug\ResGen.read.1.tlog
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\obj\Debug\ResGen.write.1.tlog
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\obj\Debug\mapper.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2008\mapper\obj\Debug\mapper.pdb

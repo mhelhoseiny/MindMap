@@ -1,0 +1,49 @@
+Concept: MAX-DIAMETER-EROSION
+
+DEFINITION	VALUE	the maximum diameter of an esophageal erosion for a given patient
+
+IS-A	VALUE	SCALAR-MEDICAL-ATTRIBUTE
+
+DOMAIN	SEM	HUMAN
+
+
+Inherited from: SCALAR-ATTRIBUTE
+
+MEASURED-IN	SEM	MEASURING-UNIT
+
+RANGE	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+
+Inherited from: ATTRIBUTE
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

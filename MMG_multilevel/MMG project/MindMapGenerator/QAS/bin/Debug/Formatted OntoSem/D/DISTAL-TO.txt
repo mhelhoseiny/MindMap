@@ -1,0 +1,38 @@
+Concept: DISTAL-TO
+
+DEFINITION	VALUE	a spatial relation between attached, continuous body parts in which the domain is closer to the bottom of the feet than the range: e.g., the ankle is distal-to the knee
+
+IS-A	VALUE	OBJECT-RELATION
+
+DOMAIN	SEM	ANATOMICAL-STRUCTURE
+
+INVERSE	VALUE	PROXIMAL-TO
+
+RANGE	SEM	ANATOMICAL-STRUCTURE
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+
+NOTES	SEM	ALL
+

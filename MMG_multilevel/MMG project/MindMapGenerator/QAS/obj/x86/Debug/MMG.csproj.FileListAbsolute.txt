@@ -1,0 +1,17 @@
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\bin\x86\Debug\QAS.exe.config
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.begin.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.ChooseParseTreesForm.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.Form3.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.Form4.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.Form5.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.Form6.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.Form2.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.Form1.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.pics.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.TMR_output.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.TMRDemo.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\QAS.TMROutput.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.csproj.GenerateResource.Cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\QAS\obj\x86\Debug\MMG.FilterParseTreesForm.resources

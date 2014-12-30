@@ -1,0 +1,56 @@
+D:\FourthYear\second Term\GraduationProject\Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.exe
+D:\FourthYear\second Term\GraduationProject\Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.pdb
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.exe
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.pdb
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\ResolveAssemblyReference.cache
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.Form2.resources
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.Form1.resources
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.csproj.GenerateResource.Cache
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\QAS.exe
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\QAS.pdb
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordNetClasses.dll
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordsMatching.dll
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordNetClasses.pdb
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.exe
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\QAS.exe
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\QAS.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.Form2.resources
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.Form1.resources
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.csproj.GenerateResource.Cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.exe
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.exe
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.Form2.resources
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.Form1.resources
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\obj\Debug\QAS.csproj.GenerateResource.Cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\QAS.exe
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\QAS.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\QAS\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\obj\Debug\QAS.exe
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\obj\Debug\QAS.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\obj\Debug\QAS.Form2.resources
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\obj\Debug\QAS.Form1.resources
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\obj\Debug\QAS.csproj.GenerateResource.Cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\bin\Debug\QAS.exe
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\bin\Debug\QAS.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\bin\Debug\MindMapMeaningRepresentation.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\bin\Debug\MindMapMeaningRepresentation.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\QAS\bin\Debug\WordsMatching.pdb

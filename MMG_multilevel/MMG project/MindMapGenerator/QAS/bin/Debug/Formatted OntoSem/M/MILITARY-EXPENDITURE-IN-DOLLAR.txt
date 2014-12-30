@@ -1,0 +1,6 @@
+Concept: MILITARY-EXPENDITURE-IN-DOLLAR
+
+DEFINITION	VALUE	total cost that a nation spends for the military organizations
+
+DOMAIN	SEM	NATION
+

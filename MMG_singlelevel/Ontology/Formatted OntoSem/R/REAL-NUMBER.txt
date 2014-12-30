@@ -1,0 +1,6 @@
+Concept: REAL-NUMBER
+
+DEFINITION	VALUE	one of the values between positive and negative infinity
+
+SUBCLASSES	VALUE	NEGATIVE-NUMBER
+

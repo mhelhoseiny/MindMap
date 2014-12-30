@@ -1,0 +1,9 @@
+bin\Debug\GraphTest.exe
+bin\Debug\GraphTest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GraphTest.GraphForm.resources
+obj\Debug\GraphTest.Properties.Resources.resources
+obj\Debug\GraphTest.csproj.GenerateResource.Cache
+obj\Debug\GraphTest.exe
+obj\Debug\GraphTest.pdb
+obj\Debug\GraphTest.FWMatrix.resources

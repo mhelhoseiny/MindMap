@@ -1,0 +1,38 @@
+Concept: USED-IN
+
+DEFINITION	VALUE	indicates the object that is used in some event, like a shopping bag is used during shopping, a riding crop is used during horseback riding, etc.
+
+IS-A	VALUE	RELATION
+
+DOMAIN	SEM	OBJECT
+
+INVERSE	VALUE	INVOLVES-OBJECT
+
+RANGE	SEM	EVENT
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+
+NOTES	SEM	ALL
+

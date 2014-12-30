@@ -1,0 +1,11 @@
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\Disambiguation\bin\x86\Debug\Disambiguation.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\Disambiguation\bin\x86\Debug\Disambiguation.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\Disambiguation\bin\x86\Debug\SyntacticAnalyzer.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\Disambiguation\bin\x86\Debug\WordNetClasses.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\Disambiguation\bin\x86\Debug\SyntacticAnalyzer.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\Disambiguation\bin\x86\Debug\WordNetClasses.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\Disambiguation\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\Disambiguation\obj\x86\Debug\Disambiguation.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\Disambiguation\obj\x86\Debug\Disambiguation.csproj.GenerateResource.Cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\Disambiguation\obj\x86\Debug\Disambiguation.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\Disambiguation\obj\x86\Debug\Disambiguation.pdb

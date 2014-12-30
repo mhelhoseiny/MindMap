@@ -1,0 +1,8 @@
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\DrawingManagement\bin\x86\Debug\MindMapGenerator.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\DrawingManagement\bin\x86\Debug\MindMapGenerator.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\DrawingManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\DrawingManagement\obj\x86\Debug\MindMapGenerator.Form1.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\DrawingManagement\obj\x86\Debug\MindMapGenerator.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\DrawingManagement\obj\x86\Debug\DrawingManagement.csproj.GenerateResource.Cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\DrawingManagement\obj\x86\Debug\MindMapGenerator.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\DrawingManagement\obj\x86\Debug\MindMapGenerator.pdb

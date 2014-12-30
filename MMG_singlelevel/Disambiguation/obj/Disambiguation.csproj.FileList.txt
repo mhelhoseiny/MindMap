@@ -1,0 +1,11 @@
+bin\Debug\Disambiguation.dll
+bin\Debug\Disambiguation.pdb
+bin\Debug\SyntacticAnalyzer.dll
+bin\Debug\WordNetClasses.dll
+bin\Debug\SyntacticAnalyzer.pdb
+bin\Debug\WordNetClasses.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Disambiguation.Properties.Resources.resources
+obj\Debug\Disambiguation.csproj.GenerateResource.Cache
+obj\Debug\Disambiguation.dll
+obj\Debug\Disambiguation.pdb

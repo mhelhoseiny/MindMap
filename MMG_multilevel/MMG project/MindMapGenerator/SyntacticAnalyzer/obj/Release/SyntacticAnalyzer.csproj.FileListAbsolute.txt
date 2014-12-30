@@ -1,0 +1,7 @@
+I:\Projects\MindMapGenerator\SyntacticAnalyzer\bin\Release\SyntacticAnalyzer.dll
+I:\Projects\MindMapGenerator\SyntacticAnalyzer\bin\Release\SyntacticAnalyzer.pdb
+I:\Projects\MindMapGenerator\SyntacticAnalyzer\bin\Release\WordNetClasses.dll
+I:\Projects\MindMapGenerator\SyntacticAnalyzer\bin\Release\WordsMatching.dll
+I:\Projects\MindMapGenerator\SyntacticAnalyzer\obj\Release\ResolveAssemblyReference.cache
+I:\Projects\MindMapGenerator\SyntacticAnalyzer\obj\Release\SyntacticAnalyzer.dll
+I:\Projects\MindMapGenerator\SyntacticAnalyzer\obj\Release\SyntacticAnalyzer.pdb

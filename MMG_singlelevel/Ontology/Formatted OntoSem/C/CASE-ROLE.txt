@@ -1,0 +1,58 @@
+Concept: CASE-ROLE
+
+DEFINITION	VALUE	The roles arguments can have in a situation described by a predicate.
+
+IS-A	VALUE	RELATION
+
+SUBCLASSES	VALUE	AGENT
+			AGENT-OF
+			BENEFICIARY
+			BENEFICIARY-OF
+			DESTINATION
+			DESTINATION-OF
+			EXPERIENCER
+			EXPERIENCER-OF
+			INSTRUMENT
+			INSTRUMENT-OF
+			LOCATION
+			LOCATION-OF
+			PATH
+			PATH-OF
+			SOURCE
+			SOURCE-OF
+			THEME
+			THEME-OF
+
+DOMAIN	SEM	EVENT
+
+ENGLISH1	MAP-LEX	case-role-n1
+			case_role
+
+NOTES	VALUE	All inverses of case roles have been included in the case-role subtree; no reason (except linguistic convention) to split them into case-role and case-role-inverse as we formerly did since every property has an inverse and including a separate subtree for each set of inverses is not needed.
+
+RANGE	SEM	OBJECT
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

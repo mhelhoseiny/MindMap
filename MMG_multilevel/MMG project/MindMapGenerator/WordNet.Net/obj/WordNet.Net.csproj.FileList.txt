@@ -1,0 +1,5 @@
+..\..\Hosting\Razor\bin\Debug\WordNetClasses.dll
+..\..\Hosting\Razor\bin\Debug\WordNetClasses.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WordNetClasses.dll
+obj\Debug\WordNetClasses.pdb

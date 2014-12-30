@@ -1,0 +1,14 @@
+bin\Debug\mapper.exe
+bin\Debug\mapper.pdb
+bin\Debug\WordNetClasses.dll
+bin\Debug\WordsMatching.dll
+bin\Debug\WordNetClasses.pdb
+bin\Debug\WordsMatching.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OntologyLibrary.Form1.resources
+obj\Debug\OntologyLibrary.Properties.Resources.resources
+obj\Debug\mapper.csproj.GenerateResource.Cache
+obj\Debug\mapper.exe
+obj\Debug\mapper.pdb
+bin\Debug\SyntacticAnalyzer.dll
+bin\Debug\SyntacticAnalyzer.pdb

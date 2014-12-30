@@ -1,0 +1,505 @@
+Concept: DECLARE
+
+DEFINITION	VALUE	to announce openly or formally
+
+IS-A	VALUE	ASSERTIVE-ACT
+
+SUBCLASSES	VALUE	CERTIFY
+
+ENGLISH1	MAP-LEX	add-v10
+			add-v11
+			add-v12
+			add-v13
+			add-v14
+			add-v15
+			add-v16
+			add-v2
+			add-v3
+			add-v4
+			add-v5
+			add-v6
+			add-v7
+			add-v8
+			add-v9
+			admit-v6
+			admit-v7
+			allegation-n1
+			allegation-n2
+			allege-v1
+			allege-v2
+			assert-v1
+			assert-v10
+			assert-v11
+			assert-v12
+			assert-v13
+			assert-v14
+			assert-v15
+			assert-v16
+			assert-v3
+			assert-v4
+			assert-v5
+			assert-v6
+			assert-v7
+			assert-v8
+			assert-v9
+			bunch
+			cite-v2
+			claim-n1
+			claim-v1
+			claim-v10
+			claim-v11
+			claim-v12
+			claim-v13
+			claim-v14
+			claim-v15
+			claim-v16
+			claim-v18
+			claim-v19
+			claim-v2
+			claim-v20
+			claim-v5
+			claim-v6
+			claim-v7
+			claim-v8
+			claim-v9
+			classification-n2
+			classification-n3
+			classification-n4
+			classify-v2
+			classify-v3
+			classify-v4
+			concede-v10
+			concede-v11
+			concede-v12
+			concede-v13
+			concede-v14
+			concede-v15
+			concede-v16
+			concede-v19
+			concede-v20
+			concede-v21
+			concede-v22
+			concede-v5
+			concede-v6
+			concede-v7
+			concede-v8
+			concede-v9
+			date-v2
+			declaration-n1
+			declare-v1
+			declare-v10
+			declare-v11
+			declare-v12
+			declare-v13
+			declare-v14
+			declare-v15
+			declare-v16
+			declare-v2
+			declare-v3
+			declare-v4
+			declare-v5
+			declare-v6
+			declare-v7
+			declare-v8
+			declare-v9
+			divide
+			find-v4
+			find-v5
+			find-v6
+			group
+			identify
+			name
+			note-v10
+			note-v11
+			note-v12
+			note-v13
+			note-v14
+			note-v15
+			note-v16
+			note-v19
+			note-v3
+			note-v4
+			note-v5
+			note-v6
+			note-v7
+			note-v8
+			note-v9
+			plead-v1
+			plead-v10
+			plead-v11
+			plead-v12
+			plead-v13
+			plead-v14
+			plead-v15
+			plead-v16
+			plead-v17
+			plead-v18
+			plead-v19
+			plead-v2
+			plead-v20
+			plead-v3
+			plead-v4
+			plead-v5
+			plead-v6
+			plead-v8
+			plead-v9
+			proclaim
+			profess-v1
+			profess-v2
+			pronounce
+			state-v1
+			state-v10
+			state-v11
+			state-v12
+			state-v13
+			state-v14
+			state-v15
+			state-v16
+			state-v2
+			state-v3
+			state-v4
+			state-v5
+			state-v6
+			state-v7
+			state-v8
+			state-v9
+			venture-v2
+
+
+Inherited from: ILLOCUTIONARY-ACT
+
+AGENT	DEFAULT	HUMAN
+
+
+Inherited from: COMMUNICATIVE-EVENT
+
+INSTRUMENT	SEM	COMMUNICATION-DEVICE
+			NATURAL-LANGUAGE
+
+DOMAIN-OF	SEM	RESPONSE-TYPE
+
+HAS-AUDIENCE	DEFAULT	AUDIENCE
+		SEM	SOCIAL-ROLE
+
+LANGUAGE-USED	SEM	LANGUAGE
+			NATURAL-LANGUAGE
+
+RESPONSE-TYPE	SEM	NEGATIVE
+			POSITIVE
+			UNDECIDED
+
+
+Inherited from: MENTAL-EVENT
+
+EFFECT	SEM	EVENT
+		PROPERTY
+
+
+Inherited from: SOCIAL-EVENT
+
+THEME	SEM	ABSTRACT-OBJECT
+
+CONTROLS	SEM	ARTIFACT
+			NATURAL-OBJECT
+			SOCIAL-ROLE
+
+DRESS-CODE	SEM	BUSINESS
+			CASUAL
+			FORMAL
+			SPORT
+
+FIELD-STUDIED-BY	SEM	ACADEMIC-ORGANIZATION
+				LABORATORY
+				SOCIAL-ROLE
+
+LEGALITY-ATTRIBUTE	VALUE	NO
+				YES
+
+LOCATION	SEM	PLACE
+
+SAFETY-ATTRIBUTE	VALUE	(<>0 1)
+
+
+Inherited from: EVENT
+
+THEME-OF	SEM	EVENT
+
+INSTRUMENT-OF	SEM	EVENT
+
+BENEFICIARY	SEM	ANIMAL
+			SOCIAL-OBJECT
+
+SOURCE	SEM	EVENT
+		OBJECT
+
+SOURCE-OF	SEM	EVENT
+			OBJECT
+
+DESTINATION	DEFAULT	PLACE
+		RELAXABLE-TO	EVENT
+				PHYSICAL-OBJECT
+
+DESTINATION-OF	SEM	EVENT
+			OBJECT
+
+PATH	SEM	MENTAL-OBJECT
+		PHYSICAL-OBJECT
+		PLACE
+
+PURPOSE	SEM	EVENT
+
+PURPOSE-OF	SEM	EVENT
+
+ABOUT-AS-TOPIC	SEM	EVENT
+			OBJECT
+
+ABSOLUTE-DAY	SEM	ANY-NUMBER
+
+ABSOLUTE-DAY-OF-THE-WEEK	SEM	OBJECT
+
+ABSOLUTE-MONTH	NOT	MONTH
+
+ACCURACY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+ACCURACY-ATTRIBUTE	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+AGGRESSION	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+ALTERNATIVE	SEM	EVENT
+
+ALTERNATIVE-OF	SEM	EVENT
+
+AMPLITUDE-OF-CONTRACTION	SEM	(<> 0 1)
+					ANY-NUMBER
+					ANY-RANGE
+
+CARDINALITY	SEM	(> 0)
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CHANGE-IN-FREQUENCY-RELATIVE	SEM	LESS-FREQUENT
+					MORE-FREQUENT
+					NO-CHANGE
+
+COMPLEXITY	SEM	(<> 0 1)
+
+CONTRAST	SEM	ALL
+
+CONTROLLED-BY	SEM	PHYSICAL-EVENT
+			PHYSICAL-OBJECT
+			SOCIAL-EVENT
+			SOCIAL-ROLE
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DIFFICULTY-ATTRIBUTE	SEM	(<> 0 1)
+
+DURATION	SEM	ANY-NUMBER
+
+ENABLED-BY	SEM	ALL
+
+ENABLEMENT	SEM	ALL
+
+EVALUATED-ACCORDING-TO	SEM	ALL
+
+EVALUATION-STANDARD-FOR	SEM	ALL
+
+FAME-ATTRIBUTE	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+FORMALITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+FREQUENCY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+GENUINENESS	SEM	NO
+			YES
+
+HAS-CEO	RELAXABLE-TO	HUMAN
+
+HAS-CFO	RELAXABLE-TO	HUMAN
+
+HAS-COMPETITOR	RELAXABLE-TO	ORGANIZATION
+
+HAS-COO	RELAXABLE-TO	HUMAN
+
+HAS-CORPORATE-DIVISION	SEM	ALL
+
+HAS-CREDITOR	RELAXABLE-TO	CREDITOR
+
+HAS-EVENT-AS-PART	SEM	EVENT
+
+HAS-LOWER-LIMIT	SEM	ANY-NUMBER
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+HAS-UPPER-LIMIT	SEM	ANY-NUMBER
+
+HUMOR-ATTRIBUTE	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+INTENSITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+INVOLVES-OBJECT	SEM	OBJECT
+
+MEASURES-PROPERTY	SEM	PROPERTY
+
+MEDICAL-EVENT-RISK	SEM	HIGH
+				LOW
+				MEDIUM
+
+MYOGENIC-TONE	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+NOVELTY	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+OBJECT-INVOLVED	SEM	OBJECT
+			ORGANIZATION
+
+OBJECTIVITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+ONSET-DELAY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+ORDERLINESS	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+ORDINALITY	VALUE	(> 0)
+
+OUTSIDE-OF	SEM	OBJECT
+
+PAIN-TYPE	SEM	1
+
+PART-OF-EVENT	SEM	EVENT
+
+PRECISION-ATTRIBUTE	SEM	(<> 0 1)
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PRECONDITION-OF	SEM	EVENT
+			PROPERTY
+
+PRESSURE-FROM-INGESTIBLE-TYPE	SEM	(<> 0 10)
+
+PROBABILITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+PRODUCED-BY	SEM	ANIMATE
+			ARTIFACT
+			ELECTRICITY
+			ORGANIZATION
+			SOCIAL-OBJECT
+
+QUALITY	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+RANGE-OF	SEM	ALL
+
+RAPIDITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+RATE	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+READINESS	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+REPRESENTED-BY	SEM	EVENT
+			OBJECT
+
+REPRESENTS	NOT	PHYSICAL-OBJECT
+		SEM	EVENT
+			OBJECT
+
+SECRECY-ATTRIBUTE	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+SIMILARITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+SPATIAL-DISTANCE	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+STABILITY	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+STATE-OF-AFFAIRS	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+STATE-OF-INCORPORATION	RELAXABLE-TO	STATE
+
+SYMMETRY	SEM	1
+
+TEMPORAL-DISTANCE	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+TENSION	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+TIME-BEGIN	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+TIME-END	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+TOPIC-OF	NOT	EVENT
+		SEM	OBJECT
+
+TRUTH-VALUE	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+TYPICALNESS-ATTRIBUTE	SEM	(<> 0 1)
+				ANY-NUMBER
+				ANY-RANGE
+
+USEFULNESS	SEM	(<> 0 1)
+			ANY-NUMBER
+			ANY-RANGE
+
+VALIDATED	SEM	NO
+			YES
+
+VOLITIONAL	SEM	1
+
+
+Inherited from: ALL
+
+NOTES	SEM	ALL
+

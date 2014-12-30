@@ -1,0 +1,74 @@
+Concept: DECISIVENESS
+
+DEFINITION	VALUE	firmness of character or purpose
+
+IS-A	VALUE	SCALAR-ANIMAL-ATTRIBUTE
+
+ENGLISH1	MAP-LEX	ambivalence-n1
+			decisiveness-n1
+			decisiveness-n2
+			firmness-n1
+			firmness-n2
+			irresoluteness-n1
+			irresoluteness-n2
+			resoluteness-n1
+			resoluteness-n2
+			steadfastness-n1
+			steadfastness-n2
+			strong-mindedness-n1
+			strong-mindedness-n2
+			uncertainty-n1
+			uncertainty-n2
+			unwaveringness-n1
+			unwaveringness-n2
+			unyieldingness-n1
+			unyieldingness-n2
+			wishy-washiness-n1
+			wishy-washiness-n2
+
+
+Inherited from: SCALAR-ANIMAL-ATTRIBUTE
+
+DOMAIN	SEM	ANIMAL
+
+
+Inherited from: SCALAR-ATTRIBUTE
+
+MEASURED-IN	SEM	MEASURING-UNIT
+
+RANGE	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+
+Inherited from: ATTRIBUTE
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

@@ -1,0 +1,42 @@
+Concept: NERVE-SUPPLY
+
+DEFINITION	VALUE	links a body part with the nerves that supply it; the domain has the nerve supply indicated in the range
+
+IS-A	VALUE	MEDICAL-RELATION
+
+DOMAIN	NOT	EVENT
+	SEM	ANATOMICAL-STRUCTURE
+
+INVERSE	VALUE	NERVE-SUPPLY-OF
+
+RANGE	SEM	ANATOMICAL-STRUCTURE
+
+
+Inherited from: MEDICAL-RELATION
+
+NOTES	VALUE	This is a separate tree because some of the relations here connect objects to events, while others connect events to events.
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

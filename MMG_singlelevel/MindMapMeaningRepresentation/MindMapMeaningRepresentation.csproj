@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CAD41F94-345D-4AA1-A5D7-C09677798225}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MindMapMeaningRepresentation</RootNamespace>
+    <AssemblyName>MindMapMeaningRepresentation</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DomainRelation.cs" />
+    <Compile Include="MindMapTMR.cs" />
+    <Compile Include="NounFrame.cs" />
+    <Compile Include="PrepositionOnto.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VerbFrame.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\mapper\mapper.csproj">
+      <Project>{75962058-C324-4457-9472-D5ED570A2B3B}</Project>
+      <Name>mapper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\semanticSemilarity\WordsMatching.csproj">
+      <Project>{CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1}</Project>
+      <Name>WordsMatching</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SyntacticAnalyzer\SyntacticAnalyzer.csproj">
+      <Project>{50265483-4EC6-4A46-8D0D-01900992BBBB}</Project>
+      <Name>SyntacticAnalyzer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WordNet.Net\WordNet.Net.csproj">
+      <Project>{F12805B0-D74A-4E5B-A482-7C7CCB69D572}</Project>
+      <Name>WordNet.Net</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

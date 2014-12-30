@@ -1,0 +1,10 @@
+bin\Debug\Ilan.Test.Google.API.exe.config
+bin\Debug\Ilan.Test.Google.API.exe
+bin\Debug\Ilan.Test.Google.API.pdb
+bin\Debug\Ilan.Google.API.dll
+bin\Debug\Ilan.Google.API.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ilan.Test.Google.API.Form1.resources
+obj\Debug\Ilan.Test.Google.API.csproj.GenerateResource.Cache
+obj\Debug\Ilan.Test.Google.API.exe
+obj\Debug\Ilan.Test.Google.API.pdb

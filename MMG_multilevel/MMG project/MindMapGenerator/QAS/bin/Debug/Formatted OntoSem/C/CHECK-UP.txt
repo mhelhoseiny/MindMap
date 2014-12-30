@@ -1,0 +1,8 @@
+Concept: CHECK-UP
+
+DEFINITION	VALUE	An examination or inspection, generally at the doctor's (or vet's, or dentist's) office
+
+AGENT	SEM	MEDICAL-WORK-ROLE
+
+LOCATION	SEM	MEDICAL-BUILDING
+

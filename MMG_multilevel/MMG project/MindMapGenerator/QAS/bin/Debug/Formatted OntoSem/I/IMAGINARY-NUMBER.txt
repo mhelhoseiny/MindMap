@@ -1,0 +1,4 @@
+Concept: IMAGINARY-NUMBER
+
+DEFINITION	VALUE	the square root of -1
+

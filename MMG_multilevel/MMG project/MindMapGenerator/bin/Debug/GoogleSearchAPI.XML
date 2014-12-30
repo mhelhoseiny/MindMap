@@ -1,0 +1,3114 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GoogleSearchAPI</name>
+    </assembly>
+    <members>
+        <member name="T:Google.API.Search.Colorization">
+            <summary>
+            A specified colorization of images.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Colorization.All">
+            <summary>
+            All colorizations. Default value.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Colorization.Gray">
+            <summary>
+            The grayscale images.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Colorization.Color">
+            <summary>
+            The color images.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.Colorization.op_Implicit(System.String)~Google.API.Search.Colorization">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.Colorization"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="T:Google.API.Search.DuplicateFilter">
+            <summary>
+            Controls turning on or off the duplicate content filter.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.DuplicateFilter.On">
+            <summary>
+            Turns on the duplicate content filter. Default value.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.DuplicateFilter.Off">
+            <summary>
+            Turns off the duplicate content filter.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.DuplicateFilter.op_Implicit(System.String)~Google.API.Search.DuplicateFilter">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.DuplicateFilter"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="T:Google.API.Search.IBlogResult">
+            <summary>
+            Blog search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBlogResult.Title">
+            <summary>
+            Gets the title.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBlogResult.PostUrl">
+            <summary>
+            Gets the URL to the blog post referenced in this search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBlogResult.Content">
+            <summary>
+            Gets a snippet of content from the blog post associated with this search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBlogResult.Author">
+            <summary>
+            Gets the name of the author that wrote the blog post.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBlogResult.BlogUrl">
+            <summary>
+            Gets the URL of the blog which contains the post. 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBlogResult.PublishedDate">
+            <summary>
+            Gets the published date of the blog post referenced by this search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GblogResult.GSearchResultClass">
+            <summary>
+            Indicates the "type" of result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GblogResult.TitleWithFormatting">
+            <summary>
+            Supplies the title value of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GblogResult.Title">
+            <summary>
+            Supplies the title, but unlike .title, this property is stripped of html markup (e.g., &lt;b&gt;, &lt;i&gt;, etc.)
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GblogResult.PostUrl">
+            <summary>
+            Supplies the URL to the blog post referenced in this search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GblogResult.Content">
+            <summary>
+            Supplies a snippet of content from the blog post associated with this search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GblogResult.Author">
+            <summary>
+            Supplies the name of the author that wrote the blog post.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GblogResult.BlogUrl">
+            <summary>
+            Supplies the URL of the blog which contains the post. Typically, this URL is displayed in green, beneath the blog search result and is linked to the blog.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GblogResult.PublishedDate">
+            <summary>
+            Supplies the published date (rfc-822 format) of the blog post referenced by this search result.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.GblogSearchClient">
+            <summary>
+            The client for blog search.
+            </summary>
+            <remarks>
+            You can use public static fields of <see cref="T:Google.API.Search.SortType"/> as your parameter.
+            </remarks>
+            <seealso cref="T:Google.API.Search.SortType"/>
+        </member>
+        <member name="M:Google.API.Search.GblogSearchClient.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Google.API.Search.GblogSearchClient"/> class.
+            </summary>
+            <param name="referrer">The http referrer header.</param>
+            <remarks>Applications MUST always include a valid and accurate http referer header in their requests.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GblogSearchClient.Search(System.String,System.Int32)">
+            <summary>
+            Search blogs.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GblogSearchClient.Search(System.String,System.Int32,System.String)">
+            <summary>
+            Search blogs.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GblogSearchClient.BeginSearch(System.String,System.Int32,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching blogs.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GblogSearchClient.BeginSearch(System.String,System.Int32,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching blogs.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GblogSearchClient.EndSearch(System.IAsyncResult)">
+            <summary>
+            returns search results.
+            </summary>
+            <param name="asyncResult">An <see cref="T:System.IAsyncResult"/> that references a pending request for a response.</param>
+            <returns>The search results.</returns>
+        </member>
+        <member name="P:Google.API.Search.GblogSearchRequest.SortBy">
+            <summary>
+            This optional argument tells the blog search system how to order results. Results may be ordered by relevance (which is the default), or by date. To select ordering by relevance, do not supply this argument. To select ordering by date, set scoring as scoring=d.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.IBookResult">
+            <summary>
+            Book search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBookResult.Title">
+            <summary>
+            Gets the title of the book.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBookResult.Url">
+            <summary>
+            Gets the URL of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBookResult.Authors">
+            <summary>
+            Gets the list of authors of the book.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBookResult.BookId">
+            <summary>
+            Gets the identifier associated with the book. This is typically an ISBN.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBookResult.PublishedYear">
+            <summary>
+            Gets the year that the book was published.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBookResult.PageCount">
+            <summary>
+            Gets the number of pages contained within the book.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IBookResult.TbImage">
+            <summary>
+            Gets a thumbnail image of the books cover.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.GSearchResultClass">
+            <summary>
+            Indicates the "type" of result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.TitleWithFormatting">
+            <summary>
+            Supplies the title of the book.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.Title">
+            <summary>
+            Supplies the title, but unlike .title, this property is stripped of html markup (e.g., &lt;b&gt;, &lt;i&gt;, etc.)
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.UnescapedUrl">
+            <summary>
+            Supplies the raw URL of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.Url">
+            <summary>
+            Supplies an escaped version of the above URL.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.Authors">
+            <summary>
+            Supplies the list of authors of the book.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.BookId">
+            <summary>
+            Supplies the identifier associated with the book. This is typically an ISBN.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.PublishedYear">
+            <summary>
+            Supplies the year that the book was published.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.PageCount">
+            <summary>
+            Supplies the number of pages contained within the book.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.TbWidth">
+            <summary>
+            Supplies the width in pixels of the book cover thumbnail.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.TbHeight">
+            <summary>
+            Supplies the height in pixels of the book cover thumbnail.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookResult.TbUrl">
+            <summary>
+            Supplies the url of a thumbnail image which visually represents book cover.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.GbookSearchClient">
+            <summary>
+            The client for book search.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.GbookSearchClient.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Google.API.Search.GbookSearchClient"/> class.
+            </summary>
+            <param name="referrer">The http referrer header.</param>
+            <remarks>Applications MUST always include a valid and accurate http referer header in their requests.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GbookSearchClient.Search(System.String,System.Int32)">
+            <summary>
+            Search books.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GbookSearchClient.Search(System.String,System.Int32,System.Boolean)">
+            <summary>
+            Search books.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="fullViewOnly">Whether to restrict the search to "full view" books.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GbookSearchClient.Search(System.String,System.Int32,System.Boolean,System.String)">
+            <summary>
+            Search books.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="fullViewOnly">Whether to restrict the search to "full view" books.</param>
+            <param name="library">The specified user-defined library. If it not null, the search will restrict the search to this library.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GbookSearchClient.BeginSearch(System.String,System.Int32,System.AsyncCallback,System.Object)">
+            <summary>
+            Search books.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GbookSearchClient.BeginSearch(System.String,System.Int32,System.Boolean,System.AsyncCallback,System.Object)">
+            <summary>
+            Search books.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="fullViewOnly">Whether to restrict the search to "full view" books.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GbookSearchClient.BeginSearch(System.String,System.Int32,System.Boolean,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Search books.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="fullViewOnly">Whether to restrict the search to "full view" books.</param>
+            <param name="library">The specified user-defined library. If it not null, the search will restrict the search to this library.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GbookSearchClient.EndSearch(System.IAsyncResult)">
+            <summary>
+            returns search results.
+            </summary>
+            <param name="asyncResult">An <see cref="T:System.IAsyncResult"/> that references a pending request for a response.</param>
+            <returns>The search results.</returns>
+        </member>
+        <member name="P:Google.API.Search.GbookSearchRequest.FullViewOnly">
+            <summary>
+            This optional argument tells the book search system to restrict the search to "full view" books, or all books. A value of as_brr=1 restricts the search to only those books that are viewable in full. The default case is all books and that is indicated by not specifying this argument.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GbookSearchRequest.Library">
+            <summary>
+            This optional argument tells the book search system to restrict the search to the specified user-defined library.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.IImageResult">
+            <summary>
+            Image search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IImageResult.ImageId">
+            <summary>
+            Gets a hashcode of the image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IImageResult.Title">
+            <summary>
+            Gets the title of the image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IImageResult.Url">
+            <summary>
+            Gets the the URL of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IImageResult.VisibleUrl">
+            <summary>
+            Gets a shortened version of the URL associated with the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IImageResult.OriginalContextUrl">
+            <summary>
+            Gets the URL of the page containing the image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IImageResult.Width">
+            <summary>
+            Gets the width of the image in pixels.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IImageResult.Height">
+            <summary>
+            Gets the height of the image in pixels.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IImageResult.TbImage">
+            <summary>
+            Gets a thumbnail image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IImageResult.Content">
+            <summary>
+            Gets a brief snippet of information from the page associated with the search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.GSearchResultClass">
+            <summary>
+            Indicates the "type" of result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.TitleWithFormatting">
+            <summary>
+            Supplies the title of the image, which is usually the base filename.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.Title">
+            <summary>
+            Supplies the title, but unlike .title, this property is stripped of html markup (e.g., &lt;b&gt;, &lt;i&gt;, etc.)
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.Url">
+            <summary>
+            Supplies the raw URL of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.EscapedUrl">
+            <summary>
+            Supplies an escaped version of the above URL.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.VisibleUrl">
+            <summary>
+            Supplies a shortened version of the URL associated with the result. Typically displayed in green, stripped of a protocol and path.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.OriginalContextUrl">
+            <summary>
+            Supplies the URL of the page containing the image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.Width">
+            <summary>
+            Supplies the width of the image in pixels.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.Height">
+            <summary>
+            Supplies the height of the image in pixels.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.TbWidth">
+            <summary>
+            Supplies the width in pixels of the image thumbnail.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.TbHeight">
+            <summary>
+            Supplies the height in pixels of the image thumbnail.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.TbUrl">
+            <summary>
+            Supplies the url of a thumbnail image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.Content">
+            <summary>
+            Supplies a brief snippet of information from the page associated with the search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageResult.ContentNoFormatting">
+            <summary>
+            Supplies the same information as .content only stripped of HTML formatting.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.GimageSearchClient">
+            <summary>
+            The client for image search.
+            </summary>
+            <remarks>
+            You can use public static fields of <see cref="T:Google.API.Search.SafeLevel"/>, <see cref="T:Google.API.Search.ImageSize"/>, <see cref="T:Google.API.Search.Colorization"/>, <see cref="T:Google.API.Search.ImageColor"/>, <see cref="T:Google.API.Search.ImageType"/> and <see cref="T:Google.API.Search.ImageFileType"/> as your parameters.
+            </remarks>
+            <seealso cref="T:Google.API.Search.SafeLevel"/>
+            <seealso cref="T:Google.API.Search.ImageSize"/>
+            <seealso cref="T:Google.API.Search.Colorization"/>
+            <seealso cref="T:Google.API.Search.ImageColor"/>
+            <seealso cref="T:Google.API.Search.ImageType"/>
+            <seealso cref="T:Google.API.Search.ImageFileType"/>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Google.API.Search.GimageSearchClient"/> class.
+            </summary>
+            <param name="referrer">The http referrer header.</param>
+            <remarks>Applications MUST always include a valid and accurate http referer header in their requests.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.Search(System.String,System.Int32)">
+            <summary>
+            Search images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <returns>The result itmes.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.Search(System.String,System.Int32,System.String)">
+            <summary>
+            Search images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="site">The specified domain. It will restrict the search to images within this domain.e.g., <c>photobucket.com</c>.</param>
+            <returns>The result itmes.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.Search(System.String,System.Int32,System.String,System.String,System.String,System.String)">
+            <summary>
+            Search images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="imageSize">The size of image.</param>
+            <param name="colorization">The specified colorization of image.</param>
+            <param name="imageType">The special type of image.</param>
+            <param name="fileType">The specified file type of image.</param>
+            <returns>The result itmes.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.Search(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Search images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="imageSize">The size of image.</param>
+            <param name="colorization">The specified colorization of image.</param>
+            <param name="imageType">The special type of image.</param>
+            <param name="fileType">The specified file type of image.</param>
+            <param name="site">The specified domain. It will restrict the search to images within this domain.e.g., <c>photobucket.com</c>.</param>
+            <returns>The result itmes.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.Search(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Search images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="safeLevel">The search safety level.</param>
+            <param name="imageSize">The size of image.</param>
+            <param name="colorization">The specified colorization of image.</param>
+            <param name="imageType">The special type of image.</param>
+            <param name="fileType">The specified file type of image.</param>
+            <param name="site">The specified domain. It will restrict the search to images within this domain.e.g., <c>photobucket.com</c>.</param>
+            <returns>The result itmes.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.Search(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Search images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="safeLevel">The search safety level.</param>
+            <param name="imageSize">The size of image.</param>
+            <param name="colorization">The specified colorization of image.</param>
+            <param name="color">The specified color of image.</param>
+            <param name="imageType">The special type of image.</param>
+            <param name="fileType">The specified file type of image.</param>
+            <param name="site">The specified domain. It will restrict the search to images within this domain.e.g., <c>photobucket.com</c>.</param>
+            <returns>The result itmes.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.BeginSearch(System.String,System.Int32,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.BeginSearch(System.String,System.Int32,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="site">The specified domain. It will restrict the search to images within this domain.e.g., <c>photobucket.com</c>.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.BeginSearch(System.String,System.Int32,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="imageSize">The size of image.</param>
+            <param name="colorization">The specified colorization of image.</param>
+            <param name="imageType">The special type of image.</param>
+            <param name="fileType">The specified file type of image.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.BeginSearch(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="imageSize">The size of image.</param>
+            <param name="colorization">The specified colorization of image.</param>
+            <param name="imageType">The special type of image.</param>
+            <param name="fileType">The specified file type of image.</param>
+            <param name="site">The specified domain. It will restrict the search to images within this domain.e.g., <c>photobucket.com</c>.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.BeginSearch(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="safeLevel">The search safety level.</param>
+            <param name="imageSize">The size of image.</param>
+            <param name="colorization">The specified colorization of image.</param>
+            <param name="imageType">The special type of image.</param>
+            <param name="fileType">The specified file type of image.</param>
+            <param name="site">The specified domain. It will restrict the search to images within this domain.e.g., <c>photobucket.com</c>.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.BeginSearch(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching images.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="safeLevel">The search safety level.</param>
+            <param name="imageSize">The size of image.</param>
+            <param name="colorization">The specified colorization of image.</param>
+            <param name="color">The specified color of image.</param>
+            <param name="imageType">The special type of image.</param>
+            <param name="fileType">The specified file type of image.</param>
+            <param name="site">The specified domain. It will restrict the search to images within this domain.e.g., <c>photobucket.com</c>.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GimageSearchClient.EndSearch(System.IAsyncResult)">
+            <summary>
+            returns search results.
+            </summary>
+            <param name="asyncResult">An <see cref="T:System.IAsyncResult"/> that references a pending request for a response.</param>
+            <returns>The search results.</returns>
+        </member>
+        <member name="P:Google.API.Search.GimageSearchRequest.SafeLevel">
+            <summary>
+            This optional argument supplies the search safety level.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageSearchRequest.ImageSize">
+            <summary>
+            This optional argument tells the image search system to restrict the search to images of the specified size.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageSearchRequest.Colorization">
+            <summary>
+            This optional argument tells the image search system to restrict the search to images of the specified colorization.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageSearchRequest.ImageColor">
+            <summary>
+            This optional argument tells the image search system to filter the search to images of the specified color.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageSearchRequest.ImageType">
+            <summary>
+            This optional argument tells the image search system to restrict the search to images of the specified type.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageSearchRequest.FileType">
+            <summary>
+            This optional argument tells the image search system to restrict the search to images of the specified filetype.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GimageSearchRequest.Site">
+            <summary>
+            This optional argument tells the image search system to restrict the search to images within the specified domain, e.g., as_sitesearch=photobucket.com.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.ILocalResult">
+            <summary>
+            Local search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.Title">
+            <summary>
+            Gets the title.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.Url">
+            <summary>
+            Gets the the URL of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.Latitude">
+            <summary>
+            Gets the latitude value of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.Longitude">
+            <summary>
+            Gets the longitude value of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.StreetAddress">
+            <summary>
+            Gets the street address and number for the given result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.City">
+            <summary>
+            Gets the city name for the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.Region">
+            <summary>
+            Gets the region name for the result (e.g., in the us, this is typically a state abbreviation, in other regions it might be a province, etc.).
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.Country">
+            <summary>
+            Gets the country name for the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.PhoneNumbers">
+            <summary>
+            Gets an array of phone numbers.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.AddressLines">
+            <summary>
+            Supplies an array consisting of the mailing address lines for this result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.DirectionUrl">
+            <summary>
+            Gets a url that can be used to provide driving directions from the center of the set of search results to this search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.ToHereDirectionUrl">
+            <summary>
+            Gets a url that can be used to provide driving directions from a user specified location to this search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.FromHereDirectionUrl">
+            <summary>
+            Gets a url that can be used to provide driving directions from this search result to a user specified location.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.StaticMap">
+            <summary>
+            Gets a static map image representation of the current result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.ListingType">
+            <summary>
+            Gets the type of this result which can either be "local" in the case of a local business listing or geocode result, or "kml" in the case of a KML listing.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ILocalResult.Content">
+            <summary>
+            For "kml" results, this property contains a content snippet associated with the KML result. For "local" results, this property is the empty string.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.GSearchResultClass">
+            <summary>
+            Indicates the "type" of result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.TitleWithFormatting">
+            <summary>
+            Supplies the title for the result. In some cases, the title and the streetAddress are the same. This typically occurs when the search term is a street address such as 1231 Lisa Lane, Los Altos, CA. 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.Title">
+            <summary>
+            Supplies the title, but unlike .title, this property is stripped of html markup (e.g., &lt;b&gt;, &lt;i&gt;, etc.) 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.Url">
+            <summary>
+            Supplies a url to a Google Maps Details page associated with the search result 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.Latitude">
+            <summary>
+            Supplies the latitude value of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.Longitude">
+            <summary>
+            Supplies the longitude value of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.StreetAddress">
+            <summary>
+            Supplies the street address and number for the given result. Note:, in some cases, this property may be set to "" if the result has no known street address. address line. 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.City">
+            <summary>
+            Supplies the city name for the result. Note:, in some cases, this property may be set to "". 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.Region">
+            <summary>
+            Supplies a region name for the result (e.g., in the us, this is typically a state abbreviation, in other regions it might be a province, etc.) Note:, in some cases, this property may be set to "". 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.Country">
+            <summary>
+            Supplies a country name for the result. Note:, in some cases, this property may be set to "". 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.PhoneNumbers">
+            <summary>
+            Supplies an array of phone number objects
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.AddressLines">
+            <summary>
+            Supplies an array consisting of the mailing address lines for this result
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.DirectionUrl">
+            <summary>
+            Supplies a url that can be used to provide driving directions from the center of the set of search results to this search result. Note, in some cases this property may be missing or null.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.ToHereDirectionUrl">
+            <summary>
+            Supplies a url that can be used to provide driving directions from a user specified location to this search result. Note, in some cases this property may be missing or null.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.FromHereDirectionUrl">
+            <summary>
+            Supplies a url that can be used to provide driving directions from this search result to a user specified location. Note, in some cases this property may be missing or null.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.StaticMapUrl">
+            <summary>
+            Supplies a url to a static map image representation of the current result. The image is 150px wide by 100px tall with a single marker representing the current location. Expected usage is to hyperlink this image using the url property.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.ListingType">
+            <summary>
+            This property indicates the type of this result which can either be "local" in the case of a local business listing or geocode result, or "kml" in the case of a KML listing. 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GlocalResult.Content">
+            <summary>
+            For "kml" results, this property contains a content snippet associated with the KML result. For "local" results, this property is the empty string.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.GlocalSearchClient">
+            <summary>
+            The client for local search.
+            </summary>
+            <remarks>
+            You can use public static fields of <see cref="T:Google.API.Search.LocalResultType"/> as your parameter.
+            </remarks>
+            <seealso cref="T:Google.API.Search.LocalResultType"/>
+        </member>
+        <member name="M:Google.API.Search.GlocalSearchClient.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Google.API.Search.GlocalSearchClient"/> class.
+            </summary>
+            <param name="referrer">The http referrer header.</param>
+            <remarks>Applications MUST always include a valid and accurate http referer header in their requests.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GlocalSearchClient.Search(System.String,System.Int32,System.Single,System.Single)">
+            <summary>
+            Search local infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="latitude">The latitude value of local.</param>
+            <param name="longitude">The longitude value of local.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GlocalSearchClient.Search(System.String,System.Int32,System.Single,System.Single,System.String)">
+            <summary>
+            Search local infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="latitude">The latitude value of local.</param>
+            <param name="longitude">The longitude value of local.</param>
+            <param name="resultType">The type of local search results.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GlocalSearchClient.Search(System.String,System.Int32,System.Single,System.Single,System.Single,System.Single)">
+            <summary>
+            Search local infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="latitude">The latitude value of local.</param>
+            <param name="longitude">The longitude value of local.</param>
+            <param name="width">The width value of search bouding.</param>
+            <param name="height">The height value of search bounding.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GlocalSearchClient.Search(System.String,System.Int32,System.Single,System.Single,System.Single,System.Single,System.String)">
+            <summary>
+            Search local infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="latitude">The latitude value of local.</param>
+            <param name="longitude">The longitude value of local.</param>
+            <param name="width">The width value of search bouding.</param>
+            <param name="height">The height value of search bounding.</param>
+            <param name="resultType">The type of local search results.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GlocalSearchClient.BeginSearch(System.String,System.Int32,System.Single,System.Single,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching local infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="latitude">The latitude value of local.</param>
+            <param name="longitude">The longitude value of local.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GlocalSearchClient.BeginSearch(System.String,System.Int32,System.Single,System.Single,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching local infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="latitude">The latitude value of local.</param>
+            <param name="longitude">The longitude value of local.</param>
+            <param name="resultType">The type of local search results.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GlocalSearchClient.BeginSearch(System.String,System.Int32,System.Single,System.Single,System.Single,System.Single,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching local infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="latitude">The latitude value of local.</param>
+            <param name="longitude">The longitude value of local.</param>
+            <param name="width">The width value of search bouding.</param>
+            <param name="height">The height value of search bounding.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GlocalSearchClient.BeginSearch(System.String,System.Int32,System.Single,System.Single,System.Single,System.Single,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching local infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="latitude">The latitude value of local.</param>
+            <param name="longitude">The longitude value of local.</param>
+            <param name="width">The width value of search bouding.</param>
+            <param name="height">The height value of search bounding.</param>
+            <param name="resultType">The type of local search results.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GlocalSearchClient.EndSearch(System.IAsyncResult)">
+            <summary>
+            returns search results.
+            </summary>
+            <param name="asyncResult">An <see cref="T:System.IAsyncResult"/> that references a pending request for a response.</param>
+            <returns>The search results.</returns>
+        </member>
+        <member name="T:Google.API.Search.INewsImage">
+            <summary>
+            A image that represents a news article.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsImage.Url">
+            <summary>
+            Gets the the URL of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsImage.OriginalContextUrl">
+            <summary>
+            Gets the URL of the page containing the image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsImage.Publisher">
+            <summary>
+            Gets the name of the publisher of the image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsImage.TbImage">
+            <summary>
+            Gets a thumbnail image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsImage.Title">
+            <summary>
+            supplies the title of the article associated with the image
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsImage.TitleNoFormatting">
+            <summary>
+            same as above but stripped of HTML formatting
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsImage.Url">
+            <summary>
+            supplies the URL of the image
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsImage.OriginalContextUrl">
+            <summary>
+            supplies the URL of the article that contains this image. The image, when displayed, should normally link through this URL
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsImage.Publisher">
+            <summary>
+            supplies the publisher of the news article containing the image. The suggested user interface is to display this under or in close proximity to the image, hyper linked through the .url property from above
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsImage.TbWidth">
+            <summary>
+            supplies the width of the image referenced above. The standard size of this image is 80 pixels wide and 50 pixels tall
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsImage.TbHeight">
+            <summary>
+            supplies the height of the image referenced above. The standard size of this image is 80 pixels wide and 50 pixels tall
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.INewsResultItem">
+            <summary>
+            A story of news search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResultItem.Url">
+            <summary>
+            Gets the url.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResultItem.Title">
+            <summary>
+            Gets the title.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResultItem.Publisher">
+            <summary>
+            Gets the name of the publisher of the news story.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResultItem.Location">
+            <summary>
+            Gets the location of the news story. This is a list of locations in most specific to least specific order where the components are seperated by ",". Note, there may only be one element in the list... A typical value for this property is "Edinburgh,Scotland,UK" or possibly "USA".
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResultItem.PublishedDate">
+            <summary>
+            Gets the published date of the news story referenced by this search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResultItem.Language">
+            <summary>
+            Gets the language of the news story.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResultItem.TitleWithFormatting">
+            <summary>
+            Supplies the title value of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResultItem.Title">
+            <summary>
+            Supplies the title, but unlike .title, this property is stripped of html markup (e.g., &lt;b&gt;, &lt;i&gt;, etc.)
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResultItem.Url">
+            <summary>
+            Supplies the raw URL of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResultItem.EscapedUrl">
+            <summary>
+            Supplies an escaped version of the above URL.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResultItem.Publisher">
+            <summary>
+            Supplies the name of the publisher of the news story.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResultItem.Location">
+            <summary>
+            Contains the location of the news story. This is a list of locations in most specific to least specific order where the components are seperated by ",". Note, there may only be one element in the list... A typical value for this property is "Edinburgh,Scotland,UK" or possibly "USA".
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResultItem.PublishedDate">
+            <summary>
+            Supplies the published date (rfc-822 format) of the news story referenced by this search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResultItem.Language">
+            <summary>
+            This property is optional. When present, it indicates the language of the news story.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.INewsResult">
+            <summary>
+            News search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResult.ClusterUrl">
+            <summary>
+            Gets the URL points to a landing page that points to all of the related stories. When a news result has a set of related stories, this URL is available and non-null. Otherwise, it is null.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResult.Content">
+            <summary>
+            Gets a snippet of content from the news story associated with this search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResult.RelatedStories">
+            <summary>
+            Gets a set of closely related stories. If there is no related story it will return null.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResult.Image">
+            <summary>
+            Gets a image that represents the cluster of news articles related to this result. If there is no good image for this result it will return null.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResult.Author">
+            <summary>
+            Gets the name of the person that the quote is attributed to. Note, you can get the author only when this is a quote. 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.INewsResult.IsQuote">
+            <summary>
+            Gets whether it is a quote or a normal news.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResult.GSearchResultClass">
+            <summary>
+            Indicates the "type" of result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResult.ClusterUrl">
+            <summary>
+            When a news result has a set of related stories, this URL is available and non-null. In this situation, the URL points to a landing page that points to all of the related stories.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResult.Content">
+            <summary>
+            Supplies a snippet of content from the news story associated with this search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResult.RelatedStories">
+            <summary>
+            This property is optional. It only appears in a result when the story also has a set of closely related stories. In this case, the relatedStories[] array will be present.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsResult.Image">
+            <summary>
+            This property is optional. It only appears in a result when the system has determined that there is a good image that represents the cluster of news articles related to this result.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.GnewsSearchClient">
+            <summary>
+            The client for news search.
+            </summary>
+            <remarks>
+            You can use public static fields of <see cref="T:Google.API.Search.SortType"/>, <see cref="T:Google.API.Search.NewsTopic"/> and <see cref="T:Google.API.Search.NewsEdition"/> as your parameters.
+            </remarks>
+            <seealso cref="T:Google.API.Search.SortType"/>
+            <seealso cref="T:Google.API.Search.NewsTopic"/>
+            <seealso cref="T:Google.API.Search.NewsEdition"/>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Google.API.Search.GnewsSearchClient"/> class.
+            </summary>
+            <param name="referrer">The http referrer header.</param>
+            <remarks>Applications MUST always include a valid and accurate http referer header in their requests.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.Search(System.String,System.Int32)">
+            <summary>
+            Search news.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.Search(System.String,System.Int32,System.String,System.String)">
+            <summary>
+            Search news.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="geo">A particular location of the news. You must supply either a city, state, country, or zip code as in "Santa Barbara" or "British Columbia" or "Peru" or "93108".</param>
+            <param name="sortBy">The way to order results.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.Search(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Search news.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="geo">A particular location of the news. You must supply either a city, state, country, or zip code as in "Santa Barbara" or "British Columbia" or "Peru" or "93108".</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="quoteId">This optional argument tells the news search system to scope search results to include only quote typed results.</param>
+            <param name="topic">This optional argument tells the news search system to scope search results to a particular topic.</param>
+            <param name="edition">This optional argument tells the news search system which edition of news to pull results from.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.SearchLocal(System.String,System.Int32)">
+            <summary>
+            Search the latest local news.
+            </summary>
+            <param name="geo">A particular location of the news. You must supply either a city, state, country, or zip code as in "Santa Barbara" or "British Columbia" or "Peru" or "93108".</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.SearchLocal(System.String,System.Int32,System.String)">
+            <summary>
+            Search the latest local news.
+            </summary>
+            <param name="geo">A particular location of the news. You must supply either a city, state, country, or zip code as in "Santa Barbara" or "British Columbia" or "Peru" or "93108".</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.SearchLocal(System.String,System.Int32,System.String,System.String,System.String,System.String)">
+            <summary>
+            Search the latest local news.
+            </summary>
+            <param name="geo">A particular location of the news. You must supply either a city, state, country, or zip code as in "Santa Barbara" or "British Columbia" or "Peru" or "93108".</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="quoteId">This optional argument tells the news search system to scope search results to include only quote typed results.</param>
+            <param name="topic">This optional argument tells the news search system to scope search results to a particular topic.</param>
+            <param name="edition">This optional argument tells the news search system which edition of news to pull results from.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.SearchTopic(System.String,System.Int32)">
+            <summary>
+            Search the latest news of specified topic.
+            </summary>
+            <param name="topic">This optional argument tells the news search system to scope search results to a particular topic.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.SearchTopic(System.String,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Search the latest news of specified topic.
+            </summary>
+            <param name="topic">This optional argument tells the news search system to scope search results to a particular topic.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="quoteId">This optional argument tells the news search system to scope search results to include only quote typed results.</param>
+            <param name="edition">This optional argument tells the news search system which edition of news to pull results from.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.BeginSearch(System.String,System.Int32,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching news.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.BeginSearch(System.String,System.Int32,System.String,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching news.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="geo">A particular location of the news. You must supply either a city, state, country, or zip code as in "Santa Barbara" or "British Columbia" or "Peru" or "93108".</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.BeginSearch(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching news.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="geo">A particular location of the news. You must supply either a city, state, country, or zip code as in "Santa Barbara" or "British Columbia" or "Peru" or "93108".</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="quoteId">This optional argument tells the news search system to scope search results to include only quote typed results.</param>
+            <param name="topic">This optional argument tells the news search system to scope search results to a particular topic.</param>
+            <param name="edition">This optional argument tells the news search system which edition of news to pull results from.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.EndSearch(System.IAsyncResult)">
+            <summary>
+            returns search results.
+            </summary>
+            <param name="asyncResult">An <see cref="T:System.IAsyncResult"/> that references a pending request for a response.</param>
+            <returns>The search results.</returns>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.BeginSearchLocal(System.String,System.Int32,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching the latest local news.
+            </summary>
+            <param name="geo">A particular location of the news. You must supply either a city, state, country, or zip code as in "Santa Barbara" or "British Columbia" or "Peru" or "93108".</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.BeginSearchLocal(System.String,System.Int32,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching the latest local news.
+            </summary>
+            <param name="geo">A particular location of the news. You must supply either a city, state, country, or zip code as in "Santa Barbara" or "British Columbia" or "Peru" or "93108".</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.BeginSearchLocal(System.String,System.Int32,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching the latest local news.
+            </summary>
+            <param name="geo">A particular location of the news. You must supply either a city, state, country, or zip code as in "Santa Barbara" or "British Columbia" or "Peru" or "93108".</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="quoteId">This optional argument tells the news search system to scope search results to include only quote typed results.</param>
+            <param name="topic">This optional argument tells the news search system to scope search results to a particular topic.</param>
+            <param name="edition">This optional argument tells the news search system which edition of news to pull results from.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.EndSearchLocal(System.IAsyncResult)">
+            <summary>
+            returns search results.
+            </summary>
+            <param name="asyncResult">An <see cref="T:System.IAsyncResult"/> that references a pending request for a response.</param>
+            <returns>The search results.</returns>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.BeginSearchTopic(System.String,System.Int32,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching the latest news of specified topic.
+            </summary>
+            <param name="topic">This optional argument tells the news search system to scope search results to a particular topic.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.BeginSearchTopic(System.String,System.Int32,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching the latest news of specified topic.
+            </summary>
+            <param name="topic">This optional argument tells the news search system to scope search results to a particular topic.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="quoteId">This optional argument tells the news search system to scope search results to include only quote typed results.</param>
+            <param name="edition">This optional argument tells the news search system which edition of news to pull results from.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GnewsSearchClient.EndSearchTopic(System.IAsyncResult)">
+            <summary>
+            returns search results.
+            </summary>
+            <param name="asyncResult">An <see cref="T:System.IAsyncResult"/> that references a pending request for a response.</param>
+            <returns>The search results.</returns>
+        </member>
+        <member name="P:Google.API.Search.GnewsSearchRequest.SortBy">
+            <summary>
+            This optional argument tells the news search system how to order results. Results may be ordered by relevance (which is the default), or by date. To select ordering by relevance, do not supply this argument. To select ordering by date, set scoring as scoring=d.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsSearchRequest.Geo">
+            <summary>
+            This optional argument tells the news search system to scope search results to a particular location. With this argument present, the query argument (q) becomes optional. Note, this is a very new feature and locally scoped query coverage is somewhat sparse. You must supply either a city, state, country, or zip code as in geo=Santa%20Barbara or geo=British%20Columbia or geo=Peru or geo=93108.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsSearchRequest.QuoteId">
+            <summary>
+            This optional argument tells the news search system to scope search results to include only quote typed results (rather than classic news article style results). With this argument present, the query argument (q) becomes optional. The value of this argument designates a prominent individual whose quotes have been recognized and classified by the Google News search service. For instance, Barack Obama has a qsid  value of tPjE5CDNzMicmM and John McCain has a value of lE61RnznhxvadM. Note, this is a very new feature and we currently do not have a good search or descovery mechanism for these qsid values.. 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsSearchRequest.Topic">
+            <summary>
+            This optional argument tells the news search system to scope search results to a particular topic. The value of the argument specifies the topic in the current or selected edition.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GnewsSearchRequest.Edition">
+            <summary>
+            This optional argument tells the news search system which edition of news to pull results from.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.IPatentResult">
+            <summary>
+            Patent search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IPatentResult.Title">
+            <summary>
+            Gets the title of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IPatentResult.Content">
+            <summary>
+            Gets a snippet style description of the patent.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IPatentResult.Url">
+            <summary>
+            Gets the URL of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IPatentResult.ApplicationDate">
+            <summary>
+            Gets the application filing date of the patent.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IPatentResult.PatentNumber">
+            <summary>
+            Gets the patent number for issued patents, and the application number for filed, but not yet issued patents.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IPatentResult.PatentStatus">
+            <summary>
+            Gets the status of the patent which can either be "filed" for filed, but not yet issued patents, or "issued" for issued patents.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IPatentResult.Assignee">
+            <summary>
+            Gets the assignee of the patent.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IPatentResult.TbImage">
+            <summary>
+            Gets a thumbnail image which visually represents the patent.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentResult.GSearchResultClass">
+            <summary>
+            Indicates the "type" of result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentResult.TitleWithFormatting">
+            <summary>
+            Supplies the title value of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentResult.Title">
+            <summary>
+            Supplies the title, but unlike .title, this property is stripped of html markup (e.g., &lt;b&gt;, &lt;i&gt;, etc.)
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentResult.Content">
+            <summary>
+            Supplies a snippet style description of the patent.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentResult.Url">
+            <summary>
+            Supplies the raw URL of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentResult.EscapedUrl">
+            <summary>
+            Supplies an escaped version of the above URL.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentResult.ApplicationDate">
+            <summary>
+            Supplies the application filing date of the patent (rfc-822 format).
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentResult.PatentNumber">
+            <summary>
+            Supplies the patent number for issued patents, and the application number for filed, but not yet issued patents.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentResult.PatentStatus">
+            <summary>
+            Supplies the status of the patent which can either be "filed" for filed, but not yet issued patents, or "issued" for issued patents.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentResult.Assignee">
+            <summary>
+            Supplies the assignee of the patent.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentResult.TbUrl">
+            <summary>
+            Supplies the url of a thumbnail image which visually represents the patent.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.GpatentSearchClient">
+            <summary>
+            The client for patent search.
+            </summary>
+            <remarks>
+            You can use public static fields of <see cref="T:Google.API.Search.SortType"/> as your parameter.
+            </remarks>
+            <seealso cref="T:Google.API.Search.SortType"/>
+        </member>
+        <member name="M:Google.API.Search.GpatentSearchClient.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Google.API.Search.GpatentSearchClient"/> class.
+            </summary>
+            <param name="referrer">The http referrer header.</param>
+            <remarks>Applications MUST always include a valid and accurate http referer header in their requests.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GpatentSearchClient.Search(System.String,System.Int32)">
+            <summary>
+            Search patents.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <returns>The result items.</returns>
+            <remarks>
+            Now, the max count of items Google given is <b>64</b>.
+            </remarks>
+        </member>
+        <member name="M:Google.API.Search.GpatentSearchClient.Search(System.String,System.Int32,System.String)">
+            <summary>
+            Search patents.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <returns>The result items.</returns>
+            <remarks>
+            Now, the max count of items Google given is <b>64</b>.
+            </remarks>
+        </member>
+        <member name="M:Google.API.Search.GpatentSearchClient.Search(System.String,System.Int32,System.Boolean,System.Boolean)">
+            <summary>
+            Search patents.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="issuedOnly">Whether restrict the search to ONLY patents that having been issued, skiping all patents that have only been filed.</param>
+            <param name="filedOnly">Whether restrict the search to ONLY patents that only been filed, skipping over all patents that have been issued.</param>
+            <returns>The result items.</returns>
+            <remarks>
+            When both issuedOnly and filedOnly are true, it equals to both are false.
+            Now, the max count of items Google given is <b>64</b>.
+            </remarks>
+        </member>
+        <member name="M:Google.API.Search.GpatentSearchClient.Search(System.String,System.Int32,System.Boolean,System.Boolean,System.String)">
+            <summary>
+            Search patents.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="issuedOnly">Whether restrict the search to ONLY patents that having been issued, skiping all patents that have only been filed.</param>
+            <param name="filedOnly">Whether restrict the search to ONLY patents that only been filed, skipping over all patents that have been issued.</param>
+            <param name="sortBy">The way to order results.</param>
+            <returns>The result items.</returns>
+            <remarks>
+            When both issuedOnly and filedOnly are true, it equals to both are false.
+            Now, the max count of items Google given is <b>64</b>.
+            </remarks>
+        </member>
+        <member name="M:Google.API.Search.GpatentSearchClient.BeginSearch(System.String,System.Int32,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching patents.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GpatentSearchClient.BeginSearch(System.String,System.Int32,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching patents.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GpatentSearchClient.BeginSearch(System.String,System.Int32,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching patents.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="issuedOnly">Whether restrict the search to ONLY patents that having been issued, skiping all patents that have only been filed.</param>
+            <param name="filedOnly">Whether restrict the search to ONLY patents that only been filed, skipping over all patents that have been issued.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+            <remarks>
+            When both issuedOnly and filedOnly are true, it equals to both are false.
+            </remarks>
+        </member>
+        <member name="M:Google.API.Search.GpatentSearchClient.BeginSearch(System.String,System.Int32,System.Boolean,System.Boolean,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching patents.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="issuedOnly">Whether restrict the search to ONLY patents that having been issued, skiping all patents that have only been filed.</param>
+            <param name="filedOnly">Whether restrict the search to ONLY patents that only been filed, skipping over all patents that have been issued.</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+            <remarks>
+            When both issuedOnly and filedOnly are true, it equals to both are false.
+            </remarks>
+        </member>
+        <member name="M:Google.API.Search.GpatentSearchClient.EndSearch(System.IAsyncResult)">
+            <summary>
+            returns search results.
+            </summary>
+            <param name="asyncResult">An <see cref="T:System.IAsyncResult"/> that references a pending request for a response.</param>
+            <returns>The search results.</returns>
+        </member>
+        <member name="P:Google.API.Search.GpatentSearchRequest.IssuedOnly">
+            <summary>
+            This optional argument tells the patent search system to restrict the search to ONLY patents that having been issued, skiping all patents that have only been filed. When specified, that value must be 1 as in &amp;as_psrg=1.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentSearchRequest.FiledOnly">
+            <summary>
+            This optional argument tells the patent search system to restrict the search to ONLY patents that only been filed, skipping over all patents that have been issued. When specified, that value must be 1 as in &amp;as_psra=1.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GpatentSearchRequest.SortBy">
+            <summary>
+            This optional argument tells the patent search system how to order results. Results may be ordered by relevance (which is the default), or by date. To select ordering by relevance, do not supply this argument. To select ordering by descending date where the newest result is first, set scoring as scoring=d. To select ordering by ascending date where the oldest result is first, set scoring as scoring=ad.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.IVideoResult">
+            <summary>
+            Video search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.Title">
+            <summary>
+            Gets the title of the video result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.Content">
+            <summary>
+            Gets a snippet style description of the video clip.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.Url">
+            <summary>
+            Gets the url of a playable version of the video result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.PublishedDate">
+            <summary>
+            Gets the published date of the video.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.Publisher">
+            <summary>
+            Gets the name of the video's publisher.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.Duration">
+            <summary>
+            Gets the approximate duration, in seconds, of the video.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.TbImage">
+            <summary>
+            Gets a thumbnail image which visually represents the video.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.PlayUrl">
+            <summary>
+            Gets the url of the flash version of the video that can be played inline on your page.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.VideoType">
+            <summary>
+            Gets the video type of the video result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.Author">
+            <summary>
+            Gets the author. If present, this property supplies the YouTube user name of the author of the video.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.ViewCount">
+            <summary>
+            Gets the view count. If present, this property supplies a count of the number of plays for this video. 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IVideoResult.Rating">
+            <summary>
+            Gets the rating. If present, this property supplies the rating of the video on a scale of 1 to 5. 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.GSearchResultClass">
+            <summary>
+            Indicates the "type" of result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.TitleWithFormatting">
+            <summary>
+            Supplies the title of the video result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.Title">
+            <summary>
+            Supplies the title, but unlike .title, this property is stripped of html markup (e.g., &lt;b&gt;, &lt;i&gt;, etc.) 
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.Content">
+            <summary>
+            Supplies a snippet style description of the video clip.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.Url">
+            <summary>
+            Supplies the url of a playable version of the video result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.PublishedDate">
+            <summary>
+            Supplies the published date of the video (rfc-822 format).
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.Publisher">
+            <summary>
+            Supplies the name of the video's publisher, typically displayed in green below the video thumbnail, similar to the treatment used for visibleUrl in the other search result objects.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.Duration">
+            <summary>
+            The approximate duration, in seconds, of the video.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.TbWidth">
+            <summary>
+            Supplies the width in pixels of the video thumbnail.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.TbHeight">
+            <summary>
+            Supplies the height in pixels of the video thumbnail.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.TbUrl">
+            <summary>
+            Supplies the url of a thumbnail image which visually represents the video.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.PlayUrl">
+            <summary>
+            If present, supplies the url of the flash version of the video that can be played inline on your page. To play this video simply create and &lt;embed&gt; element on your page using this value as the src attribute and using application/x-shockwave-flash as the type attribute. If you want the video to play right away, make sure to append &amp;autoPlay=is true to the url.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.Author">
+            <summary>
+            If present, this property supplies the YouTube user name of the author of the video.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.ViewCount">
+            <summary>
+            If present, this property supplies a count of the number of plays for this video.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GvideoResult.Rating">
+            <summary>
+            If present, this property supplies the rating of the video on a scale of 1 to 5.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.GvideoSearchClient">
+            <summary>
+            The client for video search.
+            </summary>
+            <remarks>
+            You can use public static fields of <see cref="T:Google.API.Search.SortType"/> as your parameter.
+            </remarks>
+            <seealso cref="T:Google.API.Search.SortType"/>
+        </member>
+        <member name="M:Google.API.Search.GvideoSearchClient.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Google.API.Search.GvideoSearchClient"/> class.
+            </summary>
+            <param name="referrer">The http referrer header.</param>
+            <remarks>Applications MUST always include a valid and accurate http referer header in their requests.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GvideoSearchClient.Search(System.String,System.Int32)">
+            <summary>
+            Search video.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GvideoSearchClient.Search(System.String,System.Int32,System.String)">
+            <summary>
+            Search video.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GvideoSearchClient.BeginSearch(System.String,System.Int32,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching video.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GvideoSearchClient.BeginSearch(System.String,System.Int32,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching video.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="sortBy">The way to order results.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GvideoSearchClient.EndSearch(System.IAsyncResult)">
+            <summary>
+            returns search results.
+            </summary>
+            <param name="asyncResult">An <see cref="T:System.IAsyncResult"/> that references a pending request for a response.</param>
+            <returns>The search results.</returns>
+        </member>
+        <member name="P:Google.API.Search.GvideoSearchRequest.SortBy">
+            <summary>
+            This optional argument tells the video search system how to order results. Results may be ordered by relevance (which is the default), or by date. To select ordering by relevance, do not supply this argument. To select ordering by date, set scoring as scoring=d. 
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.IWebResult">
+            <summary>
+            Web search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IWebResult.Url">
+            <summary>
+            Gets the url.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IWebResult.VisibleUrl">
+            <summary>
+            Gets a shortened version of the URL associated with the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IWebResult.CacheUrl">
+            <summary>
+            Gets a url to google's cached version of the page responsible for producting this result. This property may be null indicating that there is no cache, and it might be out of date in cases where the search result has been saved and in the mean time, the cache has gone stale. For best results, this property should not be persisted.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IWebResult.Title">
+            <summary>
+            Gets the title.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IWebResult.Content">
+            <summary>
+            Gets a brief snippet of information from the page associated with the search result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebResult.GSearchResultClass">
+            <summary>
+            Indicates the "type" of result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebResult.Url">
+            <summary>
+            Supplies the raw URL of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebResult.EscapedUrl">
+            <summary>
+            Supplies an escaped version of the above URL.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebResult.VisibleUrl">
+            <summary>
+            Supplies a shortened version of the URL associated with the result. Typically displayed in green, stripped of a protocol and path.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebResult.CacheUrl">
+            <summary>
+            Supplies a url to google's cached version of the page responsible for producting this result. This property may be null indicating that there is no cache, and it might be out of date in cases where the search result has been saved and in the mean time, the cache has gone stale. For best results, this property should not be persisted.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebResult.TitleWithFormatting">
+            <summary>
+            Supplies the title value of the result.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebResult.Title">
+            <summary>
+            Supplies the title, but unlike .title, this property is stripped of html markup (e.g., &lt;b&gt;, &lt;i&gt;, etc.)
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebResult.Content">
+            <summary>
+            Supplies a brief snippet of information from the page associated with the search result.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.GwebSearchClient">
+            <summary>
+            The client for web search.
+            </summary>
+            <remarks>
+            You can use public static fields of <see cref="T:Google.API.Search.SafeLevel"/>, <see cref="T:Google.API.Search.Language"/> and <see cref="T:Google.API.Search.DuplicateFilter"/> as your parameters.
+            </remarks>
+            <seealso cref="T:Google.API.Search.SafeLevel"/>
+            <seealso cref="T:Google.API.Search.Language"/>
+            <seealso cref="T:Google.API.Search.DuplicateFilter"/>
+        </member>
+        <member name="M:Google.API.Search.GwebSearchClient.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Google.API.Search.GwebSearchClient"/> class.
+            </summary>
+            <param name="referrer">The http referrer header.</param>
+            <remarks>Applications MUST always include a valid and accurate http referer header in their requests.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GwebSearchClient.Search(System.String,System.Int32)">
+            <summary>
+            Search web infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <returns>The result items.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GwebSearchClient.Search(System.String,System.Int32,System.String)">
+            <summary>
+            Search web infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="language">The language you want to search.</param>
+            <returns>The result itmes.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GwebSearchClient.Search(System.String,System.Int32,System.String,System.String)">
+            <summary>
+            Search web infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="language">The language you want to search.</param>
+            <param name="safeLevel">The search safety level.</param>
+            <returns>The result itmes.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GwebSearchClient.Search(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Search web infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="customSearchId">This optional argument supplies the unique id for the Custom Search Engine that should be used for this request.</param>
+            <param name="customSearchReference">This optional argument supplies the url of a linked Custom Search Engine specification that should be used to satisfy this request.</param>
+            <param name="safeLevel">The search safety level.</param>
+            <param name="language">The language you want to search.</param>
+            <param name="duplicateFilter">This optional argument controls turning on or off the duplicate content filter. Default value is true.</param>
+            <param name="country">This optional argument allows the caller to tailor the results to a specific country. The value should be a valid <a href="http://en.wikipedia.org/wiki/ISO_3166-1">country code</a> (e.g. uk, de, etc.).</param>
+            <returns>The result itmes.</returns>
+            <remarks>Now, the max count of items Google given is <b>64</b>.</remarks>
+        </member>
+        <member name="M:Google.API.Search.GwebSearchClient.BeginSearch(System.String,System.Int32,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching web infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GwebSearchClient.BeginSearch(System.String,System.Int32,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching web infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="language">The language you want to search.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GwebSearchClient.BeginSearch(System.String,System.Int32,System.String,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching web infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="language">The language you want to search.</param>
+            <param name="safeLevel">The search safety level.</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GwebSearchClient.BeginSearch(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+            <summary>
+            Begins an asynchronous request for searching web infos.
+            </summary>
+            <param name="keyword">The keyword.</param>
+            <param name="resultCount">The count of result itmes.</param>
+            <param name="customSearchId">This optional argument supplies the unique id for the Custom Search Engine that should be used for this request.</param>
+            <param name="customSearchReference">This optional argument supplies the url of a linked Custom Search Engine specification that should be used to satisfy this request.</param>
+            <param name="safeLevel">The search safety level.</param>
+            <param name="language">The language you want to search.</param>
+            <param name="duplicateFilter">This optional argument controls turning on or off the duplicate content filter. Default value is true.</param>
+            <param name="country">This optional argument allows the caller to tailor the results to a specific country. The value should be a valid <a href="http://en.wikipedia.org/wiki/ISO_3166-1">country code</a> (e.g. uk, de, etc.).</param>
+            <param name="callback">The <see cref="T:System.AsyncCallback"/> delegate.</param>
+            <param name="state">An object containing state information for this asynchronous request.</param>
+            <returns>An <see cref="T:System.IAsyncResult"/> that references the asynchronous request.</returns>
+        </member>
+        <member name="M:Google.API.Search.GwebSearchClient.EndSearch(System.IAsyncResult)">
+            <summary>
+            returns search results.
+            </summary>
+            <param name="asyncResult">An <see cref="T:System.IAsyncResult"/> that references a pending request for a response.</param>
+            <returns>The search results.</returns>
+        </member>
+        <member name="P:Google.API.Search.GwebSearchRequest.CustomSearchId">
+            <summary>
+            This optional argument supplies the unique id for the Custom Search Engine that should be used for this request (e.g., cx=000455696194071821846:reviews).
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebSearchRequest.CustomSearchReference">
+            <summary>
+            This optional argument supplies the url of a linked Custom Search Engine specification that should be used to satisfy this request.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebSearchRequest.SafeLevel">
+            <summary>
+            This optional argument supplies the search safety level.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebSearchRequest.Language">
+            <summary>
+            This optional argument allows the caller to restrict the search to documents written in a particular language, e.g., lr=lang_ja.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebSearchRequest.DuplicateFilter">
+            <summary>
+            This optional argument controls turning on or off the duplicate content filter.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.GwebSearchRequest.Country">
+            <summary>
+            This optional argument allows the caller to tailor the results to a specific country. The value should be a valid country code (e.g. uk, de, etc.). If this argument is not present, then the system will use a value based on the domain used to load the API (e.g. http://www.google.com/jsapi). If the API loader was not used, a value of "us" is assumed.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.ImageColor">
+            <summary>
+            The images of the specified color.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.All">
+            <summary>
+            The All.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.Black">
+            <summary>
+            The Black.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.Blue">
+            <summary>
+            The Blue.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.Brown">
+            <summary>
+            The Brown.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.Gray">
+            <summary>
+            The Gray.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.Green">
+            <summary>
+            The Green.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.Orange">
+            <summary>
+            The Orange.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.Pink">
+            <summary>
+            The Pink.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.Purple">
+            <summary>
+            The Purple.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.Red">
+            <summary>
+            The Red.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.Teal">
+            <summary>
+            The Teal.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.White">
+            <summary>
+            The White.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageColor.Yellow">
+            <summary>
+            The Yellow.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.ImageColor.op_Implicit(System.String)~Google.API.Search.ImageColor">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.ImageColor"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="T:Google.API.Search.ImageFileType">
+            <summary>
+            The specified file type of image.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageFileType.All">
+            <summary>
+            All types. Default value.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageFileType.Jpg">
+            <summary>
+            The jpg images.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageFileType.Png">
+            <summary>
+            The png images.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageFileType.Gif">
+            <summary>
+            The gif images.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageFileType.Bmp">
+            <summary>
+            The bmp images.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.ImageFileType.op_Implicit(System.String)~Google.API.Search.ImageFileType">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.ImageFileType"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="T:Google.API.Search.ImageSize">
+            <summary>
+            The image size.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageSize.All">
+            <summary>
+            All sizes. Default value.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageSize.Icon">
+            <summary>
+            Icon size.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageSize.Small">
+            <summary>
+            Small size.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageSize.Medium">
+            <summary>
+            Medium size.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageSize.Large">
+            <summary>
+            Large size.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageSize.Xlarge">
+            <summary>
+            Large plus size.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageSize.Xxlarge">
+            <summary>
+            Large plus plus size.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageSize.Huge">
+            <summary>
+            Huge size.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.ImageSize.op_Implicit(System.String)~Google.API.Search.ImageSize">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.ImageSize"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="T:Google.API.Search.ImageType">
+            <summary>
+            The special type of image.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageType.All">
+            <summary>
+            All types. Default value.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageType.News">
+            <summary>
+            Images of news.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageType.Face">
+            <summary>
+            Images of faces.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageType.Photo">
+            <summary>
+            Photos.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageType.Clipart">
+            <summary>
+            Clipart images.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.ImageType.Lineart">
+            <summary>
+            Images of line drawings.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.ImageType.op_Implicit(System.String)~Google.API.Search.ImageType">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.ImageType"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="T:Google.API.Search.IPhoneNumber">
+            <summary>
+            A phone number.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IPhoneNumber.Type">
+            <summary>
+            Gets the of this phone number. It can be one of "main", "fax", "mobile", "data", or "".
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.IPhoneNumber.Number">
+            <summary>
+            Gets the phone number.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.ITbImage">
+            <summary>
+            A thumbnail image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ITbImage.Url">
+            <summary>
+            Gets the url of the thumbnail image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ITbImage.Width">
+            <summary>
+            Gets the width of the thumbnail image.
+            </summary>
+        </member>
+        <member name="P:Google.API.Search.ITbImage.Height">
+            <summary>
+            Gets the height of the thumbnail image.
+            </summary>
+        </member>
+        <member name="T:Google.API.Search.Language">
+            <summary>
+            Languages for search API.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Unknown">
+            <summary>
+            The Unknown. Default value.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Arabic">
+            <summary>
+            The Arabic.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Bulgarian">
+            <summary>
+            The Bulgarian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Catalan">
+            <summary>
+            The Catalan.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.ChineseSimplified">
+            <summary>
+            The ChineseSimplified.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.ChineseTraditional">
+            <summary>
+            The ChineseTraditional.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Croatian">
+            <summary>
+            The Croatian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Czech">
+            <summary>
+            The Czech.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Danish">
+            <summary>
+            The Danish.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Dutch">
+            <summary>
+            The Dutch.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.English">
+            <summary>
+            The English. Default value.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Estonian">
+            <summary>
+            The Estonian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Finnish">
+            <summary>
+            The Finnish.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.French">
+            <summary>
+            The French.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.German">
+            <summary>
+            The German.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Greek">
+            <summary>
+            The Greek.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Hebrew">
+            <summary>
+            The Hebrew.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Hungarian">
+            <summary>
+            The Hungarian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Icelandic">
+            <summary>
+            The Icelandic.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Indonesian">
+            <summary>
+            The Indonesian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Italian">
+            <summary>
+            The Italian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Japanese">
+            <summary>
+            The Japanese.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Korean">
+            <summary>
+            The Korean.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Latvian">
+            <summary>
+            The Latvian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Lithuanian">
+            <summary>
+            The Lithuanian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Norwegian">
+            <summary>
+            The Norwegian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Polish">
+            <summary>
+            The Polish.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Portuguese">
+            <summary>
+            The Portuguese.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Romanian">
+            <summary>
+            The Romanian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Russian">
+            <summary>
+            The Russian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Serbian">
+            <summary>
+            The Serbian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Slovak">
+            <summary>
+            The Slovak.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Slovenian">
+            <summary>
+            The Slovenian.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Spanish">
+            <summary>
+            The Spanish.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Swedish">
+            <summary>
+            The Swedish.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.Language.Turkish">
+            <summary>
+            The Turkish.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.Language.op_Implicit(System.String)~Google.API.Search.Language">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.Language"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="T:Google.API.Search.LocalResultType">
+            <summary>
+            The result type of GlocalSearch.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.LocalResultType.Blended">
+            <summary>
+            Request KML, Local Business Listings, and Geocode results.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.LocalResultType.Kmlonly">
+            <summary>
+            Request KML and Geocode results.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.LocalResultType.Localonly">
+            <summary>
+            Request Local Business Listings and Geocode results.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.LocalResultType.op_Implicit(System.String)~Google.API.Search.LocalResultType">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.LocalResultType"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="T:Google.API.Search.NewsEdition">
+            <summary>
+            The edition of news.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Argentina">
+            <summary>
+            Argentina.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Australia">
+            <summary>
+            Australia.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.BelgiumDutch">
+            <summary>
+            België.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.BelgiumFrench">
+            <summary>
+            Belgique.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Botswana">
+            <summary>
+            Botswana.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Brazil">
+            <summary>
+            Brasil.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.CanadaEnglish">
+            <summary>
+            Canada English.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.CanadaFrench">
+            <summary>
+            Canada Français.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.CzechRepublic">
+            <summary>
+            Česká republika.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Chile">
+            <summary>
+            Chile.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Colombia">
+            <summary>
+            Colombia.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Cuba">
+            <summary>
+            Cuba.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Germany">
+            <summary>
+            Deutschland.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Spain">
+            <summary>
+            España.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.UnitedStatesSpanish">
+            <summary>
+            Estados Unidos.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Ethiopia">
+            <summary>
+            Ethiopia.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.France">
+            <summary>
+            France.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Ghana">
+            <summary>
+            Ghana.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.India">
+            <summary>
+            India.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Ireland">
+            <summary>
+            Ireland.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.IsraelEnglish">
+            <summary>
+            Israel English.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Italy">
+            <summary>
+            Italia.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Kenya">
+            <summary>
+            Kenya.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Hungary">
+            <summary>
+            Magyarország.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Malaysia">
+            <summary>
+            Malaysia.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Mexico">
+            <summary>
+            México.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Namibia">
+            <summary>
+            Namibia.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Netherlands">
+            <summary>
+            Nederland.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.NewZealand">
+            <summary>
+            New Zealand.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Nigeria">
+            <summary>
+            Nigeria.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Norway">
+            <summary>
+            Norge.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Austria">
+            <summary>
+            Österreich.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Pakistan">
+            <summary>
+            Pakistan.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Peru">
+            <summary>
+            Perú.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Philippines">
+            <summary>
+            Philippines.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Poland">
+            <summary>
+            Polska.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Portugal">
+            <summary>
+            Portugal.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.SwitzerlandGerman">
+            <summary>
+            Schweiz.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Senegal">
+            <summary>
+            Sénégal.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Singapore">
+            <summary>
+            Singapore.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.SouthAfrica">
+            <summary>
+            South Africa.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.SwitzerlandFrench">
+            <summary>
+            Suisse.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Sweden">
+            <summary>
+            Sverige.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Tanzania">
+            <summary>
+            Tanzania.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Turkey">
+            <summary>
+            Türkiye.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.UnitedKingdom">
+            <summary>
+            U.K..
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.UnitedStates">
+            <summary>
+            U.S..
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Uganda">
+            <summary>
+            Uganda.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Venezuela">
+            <summary>
+            Venezuela.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Vietnam">
+            <summary>
+            Việt Nam (Vietnam).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Zimbabwe">
+            <summary>
+            Zimbabwe.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Greece">
+            <summary>
+            Ελλάδα (Greece).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Russia">
+            <summary>
+            Россия (Russia).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.UkraineRussian">
+            <summary>
+            Украина (Ukraine).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.UkraineUkrainian">
+            <summary>
+            Україна (Ukraine).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Israel">
+            <summary>
+            ישראל (Israel).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.UAE">
+            <summary>
+            الإمارات (UAE).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.KSA">
+            <summary>
+            السعودية (KSA).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Arabic">
+            <summary>
+            العالم العربي (Arabic).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Lebanon">
+            <summary>
+            لبنان (Lebanon).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Egypt">
+            <summary>
+            مصر (Egypt).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.IndiaHindi">
+            <summary>
+            हिन्दी (India).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.IndiaTamil">
+            <summary>
+            தமிழ்(India).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.IndiaTelugu">
+            <summary>
+            తెలుగు (India).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.IndiaMalayalam">
+            <summary>
+            മലയാളം (India).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Korea">
+            <summary>
+            한국 (Korea).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.China">
+            <summary>
+            中国版 (China).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.ChinaTaiwan">
+            <summary>
+            台灣版 (Taiwan).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.Japan">
+            <summary>
+            日本 (Japan).
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsEdition.ChinaHongKong">
+            <summary>
+            香港版 (Hong Kong).
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.NewsEdition.op_Implicit(System.String)~Google.API.Search.NewsEdition">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.NewsEdition"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="T:Google.API.Search.NewsTopic">
+            <summary>
+            The topic of news.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.All">
+            <summary>
+            All topics.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.Headlines">
+            <summary>
+            The Headlines.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.World">
+            <summary>
+            The World.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.Nation">
+            <summary>
+            The Nation.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.Business">
+            <summary>
+            The Business.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.Technology">
+            <summary>
+            The Technology.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.Entertainment">
+            <summary>
+            The Entertainment.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.Sports">
+            <summary>
+            The Sports.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.Health">
+            <summary>
+            The Health.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.Elections">
+            <summary>
+            The Elections.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.Politics">
+            <summary>
+            The Politics.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.Spotlight">
+            <summary>
+            The Spotlight.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.NewsTopic.MostPopuler">
+            <summary>
+            The MostPopular.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.NewsTopic.op_Implicit(System.String)~Google.API.Search.NewsTopic">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.NewsTopic"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="P:Google.API.Search.PhoneNumber.Type">
+            <summary>
+            The value of the .type property can me one of "main", "fax", "mobile", "data", or "". 
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.ResultSize.op_Implicit(System.String)~Google.API.Search.ResultSize">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.ResultSize"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="T:Google.API.Search.SafeLevel">
+            <summary>
+            The search safety level.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.SafeLevel.Off">
+            <summary>
+            Disables safe search filtering.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.SafeLevel.Moderate">
+            <summary>
+            Enables moderate safe search filtering. Default value.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.SafeLevel.Active">
+            <summary>
+            Enables the highest level of safe search filtering.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.SafeLevel.op_Implicit(System.String)~Google.API.Search.SafeLevel">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.SafeLevel"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+        <member name="T:Google.API.Search.SortType">
+            <summary>
+            Sort type enum.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.SortType.Relevance">
+            <summary>
+            Sort by relevance. Default value.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.SortType.Date">
+            <summary>
+            Sort by date.
+            </summary>
+        </member>
+        <member name="F:Google.API.Search.SortType.AscendingDate">
+            <summary>
+            Sort by ascending date.
+            </summary>
+        </member>
+        <member name="M:Google.API.Search.SortType.op_Implicit(System.String)~Google.API.Search.SortType">
+            <summary>
+            Performs an implicit conversion from <see cref="T:System.String"/> to <see cref="T:Google.API.Search.SortType"/>.
+            </summary>
+            <param name="value">The value.</param>
+            <returns>The result of the conversion.</returns>
+        </member>
+    </members>
+</doc>

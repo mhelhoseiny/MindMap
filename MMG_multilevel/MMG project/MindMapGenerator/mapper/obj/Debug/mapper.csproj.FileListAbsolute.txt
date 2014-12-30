@@ -1,0 +1,334 @@
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\obj\Debug\mapper.exe
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\bin\Debug\mapper.exe
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+D:\MMG part2\MMG 14-10\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+I:\MMG 14-10\MindMapGenerator\mapper\obj\Debug\mapper.exe
+I:\MMG 14-10\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+I:\MMG 14-10\MindMapGenerator\mapper\bin\Debug\mapper.exe
+I:\MMG 14-10\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+I:\MMG 14-10\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+I:\MMG 14-10\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+I:\MMG 14-10\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+I:\MMG 14-10\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+I:\MMG 14-10\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+I:\MMG 14-10\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+I:\MMG 14-10\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+I:\MMG 14-10\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+I:\MMG 14-10\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+I:\MMG 14-10\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+I:\MMG 14-10\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.exe
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.exe
+F:\MMG project-23-11-2008\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.exe
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.exe
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.exe
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.exe
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project-19-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.exe
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.exe
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.exe
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.exe
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.exe
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.exe
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\bin\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\obj\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\bin\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\obj\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\bin\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\obj\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.exe
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.exe
+C:\Users\Marwa\Desktop\TheLastOneFromMayANDMona\MMG project 2-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.exe
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.exe
+C:\Users\Teema\Desktop\MMG project 6-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.exe
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.exe
+C:\Users\Teema\Desktop\MMG project 8-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\obj\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\bin\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\obj\Debug\mapper.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\mapper\obj\Debug\mapper.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\Debug\mapper.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\Debug\mapper.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\Debug\WordNetClasses.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\Debug\WordsMatching.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\Debug\SyntacticAnalyzer.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\Debug\WordNetClasses.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\bin\Debug\WordsMatching.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\Debug\WordologyManager.FrmEnrich.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Test.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\Debug\mapper.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\mapper\obj\Debug\mapper.pdb

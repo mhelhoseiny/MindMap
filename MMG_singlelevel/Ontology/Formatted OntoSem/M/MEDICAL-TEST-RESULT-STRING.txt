@@ -1,0 +1,45 @@
+Concept: MEDICAL-TEST-RESULT-STRING
+
+DEFINITION	VALUE	this property links a medical test to the string-like test results that it can return. These are 'string-like' because they are neither lexical entries nor ontological concepts; they are head entries in a special database expressly for test results
+
+IS-A	VALUE	LITERAL-ATTRIBUTE
+
+DOMAIN	SEM	MEDICAL-TEST
+
+
+Inherited from: LITERAL-ATTRIBUTE
+
+RANGE	SEM	1
+
+
+Inherited from: ATTRIBUTE
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

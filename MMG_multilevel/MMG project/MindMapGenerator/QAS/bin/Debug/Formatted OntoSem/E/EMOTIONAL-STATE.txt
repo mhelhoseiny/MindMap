@@ -1,0 +1,54 @@
+Concept: EMOTIONAL-STATE
+
+DEFINITION	VALUE	this attribute conveys animal emotion in rather general terms so that we don't split attributes into countless shades of meaning; a good mood, state of mind, etc., is given a high value, whereas a bad mood or state of mind is given a low value
+
+IS-A	VALUE	SCALAR-ANIMAL-ATTRIBUTE
+
+ENGLISH1	MAP-LEX	devastation-n2
+
+
+Inherited from: SCALAR-ANIMAL-ATTRIBUTE
+
+DOMAIN	SEM	ANIMAL
+
+
+Inherited from: SCALAR-ATTRIBUTE
+
+MEASURED-IN	SEM	MEASURING-UNIT
+
+RANGE	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+
+Inherited from: ATTRIBUTE
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

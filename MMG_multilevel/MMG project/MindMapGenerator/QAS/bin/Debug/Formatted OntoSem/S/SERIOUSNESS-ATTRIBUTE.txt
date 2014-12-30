@@ -1,0 +1,65 @@
+Concept: SERIOUSNESS-ATTRIBUTE
+
+DEFINITION	VALUE	the degree to which a person's personality is serious, solemn, grave, etc.
+
+IS-A	VALUE	SCALAR-ANIMAL-ATTRIBUTE
+
+ENGLISH1	MAP-LEX	earnestness-n1
+			earnestness-n2
+			foolishness-n1
+			foolishness-n2
+			frivolousness-n1
+			frivolousness-n2
+			humorlessness-n1
+			humorlessness-n2
+			seriousness-n1
+			seriousness-n2
+			silliness-n1
+			silliness-n2
+
+
+Inherited from: SCALAR-ANIMAL-ATTRIBUTE
+
+DOMAIN	SEM	ANIMAL
+
+
+Inherited from: SCALAR-ATTRIBUTE
+
+MEASURED-IN	SEM	MEASURING-UNIT
+
+RANGE	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+
+Inherited from: ATTRIBUTE
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

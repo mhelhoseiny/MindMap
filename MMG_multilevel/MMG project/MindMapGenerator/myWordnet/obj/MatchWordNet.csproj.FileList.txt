@@ -1,0 +1,4 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyWordNetClasses.dll.config
+obj\Debug\MyWordNetClasses.dll
+obj\Debug\MyWordNetClasses.pdb

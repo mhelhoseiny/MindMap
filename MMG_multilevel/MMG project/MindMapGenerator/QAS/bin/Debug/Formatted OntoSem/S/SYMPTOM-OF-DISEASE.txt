@@ -1,0 +1,43 @@
+Concept: SYMPTOM-OF-DISEASE
+
+DEFINITION	VALUE	Indicates that the given concept is a symptom pertaining to a disease.
+
+IS-A	VALUE	MEDICAL-RELATION
+
+DOMAIN	DEFAULT	ANIMAL-SYMPTOM
+	SEM	MEDICAL-EVENT
+
+INVERSE	VALUE	CAUSES-SYMPTOM
+
+RANGE	DEFAULT	ANIMAL-DISEASE
+	SEM	ANIMAL-DISORDER
+
+
+Inherited from: MEDICAL-RELATION
+
+NOTES	VALUE	This is a separate tree because some of the relations here connect objects to events, while others connect events to events.
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

@@ -1,0 +1,38 @@
+Concept: HEADED-BY
+
+DEFINITION	VALUE	links an organization with the person (as a social role) that is the head of it
+
+IS-A	VALUE	RELATION
+
+DOMAIN	SEM	SOCIAL-OBJECT
+
+INVERSE	VALUE	HEAD-OF
+
+NOTES	VALUE	This concept replaces the old concept RULED-BY, which was more narrow - unnecessarily narrow.
+
+RANGE	SEM	HUMAN
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

@@ -1,0 +1,52 @@
+Concept: STATE-OF-AFFAIRS
+
+DEFINITION	VALUE	the general state of things; the combination of circumstances at a given time; 0 is very bad, 1 is excellent
+
+IS-A	VALUE	SCALAR-ATTRIBUTE
+
+DOMAIN	SEM	EVENT
+		OBJECT
+
+ENGLISH1	MAP-LEX	condition-n1
+			condition-n2
+			condition-n3
+			in-excellent-shape
+			in-good-shape
+			in_great_shape-adj2
+			in_shape-adj2
+
+NOTES	VALUE	the domain is the HUMANs or SOCIAL-OBJECTs affected by the given state of affairs
+
+
+Inherited from: SCALAR-ATTRIBUTE
+
+MEASURED-IN	SEM	MEASURING-UNIT
+
+RANGE	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

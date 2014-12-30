@@ -1,0 +1,7 @@
+D:\my files\Faculty Years\Post Graduade\Grad projects 2008\MindMapGenerator\MindMapGenerator\MindMapGenerator\obj\Debug\MindMapGenerator.pdb
+D:\my files\Faculty Years\Post Graduade\Grad projects 2008\MindMapGenerator\MindMapGenerator\MindMapGenerator\bin\Debug\MindMapGenerator.dll
+D:\my files\Faculty Years\Post Graduade\Grad projects 2008\MindMapGenerator\MindMapGenerator\MindMapGenerator\bin\Debug\MindMapGenerator.pdb
+D:\my files\Faculty Years\Post Graduade\Grad projects 2008\MindMapGenerator\MindMapGenerator\MindMapGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\my files\Faculty Years\Post Graduade\Grad projects 2008\MindMapGenerator\MindMapGenerator\MindMapGenerator\obj\Debug\MindMapGenerator.Properties.Resources.resources
+D:\my files\Faculty Years\Post Graduade\Grad projects 2008\MindMapGenerator\MindMapGenerator\MindMapGenerator\obj\Debug\MindMapGenerator.csproj.GenerateResource.Cache
+D:\my files\Faculty Years\Post Graduade\Grad projects 2008\MindMapGenerator\MindMapGenerator\MindMapGenerator\obj\Debug\MindMapGenerator.dll

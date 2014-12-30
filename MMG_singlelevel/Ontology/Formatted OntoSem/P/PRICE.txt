@@ -1,0 +1,4 @@
+Concept: PRICE
+
+DEFINITION	VALUE	the amount of money a product is judged to be worth
+

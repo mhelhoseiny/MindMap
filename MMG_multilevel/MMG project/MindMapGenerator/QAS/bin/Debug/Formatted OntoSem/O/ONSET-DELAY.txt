@@ -1,0 +1,50 @@
+Concept: ONSET-DELAY
+
+DEFINITION	VALUE	the amount of time between the time that something is done and its effect -- e.g., a medication might start working only after 24 hours. Onset delay can be a property of an object, like medication, or an event, like drinking alcohol. In the former case, it is a shorthand but a very convenient one, since onset delays for medicines should be recorded with the medicines themselves.
+
+IS-A	VALUE	SCALAR-ATTRIBUTE
+
+MEASURED-IN	SEM	TEMPORAL-UNIT
+
+
+Inherited from: SCALAR-ATTRIBUTE
+
+RANGE	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+
+Inherited from: ATTRIBUTE
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN	SEM	EVENT
+		OBJECT
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

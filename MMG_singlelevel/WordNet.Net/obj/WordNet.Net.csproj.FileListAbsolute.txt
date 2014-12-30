@@ -1,0 +1,20 @@
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Hosting\Razor\bin\Debug\WordNetClasses.dll
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Hosting\Razor\bin\Debug\WordNetClasses.pdb
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\WordNet.Net\obj\Debug\ResolveAssemblyReference.cache
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\WordNet.Net\obj\Debug\WordNetClasses.dll
+D:\FourthYear\second Term\GraduationProject\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\WordNet.Net\obj\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Hosting\Razor\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Hosting\Razor\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\WordNet.Net\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\WordNet.Net\obj\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\Copy of Copy of TMR 26-4( filling)\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\WordNet.Net\obj\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Hosting\Razor\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Hosting\Razor\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\WordNet.Net\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\WordNet.Net\obj\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Copy of TMR 26-4( filling)\Copy of Disamb&Disco 16-3\trial integratoin discourse\Program2\WordNet.Net\obj\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Hosting\Razor\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\Hosting\Razor\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\WordNet.Net\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\WordNet.Net\obj\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\WordNet.Net\obj\Debug\WordNetClasses.pdb

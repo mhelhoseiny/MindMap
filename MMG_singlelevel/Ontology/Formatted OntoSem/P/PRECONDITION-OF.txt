@@ -1,0 +1,40 @@
+Concept: PRECONDITION-OF
+
+DEFINITION	VALUE	the relation that describes the state or property that sets up the precondition
+
+IS-A	VALUE	REASON
+
+DOMAIN	SEM	EVENT
+		PROPERTY
+
+INVERSE	VALUE	PRECONDITION
+
+NOTES	VALUE	The typical case is for the domain or range to be an EVENT. When it is a PROPERTY, it's the existence of that property that is in question: e.g., 'His impatience makes me mad'. It is also possible, in language, for objects to be listed as preconditions and effects: 'The onions made her cry'. This is actually an ellipsis - there was an event in which the onions played a role that made her cry. We have special rules in the analyzer that instantiate an event and use the object as one of its roles.
+
+RANGE	SEM	EVENT
+		PROPERTY
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

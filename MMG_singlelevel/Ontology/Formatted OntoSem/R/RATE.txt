@@ -1,0 +1,46 @@
+Concept: RATE
+
+DEFINITION	VALUE	A quantity measured with respect to another measured quantity; e.g., a snail moves one inch per hour
+
+IS-A	VALUE	SCALAR-EVENT-ATTRIBUTE
+
+NOTES	VALUE	this might overlap with RAPIDITY, but for medical apps we want RATE; need to check lex. and see if we will collapse all RAPIDITY mappings into this
+
+
+Inherited from: SCALAR-EVENT-ATTRIBUTE
+
+DOMAIN	SEM	EVENT
+
+
+Inherited from: SCALAR-ATTRIBUTE
+
+MEASURED-IN	SEM	MEASURING-UNIT
+
+RANGE	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

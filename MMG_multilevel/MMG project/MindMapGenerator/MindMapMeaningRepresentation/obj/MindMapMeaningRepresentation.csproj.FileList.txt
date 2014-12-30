@@ -1,0 +1,13 @@
+bin\Debug\MindMapMeaningRepresentation.dll
+bin\Debug\MindMapMeaningRepresentation.pdb
+bin\Debug\mapper.exe
+bin\Debug\SyntacticAnalyzer.dll
+bin\Debug\WordNetClasses.dll
+bin\Debug\WordsMatching.dll
+bin\Debug\SyntacticAnalyzer.pdb
+bin\Debug\WordNetClasses.pdb
+bin\Debug\mapper.pdb
+bin\Debug\WordsMatching.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MindMapMeaningRepresentation.dll
+obj\Debug\MindMapMeaningRepresentation.pdb

@@ -1,0 +1,10 @@
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\x86\Debug\MapperTool.FrmAddTemporalRelation.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\x86\Debug\MapperTool.FrmCalculateWeights.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\x86\Debug\MapperTool.FrmDomainRelation.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\x86\Debug\MapperTool.frmMREditor.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\x86\Debug\MapperTool.FrmAddEditFrame.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\x86\Debug\MapperTool.FrmCaseRoleRelation.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\x86\Debug\MapperTool.FrmNewTMR.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\x86\Debug\MapperTool.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\MREditor\obj\x86\Debug\MREditor.csproj.GenerateResource.Cache

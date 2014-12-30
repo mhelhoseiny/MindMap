@@ -1,0 +1,59 @@
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.Form1.resources
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.Properties.Resources.resources
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.csproj.GenerateResource.Cache
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\OntologyConceptsEditor.exe
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\OntologyConceptsEditor.pdb
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\mapper.exe
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordNetClasses.dll
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordsMatching.dll
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordNetClasses.pdb
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\mapper.pdb
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordsMatching.pdb
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.exe
+E:\CS_Dept\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.pdb
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.exe
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.pdb
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.Form1.resources
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.Properties.Resources.resources
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.csproj.GenerateResource.Cache
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\OntologyConceptsEditor.exe
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\OntologyConceptsEditor.pdb
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\mapper.exe
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordNetClasses.dll
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordsMatching.dll
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordNetClasses.pdb
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\mapper.pdb
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordsMatching.pdb
+D:\Project\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.projectData.resources
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.exe
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.pdb
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\OntologyConceptsEditor.exe
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\OntologyConceptsEditor.pdb
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\mapper.exe
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordNetClasses.dll
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordsMatching.dll
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordNetClasses.pdb
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\mapper.pdb
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordsMatching.pdb
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\ResolveAssemblyReference.cache
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.Form1.resources
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.projectData.resources
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.Properties.Resources.resources
+D:\old grad\MMG project-26-10-2008\MMG project-26-10-2008\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.csproj.GenerateResource.Cache
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\OntologyConceptsEditor.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\OntologyConceptsEditor.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\mapper.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordNetClasses.dll
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordsMatching.dll
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordNetClasses.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\mapper.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\bin\Debug\WordsMatching.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\ResolveAssemblyReference.cache
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.projectData.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.Properties.Resources.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.csproj.GenerateResource.Cache
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\OntologyConceptsEditor\obj\Debug\OntologyConceptsEditor.frmOntologyEditor.resources

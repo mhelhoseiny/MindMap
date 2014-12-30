@@ -1,0 +1,5 @@
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\Gif\Components\bin\Debug\Gif.Components.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\Gif\Components\bin\Debug\Gif.Components.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\Gif\Components\obj\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\Gif\Components\obj\Debug\Gif.Components.dll
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\Gif\Components\obj\Debug\Gif.Components.pdb

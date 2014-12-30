@@ -1,0 +1,11 @@
+bin\Debug\GraphicalRepresentation.dll
+bin\Debug\GraphicalRepresentation.pdb
+bin\Debug\Ilan.Google.API.dll
+bin\Debug\MindMapGenerator.exe
+bin\Debug\Ilan.Google.API.pdb
+bin\Debug\MindMapGenerator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GraphicalRepresentation.Properties.Resources.resources
+obj\Debug\GoogleImageDrawingEntity.csproj.GenerateResource.Cache
+obj\Debug\GraphicalRepresentation.dll
+obj\Debug\GraphicalRepresentation.pdb

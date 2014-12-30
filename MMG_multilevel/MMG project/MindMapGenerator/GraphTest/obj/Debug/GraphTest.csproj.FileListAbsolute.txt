@@ -1,0 +1,282 @@
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 21-12-2008\GraphTest\obj\Debug\GraphTest.exe
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 21-12-2008\GraphTest\obj\Debug\GraphTest.pdb
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 21-12-2008\GraphTest\bin\Debug\GraphTest.exe
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 21-12-2008\GraphTest\bin\Debug\GraphTest.pdb
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 21-12-2008\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 21-12-2008\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 21-12-2008\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 21-12-2008\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 21-12-2008\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 21-12-2008\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.exe
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.pdb
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 22-12-2008\GraphTest\bin\Debug\GraphTest.exe
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 22-12-2008\GraphTest\bin\Debug\GraphTest.pdb
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+D:\my files\Faculty Years\Post Graduade\Graduation Projects\GP 2009\MMG projects\Nested MMG\automatic layout allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 22-12-2008\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 22-12-2008\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 22-12-2008\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 13-2-2009\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 13-2-2009\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 13-2-2009\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 13-2-2009\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 13-2-2009\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 13-2-2009\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 13-2-2009\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 13-2-2009\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 13-2-2009\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 13-2-2009\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 14-2-2009\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 14-2-2009\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 14-2-2009\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 14-2-2009\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 14-2-2009\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 14-2-2009\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 14-2-2009\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 14-2-2009\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 14-2-2009\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 14-2-2009\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 15-2-2009\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 15-2-2009\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 15-2-2009\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 15-2-2009\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 15-2-2009\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 15-2-2009\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 15-2-2009\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 15-2-2009\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 15-2-2009\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Automatic Layout Allocation\GraphTest 15-2-2009\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+F:\MMG project-6-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+D:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+F:\MMG project-18-2-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 4-3-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\MMG project 2-4-2009\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\MMG project 2-4-2009  12,29 pm\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\MMG project 3-4-2009  10,47 am\MMG Final  8-7 8 belel\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 9-4-2009  12,04 pm\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 23-4-2009  10,11 am\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+E:\Work\Grad Project materials\2008-2009\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 30-4-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 6-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 9-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 10-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 11-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 12-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 13-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 14-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project 15-6-2009\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+C:\My Stuff_Stay Away\Courses\Mind Map Generator\Copy of MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+F:\Mind Map Generator, 2nd Edition\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+F:\Mind Map Generator, 2nd Edition\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\GraphTest\bin\Debug\GraphTest.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\GraphTest\bin\Debug\GraphTest.pdb
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\GraphTest\obj\Debug\ResolveAssemblyReference.cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.GraphForm.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.FWMatrix.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.Properties.Resources.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.SpringModelReportStatus.resources
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.csproj.GenerateResource.Cache
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.exe
+F:\Mohamed ELhoseiny\Research\English2MindMap\MMG2009\MMG project\MindMapGenerator\GraphTest\obj\Debug\GraphTest.pdb

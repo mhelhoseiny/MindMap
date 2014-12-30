@@ -1,0 +1,46 @@
+Concept: REASON
+
+DEFINITION	VALUE	this concept covers both causes and purposes, which sometimes overlap (e.g., in 'I don't know _why_ he ran into the building', the actual reason could be 'because there was gunfire on the street' [caused-by: gunfire] or 'to get a screw driver' [purpose: get a screwdriver]
+
+IS-A	VALUE	DISCOURSE-RELATION
+
+SUBCLASSES	VALUE	ALTERNATIVE
+			ALTERNATIVE-OF
+			CAUSED-BY
+			EFFECT
+			PRECONDITION
+			PRECONDITION-OF
+			PURPOSE
+			PURPOSE-OF
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN	SEM	EVENT
+		OBJECT
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+RANGE	SEM	ALL
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+
+NOTES	SEM	ALL
+

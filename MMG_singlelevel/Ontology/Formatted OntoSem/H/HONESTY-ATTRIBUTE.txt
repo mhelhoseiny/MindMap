@@ -1,0 +1,68 @@
+Concept: HONESTY-ATTRIBUTE
+
+DEFINITION	VALUE	the degree of honesty with which a person or group conducts himself or themselves
+
+IS-A	VALUE	SCALAR-ANIMAL-ATTRIBUTE
+
+DOMAIN	SEM	BEHAVE
+
+ENGLISH1	MAP-LEX	candor-n1
+			candor-n2
+			deceitfulness-n1
+			deceitfulness-n2
+			dishonesty-n1
+			dishonesty-n2
+			frankness-n1
+			frankness-n2
+			honesty-n1
+			honesty-n2
+			insincerity-n1
+			insincerity-n2
+			sincerity-n1
+			sincerity-n2
+			truthfulness-n1
+			truthfulness-n2
+			untruthfulness-n1
+			untruthfulness-n2
+
+
+Inherited from: SCALAR-ATTRIBUTE
+
+MEASURED-IN	SEM	MEASURING-UNIT
+
+RANGE	SEM	(<> 0 1)
+		ANY-NUMBER
+		ANY-RANGE
+
+
+Inherited from: ATTRIBUTE
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

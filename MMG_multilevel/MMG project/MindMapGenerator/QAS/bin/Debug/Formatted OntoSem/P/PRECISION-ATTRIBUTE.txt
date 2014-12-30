@@ -1,0 +1,64 @@
+Concept: PRECISION-ATTRIBUTE
+
+DEFINITION	VALUE	an attribute that indicates the precision of something - whether it is precise, approximate, etc. Note that this is not the same as accuracy, which says whether it's right or wrong (something can be, for example, correct but at a coarse grain size so therefore imprecise)
+
+IS-A	VALUE	SCALAR-ATTRIBUTE
+
+DOMAIN	SEM	EVENT
+		OBJECT
+
+ENGLISH1	MAP-LEX	accuracy-n1
+			accurateness-n1
+			accurateness-n2
+			erroneousness-n1
+			erroneousness-n2
+			exactness-n1
+			exactness-n2
+			imprecision-n1
+			imprecision-n2
+			inaccuracy-n1
+			inaccuracy-n2
+			incorrectness-n1
+			incorrectness-n2
+			precision-n1
+			precision-n2
+
+RANGE	SEM	(<> 0 1)
+
+
+Inherited from: SCALAR-ATTRIBUTE
+
+MEASURED-IN	SEM	MEASURING-UNIT
+
+
+Inherited from: ATTRIBUTE
+
+NOTES	VALUE	BY-DEFINITION
+		WE-JUST-MARK-IT-AS-ALL-SIMPLY-TO-AVOID-ANY-TYPE-CHECKING
+		the-RANGE-of-ATTRIBUTEs-cannot-be-a-concept.-We-express-it-as-RANGE-NOT-ALL
+		the-correct-value-of-RANGE-of-ATTRIBUTE-is-the-union-of-all-the-scales-and-sets-of-literal-values-that-the-system-allows;-in-the-meantime
+
+
+Inherited from: PROPERTY
+
+CAUSED-BY	SEM	EVENT
+			PROPERTY
+
+CUSTOMARY-FOR	SEM	ANIMAL
+
+DOMAIN-OF	SEM	CAUSED-BY
+			PRECONDITION
+
+HAS-UNEXPECTED-OUTCOME	SEM	OBJECT
+
+PRECONDITION	SEM	EVENT
+			PROPERTY
+
+PROPERTY-MEASURED	SEM	EVENT
+				MEASURE
+
+
+Inherited from: ALL
+
+THEME-OF	RELAXABLE-TO	REQUEST-INFO
+

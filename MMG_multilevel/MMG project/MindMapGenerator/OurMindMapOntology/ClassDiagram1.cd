@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="OurMindMapOntology.MindMapConcept">
+    <Position X="1" Y="0.5" Width="4" />
+    <Members>
+      <Field Name="_defintion" Hidden="true" />
+      <Field Name="_disjoints" Hidden="true" />
+      <Field Name="_maplex" Hidden="true" />
+      <Field Name="_name" Hidden="true" />
+      <Field Name="_parent" Hidden="true" />
+      <Field Name="_properties" Hidden="true" />
+      <Field Name="_VisualProperties" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BAAAIAAAAAAAEAAEwACgQAQQAQBAAIBAAQAAAAETAiA=</HashCode>
+      <FileName>MindMapConcept.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OurMindMapOntology.MindMapMapper">
+    <Position X="5.75" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MindMapMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OurMindMapOntology.DistanceInfo">
+    <Position X="0.5" Y="3" Width="6.5" />
+    <Members>
+      <Field Name="_c1ToParentDistance" Hidden="true" />
+      <Field Name="_c1ToParentPath" Hidden="true" />
+      <Field Name="_c2ToParentDistance" Hidden="true" />
+      <Field Name="_distance" Hidden="true" />
+      <Field Name="_parent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>QBAAAAAAAAAAAQAACAAAQIAQAAAAAABAAAAAAAAAIAI=</HashCode>
+      <FileName>DistanceInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OurMindMapOntology.MindMapOntology">
+    <Position X="4" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAACIAAABAAAAAAAAAAAAQACABACAEAQAAIA=</HashCode>
+      <FileName>MindMapOntology.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

@@ -1,0 +1,50 @@
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\obj\Debug\ResolveAssemblyReference.cache
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\obj\Debug\OntologyLibrary.Form1.resources
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\obj\Debug\mapper.exe
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\bin\Debug\mapper.exe
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\bin\Debug\mapper.pdb
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\bin\Debug\WordNetClasses.dll
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\bin\Debug\WordsMatching.dll
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\bin\Debug\WordNetClasses.pdb
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\bin\Debug\WordsMatching.pdb
+D:\GP\our work\trial integratoin discourse 16-3\Program2\mapper\obj\Debug\mapper.pdb
+D:\GP\our work\last version MMG\Program2\mapper\obj\Debug\mapper.exe
+D:\GP\our work\last version MMG\Program2\mapper\obj\Debug\mapper.pdb
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\mapper.exe
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\mapper.pdb
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\mapper.exe
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\mapper.pdb
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordNetClasses.dll
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordsMatching.dll
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordNetClasses.pdb
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordsMatching.pdb
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\ResolveAssemblyReference.cache
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\OntologyLibrary.Form1.resources
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+D:\GP\our work\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\mapper.exe
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\mapper.pdb
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\mapper.exe
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\mapper.pdb
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordNetClasses.dll
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordsMatching.dll
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordNetClasses.pdb
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordsMatching.pdb
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\ResolveAssemblyReference.cache
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\OntologyLibrary.Form1.resources
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+D:\GP\our work\last version MMG with mapper 19-4 new trial\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\mapper.exe
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\mapper.pdb
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordNetClasses.dll
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordsMatching.dll
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordNetClasses.pdb
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\bin\Debug\WordsMatching.pdb
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\ResolveAssemblyReference.cache
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\OntologyLibrary.Form1.resources
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\OntologyLibrary.Properties.Resources.resources
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\mapper.csproj.GenerateResource.Cache
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\mapper.exe
+D:\GP\our work\current version\last version MMG with mapper\last version MMG\Program2\mapper\obj\Debug\mapper.pdb

@@ -1,0 +1,9 @@
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\SyntacticAnalyzer\obj\Debug\ResolveAssemblyReference.cache
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\SyntacticAnalyzer\bin\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\SyntacticAnalyzer\bin\Debug\SyntacticAnalyzer.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\SyntacticAnalyzer\bin\Debug\WordNetClasses.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\SyntacticAnalyzer\bin\Debug\WordsMatching.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\SyntacticAnalyzer\bin\Debug\WordNetClasses.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\SyntacticAnalyzer\bin\Debug\WordsMatching.pdb
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\SyntacticAnalyzer\obj\Debug\SyntacticAnalyzer.dll
+D:\Fourth Year\2nd-term\Graduation Project\TMR 5-6( filling)1\MindMapGenerator\SyntacticAnalyzer\obj\Debug\SyntacticAnalyzer.pdb
