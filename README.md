@@ -1,10 +1,15 @@
 MindMap
 =======
-This is the code in C# for Single Level and Multilevel MindMap Generation. 
+This is the code in C# for Single Level and Multilevel MindMap Generation. Tested on Windows 7 and Windows 8. 
 
 Disclaimer
 ===========
 These functions are NOT rigorously tested and may contain bugs. Please do NOT use them without rigorous testing for any life critial applications!
+
+Prerequisites
+===============
+WordNet 2.1
+Google Image Search API
 
 
 License
