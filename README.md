@@ -8,9 +8,9 @@ These functions are NOT rigorously tested and may contain bugs. Please do NOT us
 
 Prerequisites
 ===============
-WordNet 2.1
+WordNet 2.1 http://wordnet.princeton.edu/wordnet/download/
 
-Google Image Search API
+Google Image Search API https://developers.google.com/image-search/
 
 
 License
